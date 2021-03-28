@@ -1,0 +1,260 @@
+bolster:
+  max: 82.400857 km
+  mean: 50.707273 km
+  stdDev: 22.956148 km
+reach:
+  max: 82.400857 km
+  mean: 50.642902 km
+  stdDev: 23.080265 km
+reachRank:
+- - - '105'
+    - Christian Ciech
+  - frac: 1
+    reach: 82.400857 km
+- - - '106'
+    - Lorenzo De Grandis
+  - frac: 1
+    reach: 82.400857 km
+- - - '134'
+    - Roland Wöhrle
+  - frac: 1
+    reach: 82.400857 km
+- - - '119'
+    - Christian Pollet
+  - frac: 1
+    reach: 82.400857 km
+- - - '113'
+    - Marco Laurenzi
+  - frac: 0.97506094
+    reach: 80.345857 km
+- - - '115'
+    - ERIC MATHURIN
+  - frac: 0.66501562
+    reach: 54.797857 km
+- - - '123'
+    - Sasha Serebrennikova
+  - frac: 0.66264914
+    reach: 54.602857 km
+- - - '104'
+    - Valentino Bau
+  - frac: 0.66186031
+    reach: 54.537857 km
+- - - '130'
+    - Oliver Salewski
+  - frac: 0.66158119
+    reach: 54.514857 km
+- - - '118'
+    - Suan Selenati
+  - frac: 0.66059819
+    reach: 54.433857 km
+- - - '133'
+    - Johann Courtain
+  - frac: 0.65919044
+    reach: 54.317857 km
+- - - '107'
+    - Joost Eertman
+  - frac: 0.65860792
+    reach: 54.269857 km
+- - - '103'
+    - Joerg Bajewski
+  - frac: 0.65681182
+    reach: 54.121857 km
+- - - '110'
+    - Tullio Gervasoni
+  - frac: 0.65427544
+    reach: 53.912857 km
+- - - '108'
+    - Jean louis FOGLIA
+  - frac: 0.63669067
+    reach: 52.463857 km
+- - - '124'
+    - Rousselet Simon
+  - frac: 0.63372954
+    reach: 52.219857 km
+- - - '132'
+    - Emiel Jansen
+  - frac: 0.34302868
+    reach: 28.265857 km
+- - - '126'
+    - Andrea Theodoli
+  - frac: 0.32529828
+    reach: 26.804857 km
+- - - '114'
+    - Konrad Lueders
+  - frac: 0.24783549
+    reach: 20.421857 km
+- - - '129'
+    - Stepan Zubashev
+  - frac: 0.22938908
+    reach: 18.901857 km
+- - - '109'
+    - Marcello Ciarlo
+  - frac: 0.12163535
+    reach: 10.022857 km
+- - - '131'
+    - Jurgen Buchert
+  - frac: 6.776455e-2
+    reach: 5.583857 km
+nigh:
+- - - '113'
+    - Marco Laurenzi
+  - togo:
+      distance: 2.055000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 80.345857 km
+- - - '118'
+    - Suan Selenati
+  - togo:
+      distance: 27.967000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 54.433857 km
+- - - '104'
+    - Valentino Bau
+  - togo:
+      distance: 27.863000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 54.537857 km
+- - - '115'
+    - ERIC MATHURIN
+  - togo:
+      distance: 27.603000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 54.797857 km
+- - - '130'
+    - Oliver Salewski
+  - togo:
+      distance: 27.886000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 54.514857 km
+- - - '123'
+    - Sasha Serebrennikova
+  - togo:
+      distance: 27.798000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 54.602857 km
+- - - '103'
+    - Joerg Bajewski
+  - togo:
+      distance: 28.279000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 54.121857 km
+- - - '108'
+    - Jean louis FOGLIA
+  - togo:
+      distance: 29.937000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 52.463857 km
+- - - '110'
+    - Tullio Gervasoni
+  - togo:
+      distance: 28.488000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 53.912857 km
+- - - '133'
+    - Johann Courtain
+  - togo:
+      distance: 28.083000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 54.317857 km
+- - - '107'
+    - Joost Eertman
+  - togo:
+      distance: 28.131000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 54.269857 km
+- - - '124'
+    - Rousselet Simon
+  - togo:
+      distance: 30.181000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 52.219857 km
+- - - '126'
+    - Andrea Theodoli
+  - togo:
+      distance: 55.596000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 26.804857 km
+- - - '132'
+    - Emiel Jansen
+  - togo:
+      distance: 54.135000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 28.265857 km
+- - - '114'
+    - Konrad Lueders
+  - togo:
+      distance: 61.979000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 20.421857 km
+- - - '129'
+    - Stepan Zubashev
+  - togo:
+      distance: 63.499000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 18.901857 km
+- - - '109'
+    - Marcello Ciarlo
+  - togo:
+      distance: 72.378000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 10.022857 km
+- - - '131'
+    - Jurgen Buchert
+  - togo:
+      distance: 76.817000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 5.583857 km

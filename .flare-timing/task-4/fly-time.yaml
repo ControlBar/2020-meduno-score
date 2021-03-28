@@ -1,0 +1,364 @@
+suspectDnf:
+- - '112'
+  - Marco Gröbner
+- - '122'
+  - Pieter Speeleveld
+flying:
+- - - '126'
+    - Andrea Theodoli
+  - loggedFixes: 14357
+    flyingFixes:
+    - 0
+    - 6885
+    loggedSeconds: 14356
+    flyingSeconds:
+    - 0
+    - 6885
+    loggedTimes:
+    - 2020-09-13T11:08:38Z
+    - 2020-09-13T15:07:54Z
+    flyingTimes:
+    - 2020-09-13T11:08:38Z
+    - 2020-09-13T13:03:23Z
+- - - '105'
+    - Christian Ciech
+  - loggedFixes: 14563
+    flyingFixes:
+    - 0
+    - 11348
+    loggedSeconds: 14562
+    flyingSeconds:
+    - 0
+    - 11348
+    loggedTimes:
+    - 2020-09-13T11:05:25Z
+    - 2020-09-13T15:08:07Z
+    flyingTimes:
+    - 2020-09-13T11:05:25Z
+    - 2020-09-13T14:14:33Z
+- - - '119'
+    - Christian Pollet
+  - loggedFixes: 14359
+    flyingFixes:
+    - 0
+    - 11557
+    loggedSeconds: 14358
+    flyingSeconds:
+    - 0
+    - 11557
+    loggedTimes:
+    - 2020-09-13T11:09:19Z
+    - 2020-09-13T15:08:37Z
+    flyingTimes:
+    - 2020-09-13T11:09:19Z
+    - 2020-09-13T14:21:56Z
+- - - '115'
+    - ERIC MATHURIN
+  - loggedFixes: 14473
+    flyingFixes:
+    - 0
+    - 10351
+    loggedSeconds: 14472
+    flyingSeconds:
+    - 0
+    - 10351
+    loggedTimes:
+    - 2020-09-13T11:07:17Z
+    - 2020-09-13T15:08:29Z
+    flyingTimes:
+    - 2020-09-13T11:07:17Z
+    - 2020-09-13T13:59:48Z
+- - - '132'
+    - Emiel Jansen
+  - loggedFixes: 14421
+    flyingFixes:
+    - 0
+    - 5816
+    loggedSeconds: 14420
+    flyingSeconds:
+    - 0
+    - 5816
+    loggedTimes:
+    - 2020-09-13T11:08:04Z
+    - 2020-09-13T15:08:24Z
+    flyingTimes:
+    - 2020-09-13T11:08:04Z
+    - 2020-09-13T12:45:00Z
+- - - '108'
+    - Jean louis FOGLIA
+  - loggedFixes: 20320
+    flyingFixes:
+    - 6563
+    - 19449
+    loggedSeconds: 20319
+    flyingSeconds:
+    - 6563
+    - 19449
+    loggedTimes:
+    - 2020-09-13T09:29:53Z
+    - 2020-09-13T15:08:32Z
+    flyingTimes:
+    - 2020-09-13T11:19:16Z
+    - 2020-09-13T14:54:02Z
+- - - '103'
+    - Joerg Bajewski
+  - loggedFixes: 14429
+    flyingFixes:
+    - 0
+    - 14120
+    loggedSeconds: 14428
+    flyingSeconds:
+    - 0
+    - 14120
+    loggedTimes:
+    - 2020-09-13T11:07:49Z
+    - 2020-09-13T15:08:17Z
+    flyingTimes:
+    - 2020-09-13T11:07:49Z
+    - 2020-09-13T15:03:09Z
+- - - '133'
+    - Johann Courtain
+  - loggedFixes: 14272
+    flyingFixes:
+    - 0
+    - 13588
+    loggedSeconds: 14338
+    flyingSeconds:
+    - 0
+    - 13655
+    loggedTimes:
+    - 2020-09-13T11:09:38Z
+    - 2020-09-13T15:08:36Z
+    flyingTimes:
+    - 2020-09-13T11:09:38Z
+    - 2020-09-13T14:57:13Z
+- - - '107'
+    - Joost Eertman
+  - loggedFixes: 13961
+    flyingFixes:
+    - 0
+    - 13640
+    loggedSeconds: 13962
+    flyingSeconds:
+    - 0
+    - 13642
+    loggedTimes:
+    - 2020-09-13T11:04:45Z
+    - 2020-09-13T14:57:27Z
+    flyingTimes:
+    - 2020-09-13T11:04:45Z
+    - 2020-09-13T14:52:07Z
+- - - '131'
+    - Jurgen Buchert
+  - loggedFixes: 12152
+    flyingFixes:
+    - 0
+    - 7367
+    loggedSeconds: 12170
+    flyingSeconds:
+    - 0
+    - 7386
+    loggedTimes:
+    - 2020-09-13T11:16:18Z
+    - 2020-09-13T14:39:08Z
+    flyingTimes:
+    - 2020-09-13T11:16:18Z
+    - 2020-09-13T13:19:24Z
+- - - '114'
+    - Konrad Lueders
+  - loggedFixes: 13560
+    flyingFixes:
+    - 0
+    - 3753
+    loggedSeconds: 13559
+    flyingSeconds:
+    - 0
+    - 3753
+    loggedTimes:
+    - 2020-09-13T11:22:19Z
+    - 2020-09-13T15:08:18Z
+    flyingTimes:
+    - 2020-09-13T11:22:19Z
+    - 2020-09-13T12:24:52Z
+- - - '106'
+    - Lorenzo De Grandis
+  - loggedFixes: 12889
+    flyingFixes:
+    - 0
+    - 11453
+    loggedSeconds: 12894
+    flyingSeconds:
+    - 0
+    - 11459
+    loggedTimes:
+    - 2020-09-13T11:05:10Z
+    - 2020-09-13T14:40:04Z
+    flyingTimes:
+    - 2020-09-13T11:05:10Z
+    - 2020-09-13T14:16:09Z
+- - - '109'
+    - Marcello Ciarlo
+  - loggedFixes: 9515
+    flyingFixes:
+    - 0
+    - 2581
+    loggedSeconds: 9514
+    flyingSeconds:
+    - 0
+    - 2581
+    loggedTimes:
+    - 2020-09-13T11:31:09Z
+    - 2020-09-13T14:09:43Z
+    flyingTimes:
+    - 2020-09-13T11:31:09Z
+    - 2020-09-13T12:14:10Z
+- - - '112'
+    - Marco Gröbner
+  - null
+- - - '113'
+    - Marco Laurenzi
+  - loggedFixes: 20190
+    flyingFixes:
+    - 5650
+    - 17199
+    loggedSeconds: 20211
+    flyingSeconds:
+    - 5650
+    - 17221
+    loggedTimes:
+    - 2020-09-13T09:31:43Z
+    - 2020-09-13T15:08:34Z
+    flyingTimes:
+    - 2020-09-13T11:05:53Z
+    - 2020-09-13T14:18:44Z
+- - - '130'
+    - Oliver Salewski
+  - loggedFixes: 14490
+    flyingFixes:
+    - 0
+    - 14416
+    loggedSeconds: 14489
+    flyingSeconds:
+    - 0
+    - 14416
+    loggedTimes:
+    - 2020-09-13T11:06:59Z
+    - 2020-09-13T15:08:28Z
+    flyingTimes:
+    - 2020-09-13T11:06:59Z
+    - 2020-09-13T15:07:15Z
+- - - '122'
+    - Pieter Speeleveld
+  - null
+- - - '134'
+    - Roland Wöhrle
+  - loggedFixes: 13686
+    flyingFixes:
+    - 0
+    - 11603
+    loggedSeconds: 13685
+    flyingSeconds:
+    - 0
+    - 11603
+    loggedTimes:
+    - 2020-09-13T11:03:24Z
+    - 2020-09-13T14:51:29Z
+    flyingTimes:
+    - 2020-09-13T11:03:24Z
+    - 2020-09-13T14:16:47Z
+- - - '124'
+    - Rousselet Simon
+  - loggedFixes: 13847
+    flyingFixes:
+    - 0
+    - 12010
+    loggedSeconds: 13846
+    flyingSeconds:
+    - 0
+    - 12010
+    loggedTimes:
+    - 2020-09-13T11:17:56Z
+    - 2020-09-13T15:08:42Z
+    flyingTimes:
+    - 2020-09-13T11:17:56Z
+    - 2020-09-13T14:38:06Z
+- - - '123'
+    - Sasha Serebrennikova
+  - loggedFixes: 14510
+    flyingFixes:
+    - 0
+    - 13950
+    loggedSeconds: 14509
+    flyingSeconds:
+    - 0
+    - 13950
+    loggedTimes:
+    - 2020-09-13T11:06:31Z
+    - 2020-09-13T15:08:20Z
+    flyingTimes:
+    - 2020-09-13T11:06:31Z
+    - 2020-09-13T14:59:01Z
+- - - '129'
+    - Stepan Zubashev
+  - loggedFixes: 13762
+    flyingFixes:
+    - 0
+    - 5954
+    loggedSeconds: 13761
+    flyingSeconds:
+    - 0
+    - 5954
+    loggedTimes:
+    - 2020-09-13T11:18:56Z
+    - 2020-09-13T15:08:17Z
+    flyingTimes:
+    - 2020-09-13T11:18:56Z
+    - 2020-09-13T12:58:10Z
+- - - '118'
+    - Suan Selenati
+  - loggedFixes: 14907
+    flyingFixes:
+    - 0
+    - 12726
+    loggedSeconds: 14906
+    flyingSeconds:
+    - 0
+    - 12726
+    loggedTimes:
+    - 2020-09-13T11:00:17Z
+    - 2020-09-13T15:08:43Z
+    flyingTimes:
+    - 2020-09-13T11:00:17Z
+    - 2020-09-13T14:32:23Z
+- - - '110'
+    - Tullio Gervasoni
+  - loggedFixes: 14752
+    flyingFixes:
+    - 0
+    - 13607
+    loggedSeconds: 14751
+    flyingSeconds:
+    - 0
+    - 13607
+    loggedTimes:
+    - 2020-09-13T11:02:22Z
+    - 2020-09-13T15:08:13Z
+    flyingTimes:
+    - 2020-09-13T11:02:22Z
+    - 2020-09-13T14:49:09Z
+- - - '104'
+    - Valentino Bau
+  - loggedFixes: 13945
+    flyingFixes:
+    - 0
+    - 13128
+    loggedSeconds: 13944
+    flyingSeconds:
+    - 0
+    - 13128
+    loggedTimes:
+    - 2020-09-13T11:16:04Z
+    - 2020-09-13T15:08:28Z
+    flyingTimes:
+    - 2020-09-13T11:16:04Z
+    - 2020-09-13T14:54:52Z

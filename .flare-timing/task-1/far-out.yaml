@@ -1,0 +1,255 @@
+bestDistance: 59.144830 km
+chunking:
+  startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 601
+  - 60.1 km
+  sumOf: 1712
+landout: 21
+lookahead: 84
+difficulty:
+- chunk: 51
+  startChunk: 5.1 km
+  endChunk: 5.2 km
+  endAhead: 13.6 km
+  down: 1
+  downs:
+  - 5.153 km
+  downers:
+  - - '131'
+    - Jurgen Buchert
+  downward: 14
+  rel: 4.08879e-3
+  frac: 0.11450195
+- chunk: 64
+  startChunk: 6.4 km
+  endChunk: 6.5 km
+  endAhead: 14.9 km
+  down: 1
+  downs:
+  - 6.448 km
+  downers:
+  - - '132'
+    - Emiel Jansen
+  downward: 13
+  rel: 3.79673e-3
+  frac: 0.16381836
+- chunk: 82
+  startChunk: 8.2 km
+  endChunk: 8.3 km
+  endAhead: 16.7 km
+  down: 1
+  downs:
+  - 8.231 km
+  downers:
+  - - '122'
+    - Pieter Speeleveld
+  downward: 13
+  rel: 3.79673e-3
+  frac: 0.22875977
+- chunk: 85
+  startChunk: 8.5 km
+  endChunk: 8.6 km
+  endAhead: 17.0 km
+  down: 1
+  downs:
+  - 8.595 km
+  downers:
+  - - '133'
+    - Johann Courtain
+  downward: 13
+  rel: 3.79673e-3
+  frac: 0.23950195
+- chunk: 98
+  startChunk: 9.8 km
+  endChunk: 9.9 km
+  endAhead: 18.3 km
+  down: 1
+  downs:
+  - 9.888 km
+  downers:
+  - - '102'
+    - Walter Bacchi
+  downward: 12
+  rel: 3.50467e-3
+  frac: 0.28515625
+- chunk: 113
+  startChunk: 11.3 km
+  endChunk: 11.4 km
+  endAhead: 19.8 km
+  down: 3
+  downs:
+  - 11.326 km
+  - 11.356 km
+  - 11.385 km
+  downers:
+  - - '129'
+    - Stepan Zubashev
+  - - '119'
+    - Christian Pollet
+  - - '103'
+    - Joerg Bajewski
+  downward: 11
+  rel: 3.21262e-3
+  frac: 0.33325195
+- chunk: 114
+  startChunk: 11.4 km
+  endChunk: 11.5 km
+  endAhead: 19.9 km
+  down: 1
+  downs:
+  - 11.439 km
+  downers:
+  - - '110'
+    - Tullio Gervasoni
+  downward: 8
+  rel: 2.33645e-3
+  frac: 0.33569336
+- chunk: 119
+  startChunk: 11.9 km
+  endChunk: 12.0 km
+  endAhead: 20.4 km
+  down: 2
+  downs:
+  - 11.915 km
+  - 11.980 km
+  downers:
+  - - '109'
+    - Marcello Ciarlo
+  - - '101'
+    - Vanni Accattoli
+  downward: 7
+  rel: 2.04439e-3
+  frac: 0.34570312
+- chunk: 123
+  startChunk: 12.3 km
+  endChunk: 12.4 km
+  endAhead: 20.8 km
+  down: 1
+  downs:
+  - 12.304 km
+  downers:
+  - - '124'
+    - Rousselet Simon
+  downward: 5
+  rel: 1.46028e-3
+  frac: 0.3515625
+- chunk: 125
+  startChunk: 12.5 km
+  endChunk: 12.6 km
+  endAhead: 21.0 km
+  down: 1
+  downs:
+  - 12.596 km
+  downers:
+  - - '114'
+    - Konrad Lueders
+  downward: 4
+  rel: 1.16822e-3
+  frac: 0.35400391
+- chunk: 127
+  startChunk: 12.7 km
+  endChunk: 12.8 km
+  endAhead: 21.2 km
+  down: 1
+  downs:
+  - 12.712 km
+  downers:
+  - - '108'
+    - Jean louis FOGLIA
+  downward: 3
+  rel: 8.7617e-4
+  frac: 0.35571289
+- chunk: 160
+  startChunk: 16.0 km
+  endChunk: 16.1 km
+  endAhead: 24.5 km
+  down: 1
+  downs:
+  - 16.076 km
+  downers:
+  - - '126'
+    - Andrea Theodoli
+  downward: 4
+  rel: 1.16822e-3
+  frac: 0.38110352
+- chunk: 168
+  startChunk: 16.8 km
+  endChunk: 16.9 km
+  endAhead: 25.3 km
+  down: 1
+  downs:
+  - 16.887 km
+  downers:
+  - - '118'
+    - Suan Selenati
+  downward: 3
+  rel: 8.7617e-4
+  frac: 0.38818359
+- chunk: 226
+  startChunk: 22.6 km
+  endChunk: 22.7 km
+  endAhead: 31.1 km
+  down: 1
+  downs:
+  - 22.626 km
+  downers:
+  - - '115'
+    - ERIC MATHURIN
+  downward: 3
+  rel: 8.7617e-4
+  frac: 0.4387207
+- chunk: 241
+  startChunk: 24.1 km
+  endChunk: 24.2 km
+  endAhead: 32.6 km
+  down: 1
+  downs:
+  - 24.164 km
+  downers:
+  - - '106'
+    - Lorenzo De Grandis
+  downward: 2
+  rel: 5.8411e-4
+  frac: 0.44750977
+- chunk: 253
+  startChunk: 25.3 km
+  endChunk: 25.4 km
+  endAhead: 33.8 km
+  down: 1
+  downs:
+  - 25.319 km
+  downers:
+  - - '104'
+    - Valentino Bau
+  downward: 3
+  rel: 8.7617e-4
+  frac: 0.45507812
+- chunk: 327
+  startChunk: 32.7 km
+  endChunk: 32.8 km
+  endAhead: 41.2 km
+  down: 1
+  downs:
+  - 32.725 km
+  downers:
+  - - '123'
+    - Sasha Serebrennikova
+  downward: 2
+  rel: 5.8411e-4
+  frac: 0.49829102
+- chunk: 333
+  startChunk: 33.3 km
+  endChunk: 33.4 km
+  endAhead: 41.8 km
+  down: 1
+  downs:
+  - 33.358 km
+  downers:
+  - - '130'
+    - Oliver Salewski
+  downward: 1
+  rel: 2.9206e-4
+  frac: 0.5

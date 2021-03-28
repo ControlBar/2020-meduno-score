@@ -1,0 +1,155 @@
+bestDistance: 84.498418 km
+chunking:
+  startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 851
+  - 85.1 km
+  sumOf: 2258
+landout: 11
+lookahead: 230
+difficulty:
+- chunk: 62
+  startChunk: 6.2 km
+  endChunk: 6.3 km
+  endAhead: 29.3 km
+  down: 1
+  downs:
+  - 6.297 km
+  downers:
+  - - '131'
+    - Jurgen Buchert
+  downward: 5
+  rel: 1.10717e-3
+  frac: 6.665039e-2
+- chunk: 153
+  startChunk: 15.3 km
+  endChunk: 15.4 km
+  endAhead: 38.4 km
+  down: 1
+  downs:
+  - 15.389 km
+  downers:
+  - - '109'
+    - Marcello Ciarlo
+  downward: 6
+  rel: 1.32861e-3
+  frac: 0.17602539
+- chunk: 208
+  startChunk: 20.8 km
+  endChunk: 20.9 km
+  endAhead: 43.9 km
+  down: 1
+  downs:
+  - 20.821 km
+  downers:
+  - - '124'
+    - Rousselet Simon
+  downward: 7
+  rel: 1.55004e-3
+  frac: 0.24584961
+- chunk: 221
+  startChunk: 22.1 km
+  endChunk: 22.2 km
+  endAhead: 45.2 km
+  down: 1
+  downs:
+  - 22.147 km
+  downers:
+  - - '129'
+    - Stepan Zubashev
+  downward: 6
+  rel: 1.32861e-3
+  frac: 0.26318359
+- chunk: 243
+  startChunk: 24.3 km
+  endChunk: 24.4 km
+  endAhead: 47.4 km
+  down: 1
+  downs:
+  - 24.341 km
+  downers:
+  - - '115'
+    - ERIC MATHURIN
+  downward: 5
+  rel: 1.10717e-3
+  frac: 0.28735352
+- chunk: 317
+  startChunk: 31.7 km
+  endChunk: 31.8 km
+  endAhead: 54.8 km
+  down: 1
+  downs:
+  - 31.704 km
+  downers:
+  - - '114'
+    - Konrad Lueders
+  downward: 5
+  rel: 1.10717e-3
+  frac: 0.35473633
+- chunk: 319
+  startChunk: 31.9 km
+  endChunk: 32.0 km
+  endAhead: 55.0 km
+  down: 1
+  downs:
+  - 31.926 km
+  downers:
+  - - '110'
+    - Tullio Gervasoni
+  downward: 4
+  rel: 8.8574e-4
+  frac: 0.35644531
+- chunk: 403
+  startChunk: 40.3 km
+  endChunk: 40.4 km
+  endAhead: 63.4 km
+  down: 1
+  downs:
+  - 40.382 km
+  downers:
+  - - '104'
+    - Valentino Bau
+  downward: 4
+  rel: 8.8574e-4
+  frac: 0.42163086
+- chunk: 433
+  startChunk: 43.3 km
+  endChunk: 43.4 km
+  endAhead: 66.4 km
+  down: 1
+  downs:
+  - 43.345 km
+  downers:
+  - - '122'
+    - Pieter Speeleveld
+  downward: 3
+  rel: 6.643e-4
+  frac: 0.44165039
+- chunk: 539
+  startChunk: 53.9 km
+  endChunk: 54.0 km
+  endAhead: 77.0 km
+  down: 1
+  downs:
+  - 53.956 km
+  downers:
+  - - '103'
+    - Joerg Bajewski
+  downward: 2
+  rel: 4.4287e-4
+  frac: 0.48852539
+- chunk: 591
+  startChunk: 59.1 km
+  endChunk: 59.2 km
+  endAhead: 82.2 km
+  down: 1
+  downs:
+  - 59.177 km
+  downers:
+  - - '102'
+    - Walter Bacchi
+  downward: 1
+  rel: 2.2143e-4
+  frac: 0.5

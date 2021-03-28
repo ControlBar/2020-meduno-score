@@ -1,0 +1,205 @@
+bestDistance: 59.144830 km
+chunking:
+  startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 601
+  - 60.1 km
+  sumOf: 1623
+landout: 21
+lookahead: 84
+difficulty:
+- chunk: 11
+  startChunk: 1.1 km
+  endChunk: 1.2 km
+  endAhead: 9.6 km
+  down: 1
+  downs:
+  - 1.102 km
+  downers:
+  - - '132'
+    - Emiel Jansen
+  downward: 5
+  rel: 1.54036e-3
+  frac: 1.660156e-2
+- chunk: 21
+  startChunk: 2.1 km
+  endChunk: 2.2 km
+  endAhead: 10.6 km
+  down: 1
+  downs:
+  - 2.198 km
+  downers:
+  - - '131'
+    - Jurgen Buchert
+  downward: 4
+  rel: 1.23229e-3
+  frac: 2.905273e-2
+- chunk: 79
+  startChunk: 7.9 km
+  endChunk: 8.0 km
+  endAhead: 16.4 km
+  down: 1
+  downs:
+  - 7.961 km
+  downers:
+  - - '133'
+    - Johann Courtain
+  downward: 13
+  rel: 4.00493e-3
+  frac: 0.21875
+- chunk: 80
+  startChunk: 8.0 km
+  endChunk: 8.1 km
+  endAhead: 16.5 km
+  down: 1
+  downs:
+  - 8.054 km
+  downers:
+  - - '122'
+    - Pieter Speeleveld
+  downward: 12
+  rel: 3.69686e-3
+  frac: 0.22241211
+- chunk: 89
+  startChunk: 8.9 km
+  endChunk: 9.0 km
+  endAhead: 17.4 km
+  down: 1
+  downs:
+  - 8.928 km
+  downers:
+  - - '102'
+    - Walter Bacchi
+  downward: 12
+  rel: 3.69686e-3
+  frac: 0.25512695
+- chunk: 113
+  startChunk: 11.3 km
+  endChunk: 11.4 km
+  endAhead: 19.8 km
+  down: 8
+  downs:
+  - 11.317 km
+  - 11.326 km
+  - 11.340 km
+  - 11.351 km
+  - 11.353 km
+  - 11.356 km
+  - 11.357 km
+  - 11.362 km
+  downers:
+  - - '124'
+    - Rousselet Simon
+  - - '129'
+    - Stepan Zubashev
+  - - '109'
+    - Marcello Ciarlo
+  - - '108'
+    - Jean louis FOGLIA
+  - - '103'
+    - Joerg Bajewski
+  - - '119'
+    - Christian Pollet
+  - - '110'
+    - Tullio Gervasoni
+  - - '101'
+    - Vanni Accattoli
+  downward: 11
+  rel: 3.38879e-3
+  frac: 0.33642578
+- chunk: 124
+  startChunk: 12.4 km
+  endChunk: 12.5 km
+  endAhead: 20.9 km
+  down: 1
+  downs:
+  - 12.496 km
+  downers:
+  - - '114'
+    - Konrad Lueders
+  downward: 3
+  rel: 9.2421e-4
+  frac: 0.34667969
+- chunk: 160
+  startChunk: 16.0 km
+  endChunk: 16.1 km
+  endAhead: 24.5 km
+  down: 1
+  downs:
+  - 16.060 km
+  downers:
+  - - '126'
+    - Andrea Theodoli
+  downward: 4
+  rel: 1.23229e-3
+  frac: 0.37646484
+- chunk: 166
+  startChunk: 16.6 km
+  endChunk: 16.7 km
+  endAhead: 25.1 km
+  down: 1
+  downs:
+  - 16.699 km
+  downers:
+  - - '118'
+    - Suan Selenati
+  downward: 3
+  rel: 9.2421e-4
+  frac: 0.38208008
+- chunk: 222
+  startChunk: 22.2 km
+  endChunk: 22.3 km
+  endAhead: 30.7 km
+  down: 1
+  downs:
+  - 22.272 km
+  downers:
+  - - '115'
+    - ERIC MATHURIN
+  downward: 3
+  rel: 9.2421e-4
+  frac: 0.43334961
+- chunk: 241
+  startChunk: 24.1 km
+  endChunk: 24.2 km
+  endAhead: 32.6 km
+  down: 1
+  downs:
+  - 24.164 km
+  downers:
+  - - '106'
+    - Lorenzo De Grandis
+  downward: 4
+  rel: 1.23229e-3
+  frac: 0.45385742
+- chunk: 251
+  startChunk: 25.1 km
+  endChunk: 25.2 km
+  endAhead: 33.6 km
+  down: 1
+  downs:
+  - 25.117 km
+  downers:
+  - - '104'
+    - Valentino Bau
+  downward: 3
+  rel: 9.2421e-4
+  frac: 0.46313477
+- chunk: 311
+  startChunk: 31.1 km
+  endChunk: 31.2 km
+  endAhead: 39.6 km
+  down: 2
+  downs:
+  - 31.103 km
+  - 31.119 km
+  downers:
+  - - '130'
+    - Oliver Salewski
+  - - '123'
+    - Sasha Serebrennikova
+  downward: 2
+  rel: 6.1614e-4
+  frac: 0.5

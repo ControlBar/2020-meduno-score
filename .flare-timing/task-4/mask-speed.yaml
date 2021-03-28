@@ -1,0 +1,93 @@
+ssBestTime: 2.396897 h
+gsBestTime: 2.452840 h
+taskDistance: 82.400857 km
+taskSpeedDistance: 79.536355 km
+ssSpeed:
+- - - '106'
+    - Lorenzo De Grandis
+  - time: 2.396897 h
+    frac: 1
+- - - '105'
+    - Christian Ciech
+  - time: 2.442195 h
+    frac: 0.94729206
+- - - '134'
+    - Roland Wöhrle
+  - time: 2.461696 h
+    frac: 0.92896817
+- - - '119'
+    - Christian Pollet
+  - time: 2.523907 h
+    frac: 0.87554555
+gsSpeed:
+- - - '105'
+    - Christian Ciech
+  - time: 2.452840 h
+    frac: 1
+- - - '106'
+    - Lorenzo De Grandis
+  - time: 2.462645 h
+    frac: 0.98541701
+- - - '134'
+    - Roland Wöhrle
+  - time: 2.473004 h
+    frac: 0.97340605
+- - - '119'
+    - Christian Pollet
+  - time: 2.581587 h
+    frac: 0.8753326
+altStopped:
+- - - '126'
+    - Andrea Theodoli
+  - 96.000 m
+- - - '115'
+    - ERIC MATHURIN
+  - 96.000 m
+- - - '132'
+    - Emiel Jansen
+  - 102.000 m
+- - - '108'
+    - Jean louis FOGLIA
+  - 100.000 m
+- - - '103'
+    - Joerg Bajewski
+  - 92.000 m
+- - - '133'
+    - Johann Courtain
+  - -4842.000 m
+- - - '107'
+    - Joost Eertman
+  - 95.000 m
+- - - '131'
+    - Jurgen Buchert
+  - 138.000 m
+- - - '114'
+    - Konrad Lueders
+  - 83.000 m
+- - - '109'
+    - Marcello Ciarlo
+  - 39.000 m
+- - - '113'
+    - Marco Laurenzi
+  - 145.000 m
+- - - '130'
+    - Oliver Salewski
+  - 92.000 m
+- - - '124'
+    - Rousselet Simon
+  - 78.000 m
+- - - '123'
+    - Sasha Serebrennikova
+  - 97.000 m
+- - - '129'
+    - Stepan Zubashev
+  - 74.000 m
+- - - '118'
+    - Suan Selenati
+  - 73.000 m
+- - - '110'
+    - Tullio Gervasoni
+  - 98.000 m
+- - - '104'
+    - Valentino Bau
+  - 64.000 m

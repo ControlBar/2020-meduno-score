@@ -1,0 +1,83 @@
+comp:
+  compName: Spring Meeting 2020 (Class 1)
+  discipline: hg
+  earthMath: Haversines
+  location: Meduno, Italy
+  from: 2020-09-10
+  to: 2020-09-13
+  civilId: '0'
+  utcOffset:
+    timeZoneMinutes: 120
+  scoreBack: 900.000 s
+  give:
+    giveFraction: 1.0e-3
+    giveDistance: 5.0 m
+  earth:
+    sphere:
+      radius: 6371000.0 m
+nominal:
+  launch: 0.96
+  goal: 0.3
+  distance: 60.0 km
+  free: 7.000 km
+  time: 1.500000 h
+compTweak:
+  arrivalRank: true
+  arrivalTime: false
+  essNotGoalScaling: 0.8
+  leadingAreaDistanceSquared: true
+  leadingWeightScaling: null
+  timePowerExponent: 0.83333333
+pilots:
+- - '126'
+  - Andrea Theodoli
+- - '105'
+  - Christian Ciech
+- - '119'
+  - Christian Pollet
+- - '115'
+  - ERIC MATHURIN
+- - '132'
+  - Emiel Jansen
+- - '108'
+  - Jean louis FOGLIA
+- - '103'
+  - Joerg Bajewski
+- - '133'
+  - Johann Courtain
+- - '107'
+  - Joost Eertman
+- - '131'
+  - Jurgen Buchert
+- - '114'
+  - Konrad Lueders
+- - '106'
+  - Lorenzo De Grandis
+- - '109'
+  - Marcello Ciarlo
+- - '112'
+  - Marco Gröbner
+- - '113'
+  - Marco Laurenzi
+- - '130'
+  - Oliver Salewski
+- - '122'
+  - Pieter Speeleveld
+- - '134'
+  - Roland Wöhrle
+- - '124'
+  - Rousselet Simon
+- - '123'
+  - Sasha Serebrennikova
+- - '129'
+  - Stepan Zubashev
+- - '118'
+  - Suan Selenati
+- - '110'
+  - Tullio Gervasoni
+- - '104'
+  - Valentino Bau
+- - '101'
+  - Vanni Accattoli
+- - '102'
+  - Walter Bacchi

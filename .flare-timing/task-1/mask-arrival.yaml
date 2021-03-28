@@ -1,0 +1,27 @@
+pilotsAtEss: 5
+arrivalRank:
+- - - '105'
+    - Christian Ciech
+  - lag: 0.000000 h
+    rank: '1'
+    frac: 1
+- - - '134'
+    - Roland Wöhrle
+  - lag: 1.090491 h
+    rank: '2'
+    frac: 0.636896
+- - - '113'
+    - Marco Laurenzi
+  - lag: 1.209189 h
+    rank: '3'
+    frac: 0.405728
+- - - '107'
+    - Joost Eertman
+  - lag: 1.308440 h
+    rank: '4'
+    frac: 0.276112
+- - - '112'
+    - Marco Gröbner
+  - lag: 1.381985 h
+    rank: '5'
+    frac: 0.217664

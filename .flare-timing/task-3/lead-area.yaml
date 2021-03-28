@@ -1,0 +1,126 @@
+areas:
+- - - '126'
+    - Andrea Theodoli
+  - areaFlown: 30334803.5829 km^2 s
+    areaAfterLanding: 1047081.8660 km^2 s
+    areaBeforeStart: 6902131.5546 km^2 s
+- - - '105'
+    - Christian Ciech
+  - areaFlown: 22177893.6559 km^2 s
+    areaAfterLanding: 0.0000 km^2 s
+    areaBeforeStart: 0.0000 km^2 s
+- - - '119'
+    - Christian Pollet
+  - areaFlown: 26038927.6533 km^2 s
+    areaAfterLanding: 0.0000 km^2 s
+    areaBeforeStart: 0.0000 km^2 s
+- - - '115'
+    - ERIC MATHURIN
+  - areaFlown: 31588366.6056 km^2 s
+    areaAfterLanding: 0.0000 km^2 s
+    areaBeforeStart: 7136214.3123 km^2 s
+- - - '132'
+    - Emiel Jansen
+  - areaFlown: 23927030.0237 km^2 s
+    areaAfterLanding: 9881326.6794 km^2 s
+    areaBeforeStart: 11145435.8070 km^2 s
+- - - '108'
+    - Jean louis FOGLIA
+  - areaFlown: 382406.4943 km^2 s
+    areaAfterLanding: 98205551.1962 km^2 s
+    areaBeforeStart: 27962063.6849 km^2 s
+- - - '103'
+    - Joerg Bajewski
+  - areaFlown: 29206645.3865 km^2 s
+    areaAfterLanding: 0.0000 km^2 s
+    areaBeforeStart: 10364105.5869 km^2 s
+- - - '133'
+    - Johann Courtain
+  - areaFlown: 32349160.7358 km^2 s
+    areaAfterLanding: 2269668.6989 km^2 s
+    areaBeforeStart: 8207984.4038 km^2 s
+- - - '107'
+    - Joost Eertman
+  - areaFlown: 26591206.1920 km^2 s
+    areaAfterLanding: 0.0000 km^2 s
+    areaBeforeStart: 6719107.5070 km^2 s
+- - - '131'
+    - Jurgen Buchert
+  - areaFlown: 25806128.0984 km^2 s
+    areaAfterLanding: 16375790.9713 km^2 s
+    areaBeforeStart: 6995329.0696 km^2 s
+- - - '114'
+    - Konrad Lueders
+  - areaFlown: 25323824.4386 km^2 s
+    areaAfterLanding: 12460571.3978 km^2 s
+    areaBeforeStart: 7230780.9402 km^2 s
+- - - '106'
+    - Lorenzo De Grandis
+  - areaFlown: 26169255.7575 km^2 s
+    areaAfterLanding: 0.0000 km^2 s
+    areaBeforeStart: 7311475.9286 km^2 s
+- - - '109'
+    - Marcello Ciarlo
+  - areaFlown: 21019969.1887 km^2 s
+    areaAfterLanding: 20810626.2712 km^2 s
+    areaBeforeStart: 7390195.8420 km^2 s
+- - - '112'
+    - Marco Gröbner
+  - areaFlown: 28573058.8423 km^2 s
+    areaAfterLanding: 0.0000 km^2 s
+    areaBeforeStart: 6766121.5665 km^2 s
+- - - '113'
+    - Marco Laurenzi
+  - areaFlown: 26278643.4022 km^2 s
+    areaAfterLanding: 0.0000 km^2 s
+    areaBeforeStart: 0.0000 km^2 s
+- - - '130'
+    - Oliver Salewski
+  - areaFlown: 26291371.7096 km^2 s
+    areaAfterLanding: 0.0000 km^2 s
+    areaBeforeStart: 7754515.2248 km^2 s
+- - - '122'
+    - Pieter Speeleveld
+  - areaFlown: 35453388.0348 km^2 s
+    areaAfterLanding: 0.0000 km^2 s
+    areaBeforeStart: 6714520.9214 km^2 s
+- - - '134'
+    - Roland Wöhrle
+  - areaFlown: 26165052.5704 km^2 s
+    areaAfterLanding: 0.0000 km^2 s
+    areaBeforeStart: 8607181.0446 km^2 s
+- - - '124'
+    - Rousselet Simon
+  - areaFlown: 31603980.6761 km^2 s
+    areaAfterLanding: 2299475.5484 km^2 s
+    areaBeforeStart: 11540975.0842 km^2 s
+- - - '123'
+    - Sasha Serebrennikova
+  - areaFlown: 30214353.0791 km^2 s
+    areaAfterLanding: 0.0000 km^2 s
+    areaBeforeStart: 6936398.1991 km^2 s
+- - - '129'
+    - Stepan Zubashev
+  - areaFlown: 31742735.7173 km^2 s
+    areaAfterLanding: 20845070.3671 km^2 s
+    areaBeforeStart: 7197720.6228 km^2 s
+- - - '118'
+    - Suan Selenati
+  - areaFlown: 26008903.8987 km^2 s
+    areaAfterLanding: 0.0000 km^2 s
+    areaBeforeStart: 9518177.9199 km^2 s
+- - - '110'
+    - Tullio Gervasoni
+  - areaFlown: 27286391.4611 km^2 s
+    areaAfterLanding: 0.0000 km^2 s
+    areaBeforeStart: 7512767.3181 km^2 s
+- - - '104'
+    - Valentino Bau
+  - areaFlown: 29501673.7408 km^2 s
+    areaAfterLanding: 0.0000 km^2 s
+    areaBeforeStart: 10430349.1649 km^2 s
+- - - '102'
+    - Walter Bacchi
+  - areaFlown: 18914704.4551 km^2 s
+    areaAfterLanding: 19013104.2721 km^2 s
+    areaBeforeStart: 7002900.5551 km^2 s

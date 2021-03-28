@@ -1,0 +1,112 @@
+bestDistance: 84.844713 km
+chunking:
+  startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 851
+  - 85.1 km
+  sumOf: 2296
+landout: 10
+lookahead: 255
+difficulty:
+- chunk: 0
+  startChunk: 0.0 km
+  endChunk: 0.1 km
+  endAhead: 25.6 km
+  down: 1
+  downs:
+  - -1.138 km
+  downers:
+  - - '108'
+    - Jean louis FOGLIA
+  downward: 1
+  rel: 2.1777e-4
+  frac: 2.4414e-4
+- chunk: 469
+  startChunk: 46.9 km
+  endChunk: 47.0 km
+  endAhead: 72.5 km
+  down: 2
+  downs:
+  - 46.913 km
+  - 46.952 km
+  downers:
+  - - '129'
+    - Stepan Zubashev
+  - - '109'
+    - Marcello Ciarlo
+  downward: 8
+  rel: 1.74216e-3
+  frac: 0.31958008
+- chunk: 488
+  startChunk: 48.8 km
+  endChunk: 48.9 km
+  endAhead: 74.4 km
+  down: 2
+  downs:
+  - 48.822 km
+  - 48.872 km
+  downers:
+  - - '131'
+    - Jurgen Buchert
+  - - '102'
+    - Walter Bacchi
+  downward: 6
+  rel: 1.30662e-3
+  frac: 0.34423828
+- chunk: 489
+  startChunk: 48.9 km
+  endChunk: 49.0 km
+  endAhead: 74.5 km
+  down: 1
+  downs:
+  - 48.913 km
+  downers:
+  - - '114'
+    - Konrad Lueders
+  downward: 4
+  rel: 8.7108e-4
+  frac: 0.34521484
+- chunk: 515
+  startChunk: 51.5 km
+  endChunk: 51.6 km
+  endAhead: 77.1 km
+  down: 1
+  downs:
+  - 51.587 km
+  downers:
+  - - '132'
+    - Emiel Jansen
+  downward: 4
+  rel: 8.7108e-4
+  frac: 0.36499023
+- chunk: 704
+  startChunk: 70.4 km
+  endChunk: 70.5 km
+  endAhead: 96.0 km
+  down: 2
+  downs:
+  - 70.443 km
+  - 70.458 km
+  downers:
+  - - '133'
+    - Johann Courtain
+  - - '124'
+    - Rousselet Simon
+  downward: 3
+  rel: 6.5331e-4
+  frac: 0.48852539
+- chunk: 757
+  startChunk: 75.7 km
+  endChunk: 75.8 km
+  endAhead: 101.3 km
+  down: 1
+  downs:
+  - 75.700 km
+  downers:
+  - - '126'
+    - Andrea Theodoli
+  downward: 1
+  rel: 2.1777e-4
+  frac: 0.5

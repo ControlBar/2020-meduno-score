@@ -1,0 +1,22 @@
+pilotsAtEss: 4
+arrivalRank:
+- - - '105'
+    - Christian Ciech
+  - lag: 0.000000 h
+    rank: '1'
+    frac: 1
+- - - '106'
+    - Lorenzo De Grandis
+  - lag: 0.009805 h
+    rank: '2'
+    frac: 0.56792188
+- - - '134'
+    - Roland Wöhrle
+  - lag: 0.020164 h
+    rank: '3'
+    frac: 0.330125
+- - - '119'
+    - Christian Pollet
+  - lag: 0.128747 h
+    rank: '4'
+    frac: 0.22726562

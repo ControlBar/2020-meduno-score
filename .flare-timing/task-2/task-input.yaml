@@ -1,0 +1,254 @@
+pilotGroup:
+  absent:
+  - - '125'
+    - Arne Tanzer
+  - - '120'
+    - Christian Preininger
+  - - '128'
+    - Jaroslav Trestik
+  - - '111'
+    - Marcin Gil
+  - - '117'
+    - Michal Olszewski
+  - - '121'
+    - Mikolaj Przezdziak
+  - - '127'
+    - Milan Tichy
+  - - '116'
+    - SEONGGEUN MOON
+  didFlyNoTracklog: []
+  dnf:
+  - - '101'
+    - Vanni Accattoli
+task:
+  taskName: Task 2
+  zones:
+    raw:
+    - zoneName: D01
+      lat: 46.23083
+      lng: 12.80694
+      radius: 400.0 m
+      giveIn: 395.0 m
+      giveOut: 405.0 m
+      alt: 980.000 m
+    - zoneName: B58
+      lat: 46.16917
+      lng: 12.65361
+      radius: 14500.0 m
+      giveIn: 14485.5 m
+      giveOut: 14514.5 m
+      alt: 300.000 m
+    - zoneName: Z11
+      lat: 46.28065
+      lng: 13.10928
+      radius: 3000.0 m
+      giveIn: 2995.0 m
+      giveOut: 3005.0 m
+      alt: 197.000 m
+    - zoneName: A17
+      lat: 46.15808
+      lng: 12.36903
+      radius: 23000.0 m
+      giveIn: 22977.0 m
+      giveOut: 23023.0 m
+      alt: 594.000 m
+    - zoneName: B71
+      lat: 46.20889
+      lng: 13.04528
+      radius: 11000.0 m
+      giveIn: 10989.0 m
+      giveOut: 11011.0 m
+      alt: 160.000 m
+    - zoneName: B30
+      lat: 46.17194
+      lng: 12.73306
+      radius: 5000.0 m
+      giveIn: 4995.0 m
+      giveOut: 5005.0 m
+      alt: 260.000 m
+    - zoneName: A01
+      lat: 46.19639
+      lng: 12.85611
+      radius: 1000.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
+      alt: 230.000 m
+    - zoneName: A01
+      lat: 46.19639
+      lng: 12.85611
+      radius: 400.0 m
+      giveIn: 395.0 m
+      giveOut: 405.0 m
+      alt: 230.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 46.23083000 deg
+          - 12.80694000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 46.16917000 deg
+          - 12.65361000 deg
+          radius: 14500.0 m
+      - cylinder:
+          center:
+          - 46.28065000 deg
+          - 13.10928000 deg
+          radius: 3000.0 m
+      - cylinder:
+          center:
+          - 46.15808000 deg
+          - 12.36903000 deg
+          radius: 23000.0 m
+      - cylinder:
+          center:
+          - 46.20889000 deg
+          - 13.04528000 deg
+          radius: 11000.0 m
+      - cylinder:
+          center:
+          - 46.17194000 deg
+          - 12.73306000 deg
+          radius: 5000.0 m
+      race-ess:
+        cylinder:
+          center:
+          - 46.19639000 deg
+          - 12.85611000 deg
+          radius: 1000.0 m
+      epilog: []
+      goal:
+        circle:
+          center:
+          - 46.19639000 deg
+          - 12.85611000 deg
+          radius: 400.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 7
+  zoneTimes:
+  - open: 2020-09-11T11:00:00Z
+    close: 2020-09-11T13:30:00Z
+  - open: 2020-09-11T11:45:00Z
+    close: 2020-09-11T17:30:00Z
+  - open: 2020-09-11T11:45:00Z
+    close: 2020-09-11T17:30:00Z
+  - open: 2020-09-11T11:45:00Z
+    close: 2020-09-11T17:30:00Z
+  - open: 2020-09-11T11:45:00Z
+    close: 2020-09-11T17:30:00Z
+  - open: 2020-09-11T11:45:00Z
+    close: 2020-09-11T17:30:00Z
+  - open: 2020-09-11T11:45:00Z
+    close: 2020-09-11T17:30:00Z
+  - open: 2020-09-11T11:45:00Z
+    close: 2020-09-11T17:30:00Z
+  startGates:
+  - 2020-09-11T11:45:00Z
+  stopped: null
+  cancelled: false
+  taskTweak:
+    arrivalRank: true
+    arrivalTime: false
+    essNotGoalScaling: 0.8
+    leadingAreaDistanceSquared: true
+    leadingWeightScaling: null
+    timePowerExponent: 0.83333333
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 2 s
+    tooEarlyReset: 0
+  penalsAuto: []
+  penals:
+  - - - '114'
+      - Konrad Lueders
+    - adds: []
+      muls:
+      - penalty-fraction: 0
+      resets: []
+    - Airspace
+taskFolder:
+- 2020-09-11
+pilots:
+- - - '126'
+    - Andrea Theodoli
+  - Theodoli.126.igc
+- - - '105'
+    - Christian Ciech
+  - LiveTrack Christian Ciech.121095.20200911-110616.6034.105.igc
+- - - '119'
+    - Christian Pollet
+  - LiveTrack Christian Pollet.192165.20200911-110418.21794.119.igc
+- - - '115'
+    - ERIC MATHURIN
+  - LiveTrack ERIC MATHURIN.170146.20200911-110034.6234.115.igc
+- - - '132'
+    - Emiel Jansen
+  - Jahnsen.132.igc
+- - - '108'
+    - Jean louis FOGLIA
+  - Foglia.108.igc
+- - - '103'
+    - Joerg Bajewski
+  - LiveTrack Joerg Bajewski.115210.20200911-110357.6740.103.igc
+- - - '133'
+    - Johann Courtain
+  - Curtain.133.IGC
+- - - '107'
+    - Joost Eertman
+  - LiveTrack Joost Eertman.125653.20200911-110046.6738.107.igc
+- - - '131'
+    - Jurgen Buchert
+  - LiveTrack Jurgen Buchert.322346.20200911-111129.6813.131.igc
+- - - '114'
+    - Konrad Lueders
+  - LiveTrack Konrad Lueders.162869.20200911-111421.6901.114.igc
+- - - '106'
+    - Lorenzo De Grandis
+  - LiveTrack Lorenzo De Grandis.121433.20200911-110208.55245.106.igc
+- - - '109'
+    - Marcello Ciarlo
+  - LiveTrack Marcello Ciarlo.129296.20200911-112637.13122.109.igc
+- - - '112'
+    - Marco Gröbner
+  - LiveTrack Marco Gröbner.155833.20200911-110809.64863.112.igc
+- - - '113'
+    - Marco Laurenzi
+  - LiveTrack Marco Laurenzi.158439.20200911-111039.25161.113.igc
+- - - '130'
+    - Oliver Salewski
+  - LiveTrack Oliver Salewski.319553.20200911-110534.51778.130.igc
+- - - '122'
+    - Pieter Speeleveld
+  - LiveTrack Pieter Speeleveld.204806.20200911-110640.53104.122.igc
+- - - '134'
+    - Roland Wöhrle
+  - LiveTrack Roland Wöhrle.356827.20200911-104304.7547.134.igc
+- - - '124'
+    - Rousselet Simon
+  - LiveTrack Rousselet Simon.209185.20200911-103652.48505.124.igc
+- - - '123'
+    - Sasha Serebrennikova
+  - LiveTrack Sasha Serebrennikova.206569.20200911-110324.30169.123.igc
+- - - '129'
+    - Stepan Zubashev
+  - LiveTrack Stepan Zubashev.239644.20200911-111112.31780.129.igc
+- - - '118'
+    - Suan Selenati
+  - LiveTrack Suan Selenati.183316.20200911-110554.15184.118.igc
+- - - '110'
+    - Tullio Gervasoni
+  - LiveTrack Tullio Gervasoni.131105.20200911-110706.7865.110.igc
+- - - '104'
+    - Valentino Bau
+  - LiveTrack Valentino Bau.117812.20200911-110754.7889.104.igc
+- - - '101'
+    - Vanni Accattoli
+  - null
+- - - '102'
+    - Walter Bacchi
+  - LiveTrack Walter Bacchi.115162.20200911-092645.45294.102.igc

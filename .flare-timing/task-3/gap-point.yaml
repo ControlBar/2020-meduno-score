@@ -1,0 +1,2338 @@
+validityWorking:
+  time:
+    nominalTime: 1.500000 h
+    ssBestTime: 2.183372 h
+    gsBestTime: 1.912978 h
+    nominalDistance: 60.0 km
+    reachMax:
+      extra: 84.844713 km
+      flown: 84.844713 km
+  launch:
+    nominalLaunch: 0.96
+    flying: 25
+    present: 25
+  distance:
+    sum: 1636.2 km
+    flying: 25
+    area: 38.17670695
+    nominalGoal: 0.3
+    nominalDistance: 60.0 km
+    minimumDistance: 7.000 km
+    reachMax:
+      extra: 84.844713 km
+      flown: 84.844713 km
+  stop: null
+validity:
+  time: 1
+  launch: 1
+  distance: 1
+  task: 1
+  stop: null
+allocation:
+  goalRatio: 0.6
+  weight:
+    effort: 0.195444
+    arrival: 7.6139e-2
+    time: 0.4263784
+    reach: 0.195444
+    distance: 0.390888
+    leading: 0.1065946
+  points:
+    effort: 195.444
+    arrival: 76.1
+    time: 426.4
+    reach: 195.444
+    distance: 390.888
+    leading: 106.6
+  taskPoints: 1000
+score:
+- - - '134'
+    - Roland Wöhrle
+  - place: '1'
+    total: 781.161
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 65.7
+      time: 259.4
+      reach: 195.444
+      distance: 390.888
+      leading: 65.2
+    velocity:
+      ss: 2020-09-12T11:43:26.493490099309Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:01:43.615332537376Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.304756 h
+      gsElapsed: 2.362115 h
+      ssVelocity: 35.83 km / h
+      gsVelocity: 34.96 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 781.161
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '118'
+    - Suan Selenati
+  - place: '2'
+    total: 764.644
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 56.5
+      time: 251
+      reach: 195.444
+      distance: 390.888
+      leading: 66.3
+    velocity:
+      ss: 2020-09-12T11:42:14.858554625992Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:03:21.886071704428Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.351952 h
+      gsElapsed: 2.389413 h
+      ssVelocity: 35.11 km / h
+      gsVelocity: 34.56 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 764.644
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '106'
+    - Lorenzo De Grandis
+  - place: '3'
+    total: 741.977
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 41.6
+      time: 244.3
+      reach: 195.444
+      distance: 390.888
+      leading: 65.2
+    velocity:
+      ss: 2020-09-12T11:41:10.525601787987Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:04:40.752812485411Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.391730 h
+      gsElapsed: 2.411320 h
+      ssVelocity: 34.52 km / h
+      gsVelocity: 34.24 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 741.977
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '107'
+    - Joost Eertman
+  - place: '4'
+    total: 729.559
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 35.8
+      time: 240.5
+      reach: 195.444
+      distance: 390.888
+      leading: 62.3
+    velocity:
+      ss: 2020-09-12T11:40:26.103010763685Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:05:24.721017795336Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.416283 h
+      gsElapsed: 2.423534 h
+      ssVelocity: 34.17 km / h
+      gsVelocity: 34.07 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 729.559
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '130'
+    - Oliver Salewski
+  - place: '5'
+    total: 723.127
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 30.9
+      time: 237
+      reach: 195.444
+      distance: 390.888
+      leading: 64.4
+    velocity:
+      ss: 2020-09-12T11:41:19.607221526344Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:06:07.133140542568Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.413202 h
+      gsElapsed: 2.435315 h
+      ssVelocity: 34.22 km / h
+      gsVelocity: 33.90 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 723.127
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '110'
+    - Tullio Gervasoni
+  - place: '6'
+    total: 677.955
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 23.6
+      time: 205.7
+      reach: 195.444
+      distance: 390.888
+      leading: 57.8
+    velocity:
+      ss: 2020-09-12T11:41:24.502052087381Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:12:26.14374838683Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.517123 h
+      gsElapsed: 2.540595 h
+      ssVelocity: 32.80 km / h
+      gsVelocity: 32.50 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 677.955
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '103'
+    - Joerg Bajewski
+  - place: '7'
+    total: 646.522
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 21
+      time: 188.4
+      reach: 195.444
+      distance: 390.888
+      leading: 46.2
+    velocity:
+      ss: 2020-09-12T11:43:38.15387639228Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:16:00.221512592812Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.539463 h
+      gsElapsed: 2.600062 h
+      ssVelocity: 32.51 km / h
+      gsVelocity: 31.76 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 646.522
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '112'
+    - Marco Gröbner
+  - place: '8'
+    total: 644.946
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 17.6
+      time: 186.5
+      reach: 195.444
+      distance: 390.888
+      leading: 49.9
+    velocity:
+      ss: 2020-09-12T11:40:33.120043049985Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:16:23.097950606473Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.597216 h
+      gsElapsed: 2.606416 h
+      ssVelocity: 31.79 km / h
+      gsVelocity: 31.68 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 644.946
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '123'
+    - Sasha Serebrennikova
+  - place: '9'
+    total: 637.107
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 19.1
+      time: 186.6
+      reach: 195.444
+      distance: 390.888
+      leading: 40.6
+    velocity:
+      ss: 2020-09-12T11:40:58.992263133339Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:16:22.738919501574Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.589930 h
+      gsElapsed: 2.606316 h
+      ssVelocity: 31.88 km / h
+      gsVelocity: 31.68 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 637.107
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '115'
+    - ERIC MATHURIN
+  - place: '10'
+    total: 525.987
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 16.6
+      time: 85.2
+      reach: 195.444
+      distance: 390.888
+      leading: 33.3
+    velocity:
+      ss: 2020-09-12T11:41:28.209400218615Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:38:16.571112396953Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.946767 h
+      gsElapsed: 2.971270 h
+      ssVelocity: 28.02 km / h
+      gsVelocity: 27.79 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 525.987
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '104'
+    - Valentino Bau
+  - place: '11'
+    total: 488.664
+    essNotGoal: true
+    penaltiesEssNotGoal:
+      adds:
+      - penalty-points: -13.303292027628396
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds:
+      - penalty-points: -13.303292027628396
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 15.9
+      time: 50.6
+      reach: 195.444
+      distance: 390.888
+      leading: 44.6
+    velocity:
+      ss: 2020-09-12T11:46:58.752811734914Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:46:05.201529079142Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.985125 h
+      gsElapsed: 3.101445 h
+      ssVelocity: 27.66 km / h
+      gsVelocity: 26.62 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 13.303
+    demeritReset: 0
+    subtotal: 501.967
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '122'
+    - Pieter Speeleveld
+  - place: '12'
+    total: 417.641
+    essNotGoal: true
+    penaltiesEssNotGoal:
+      adds:
+      - penalty-points: -3.0947762495999993
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds:
+      - penalty-points: -3.0947762495999993
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 15.5
+      time: 0
+      reach: 195.444
+      distance: 390.888
+      leading: 14.4
+    velocity:
+      ss: 2020-09-12T11:40:25.753968561814Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T15:03:56.908576654929Z
+      ssDistance: 82.569 km
+      ssElapsed: 3.391987 h
+      gsElapsed: 3.399141 h
+      ssVelocity: 24.34 km / h
+      gsVelocity: 24.29 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 3.095
+    demeritReset: 0
+    subtotal: 420.736
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '126'
+    - Andrea Theodoli
+  - place: '13'
+    total: 405.879
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 0
+      time: 0
+      reach: 176.08
+      distance: 371.524
+      leading: 34.4
+    velocity:
+      ss: 2020-09-12T11:40:53.664825083526Z
+      gs: 2020-09-12T11:40:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 76.439 km
+      flown: 76.439 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 405.879
+    landedMade: 76.439 km
+    stoppedAlt: 191.000 m
+- - - '124'
+    - Rousselet Simon
+  - place: '14'
+    total: 380.361
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 191.913
+      arrival: 0
+      time: 0
+      reach: 166.749
+      distance: 358.662
+      leading: 21.7
+    velocity:
+      ss: 2020-09-12T11:44:25.094863921945Z
+      gs: 2020-09-12T11:40:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 72.388 km
+      flown: 72.388 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 380.361
+    landedMade: 72.388 km
+    stoppedAlt: 104.000 m
+- - - '133'
+    - Johann Courtain
+  - place: '15'
+    total: 377.32
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 192.104
+      arrival: 0
+      time: 0
+      reach: 166.935
+      distance: 359.039
+      leading: 18.3
+    velocity:
+      ss: 2020-09-12T11:42:47.968388089889Z
+      gs: 2020-09-12T11:40:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 72.469 km
+      flown: 72.469 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 377.32
+    landedMade: 72.469 km
+    stoppedAlt: 917.000 m
+- - - '132'
+    - Emiel Jansen
+  - place: '16'
+    total: 316.535
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 158.417
+      arrival: 0
+      time: 0
+      reach: 135.959
+      distance: 294.376
+      leading: 22.2
+    velocity:
+      ss: 2020-09-12T11:47:37.514763947206Z
+      gs: 2020-09-12T11:40:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 59.022 km
+      flown: 59.022 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 316.535
+    landedMade: 59.022 km
+    stoppedAlt: 99.000 m
+- - - '114'
+    - Konrad Lueders
+  - place: '17'
+    total: 280.247
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 147.728
+      arrival: 0
+      time: 0
+      reach: 128.646
+      distance: 276.374
+      leading: 3.9
+    velocity:
+      ss: 2020-09-12T11:41:42.402711932814Z
+      gs: 2020-09-12T11:40:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 55.847 km
+      flown: 55.847 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 280.247
+    landedMade: 55.847 km
+    stoppedAlt: 181.000 m
+- - - '131'
+    - Jurgen Buchert
+  - place: '18'
+    total: 248.94
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 130.073
+      arrival: 0
+      time: 0
+      reach: 118.867
+      distance: 248.94
+      leading: 0
+    velocity:
+      ss: 2020-09-12T11:41:07.212110290498Z
+      gs: 2020-09-12T11:40:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 51.602 km
+      flown: 51.602 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 248.94
+    landedMade: 51.602 km
+    stoppedAlt: 191.000 m
+- - - '102'
+    - Walter Bacchi
+  - place: '19'
+    total: 234.797
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 118.622
+      arrival: 0
+      time: 0
+      reach: 112.931
+      distance: 231.552
+      leading: 3.2
+    velocity:
+      ss: 2020-09-12T11:41:08.720598409899Z
+      gs: 2020-09-12T11:40:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 49.025 km
+      flown: 49.025 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 234.797
+    landedMade: 49.025 km
+    stoppedAlt: 184.000 m
+- - - '109'
+    - Marcello Ciarlo
+  - place: 20=
+    total: 219.151
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 110.033
+      arrival: 0
+      time: 0
+      reach: 109.118
+      distance: 219.151
+      leading: 0
+    velocity:
+      ss: 2020-09-12T11:42:06.414668362657Z
+      gs: 2020-09-12T11:40:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 47.370 km
+      flown: 47.370 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 219.151
+    landedMade: 47.370 km
+    stoppedAlt: 223.000 m
+- - - '129'
+    - Stepan Zubashev
+  - place: 20=
+    total: 219.08
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 110.033
+      arrival: 0
+      time: 0
+      reach: 109.047
+      distance: 219.08
+      leading: 0
+    velocity:
+      ss: 2020-09-12T11:41:37.497709077788Z
+      gs: 2020-09-12T11:40:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 47.339 km
+      flown: 47.339 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 219.08
+    landedMade: 47.339 km
+    stoppedAlt: 226.000 m
+- - - '108'
+    - Jean louis FOGLIA
+  - place: '22'
+    total: 19.083
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 2.958
+      arrival: 0
+      time: 0
+      reach: 16.125
+      distance: 19.083
+      leading: 0
+    velocity:
+      ss: 2020-09-12T12:33:09.42915561296Z
+      gs: 2020-09-12T11:40:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 3.437 km
+      flown: 3.437 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 19.083
+    landedMade: 3.437 km
+    stoppedAlt: 192.000 m
+- - - '105'
+    - Christian Ciech
+  - place: 23=
+    total: 16
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: 973.419 s
+    penaltiesJumpRaw:
+      adds: []
+      muls: []
+      resets: []
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets:
+      - penalty-reset: 16
+    penalties:
+      adds: []
+      muls: []
+      resets:
+      - penalty-reset: 16
+    breakdown:
+      effort: 195.444
+      arrival: 76.1
+      time: 426.4
+      reach: 195.444
+      distance: 390.888
+      leading: 106.6
+    velocity:
+      ss: 2020-09-12T11:23:46.581123471992Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T13:34:46.719414659552Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.183372 h
+      gsElapsed: 1.912978 h
+      ssVelocity: 37.82 km / h
+      gsVelocity: 43.16 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 984
+    subtotal: 1000
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '119'
+    - Christian Pollet
+  - place: 23=
+    total: 16
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: 844.695 s
+    penaltiesJumpRaw:
+      adds: []
+      muls: []
+      resets: []
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets:
+      - penalty-reset: 16
+    penalties:
+      adds: []
+      muls: []
+      resets:
+      - penalty-reset: 16
+    breakdown:
+      effort: 195.444
+      arrival: 48.5
+      time: 248.8
+      reach: 195.444
+      distance: 390.888
+      leading: 66.1
+    velocity:
+      ss: 2020-09-12T11:25:55.304711060193Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:03:46.683659163086Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.630939 h
+      gsElapsed: 2.396301 h
+      ssVelocity: 31.38 km / h
+      gsVelocity: 34.46 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 738.338
+    subtotal: 754.338
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '113'
+    - Marco Laurenzi
+  - place: 23=
+    total: 16
+    essNotGoal: true
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: 949.679 s
+    penaltiesJumpRaw:
+      adds: []
+      muls: []
+      resets: []
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets:
+      - penalty-reset: 16
+    penalties:
+      adds: []
+      muls: []
+      resets:
+      - penalty-reset: 16
+    breakdown:
+      effort: 195.444
+      arrival: 26.9
+      time: 230.5
+      reach: 195.444
+      distance: 390.888
+      leading: 64.5
+    velocity:
+      ss: 2020-09-12T11:24:10.320997347002Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:07:24.409914924104Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.720580 h
+      gsElapsed: 2.456781 h
+      ssVelocity: 30.35 km / h
+      gsVelocity: 33.61 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 696.715
+    subtotal: 712.715
+    landedMade: 84.845 km
+    stoppedAlt: null
+scoreDf:
+- - - '134'
+    - Roland Wöhrle
+  - place: '1'
+    total: 781.161
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 65.7
+      time: 259.4
+      reach: 195.444
+      distance: 390.888
+      leading: 65.2
+    velocity:
+      ss: 2020-09-12T11:43:26.493490099309Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:01:43.615332537376Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.304756 h
+      gsElapsed: 2.362115 h
+      ssVelocity: 35.83 km / h
+      gsVelocity: 34.96 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 781.161
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '118'
+    - Suan Selenati
+  - place: '2'
+    total: 764.644
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 56.5
+      time: 251
+      reach: 195.444
+      distance: 390.888
+      leading: 66.3
+    velocity:
+      ss: 2020-09-12T11:42:14.858554625992Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:03:21.886071704428Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.351952 h
+      gsElapsed: 2.389413 h
+      ssVelocity: 35.11 km / h
+      gsVelocity: 34.56 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 764.644
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '106'
+    - Lorenzo De Grandis
+  - place: '3'
+    total: 741.977
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 41.6
+      time: 244.3
+      reach: 195.444
+      distance: 390.888
+      leading: 65.2
+    velocity:
+      ss: 2020-09-12T11:41:10.525601787987Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:04:40.752812485411Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.391730 h
+      gsElapsed: 2.411320 h
+      ssVelocity: 34.52 km / h
+      gsVelocity: 34.24 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 741.977
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '107'
+    - Joost Eertman
+  - place: '4'
+    total: 729.559
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 35.8
+      time: 240.5
+      reach: 195.444
+      distance: 390.888
+      leading: 62.3
+    velocity:
+      ss: 2020-09-12T11:40:26.103010763685Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:05:24.721017795336Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.416283 h
+      gsElapsed: 2.423534 h
+      ssVelocity: 34.17 km / h
+      gsVelocity: 34.07 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 729.559
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '130'
+    - Oliver Salewski
+  - place: '5'
+    total: 723.127
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 30.9
+      time: 237
+      reach: 195.444
+      distance: 390.888
+      leading: 64.4
+    velocity:
+      ss: 2020-09-12T11:41:19.607221526344Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:06:07.133140542568Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.413202 h
+      gsElapsed: 2.435315 h
+      ssVelocity: 34.22 km / h
+      gsVelocity: 33.90 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 723.127
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '110'
+    - Tullio Gervasoni
+  - place: '6'
+    total: 677.955
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 23.6
+      time: 205.7
+      reach: 195.444
+      distance: 390.888
+      leading: 57.8
+    velocity:
+      ss: 2020-09-12T11:41:24.502052087381Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:12:26.14374838683Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.517123 h
+      gsElapsed: 2.540595 h
+      ssVelocity: 32.80 km / h
+      gsVelocity: 32.50 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 677.955
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '103'
+    - Joerg Bajewski
+  - place: '7'
+    total: 646.522
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 21
+      time: 188.4
+      reach: 195.444
+      distance: 390.888
+      leading: 46.2
+    velocity:
+      ss: 2020-09-12T11:43:38.15387639228Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:16:00.221512592812Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.539463 h
+      gsElapsed: 2.600062 h
+      ssVelocity: 32.51 km / h
+      gsVelocity: 31.76 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 646.522
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '112'
+    - Marco Gröbner
+  - place: '8'
+    total: 644.946
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 17.6
+      time: 186.5
+      reach: 195.444
+      distance: 390.888
+      leading: 49.9
+    velocity:
+      ss: 2020-09-12T11:40:33.120043049985Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:16:23.097950606473Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.597216 h
+      gsElapsed: 2.606416 h
+      ssVelocity: 31.79 km / h
+      gsVelocity: 31.68 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 644.946
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '123'
+    - Sasha Serebrennikova
+  - place: '9'
+    total: 637.107
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 19.1
+      time: 186.6
+      reach: 195.444
+      distance: 390.888
+      leading: 40.6
+    velocity:
+      ss: 2020-09-12T11:40:58.992263133339Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:16:22.738919501574Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.589930 h
+      gsElapsed: 2.606316 h
+      ssVelocity: 31.88 km / h
+      gsVelocity: 31.68 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 637.107
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '115'
+    - ERIC MATHURIN
+  - place: '10'
+    total: 525.987
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 16.6
+      time: 85.2
+      reach: 195.444
+      distance: 390.888
+      leading: 33.3
+    velocity:
+      ss: 2020-09-12T11:41:28.209400218615Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:38:16.571112396953Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.946767 h
+      gsElapsed: 2.971270 h
+      ssVelocity: 28.02 km / h
+      gsVelocity: 27.79 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 525.987
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '104'
+    - Valentino Bau
+  - place: '11'
+    total: 488.664
+    essNotGoal: true
+    penaltiesEssNotGoal:
+      adds:
+      - penalty-points: -13.303292027628396
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds:
+      - penalty-points: -13.303292027628396
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 15.9
+      time: 50.6
+      reach: 195.444
+      distance: 390.888
+      leading: 44.6
+    velocity:
+      ss: 2020-09-12T11:46:58.752811734914Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:46:05.201529079142Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.985125 h
+      gsElapsed: 3.101445 h
+      ssVelocity: 27.66 km / h
+      gsVelocity: 26.62 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 13.303
+    demeritReset: 0
+    subtotal: 501.967
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '122'
+    - Pieter Speeleveld
+  - place: '12'
+    total: 417.641
+    essNotGoal: true
+    penaltiesEssNotGoal:
+      adds:
+      - penalty-points: -3.0947762495999993
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds:
+      - penalty-points: -3.0947762495999993
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 15.5
+      time: 0
+      reach: 195.444
+      distance: 390.888
+      leading: 14.4
+    velocity:
+      ss: 2020-09-12T11:40:25.753968561814Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T15:03:56.908576654929Z
+      ssDistance: 82.569 km
+      ssElapsed: 3.391987 h
+      gsElapsed: 3.399141 h
+      ssVelocity: 24.34 km / h
+      gsVelocity: 24.29 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 3.095
+    demeritReset: 0
+    subtotal: 420.736
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '126'
+    - Andrea Theodoli
+  - place: '13'
+    total: 405.879
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 195.444
+      arrival: 0
+      time: 0
+      reach: 176.08
+      distance: 371.524
+      leading: 34.4
+    velocity:
+      ss: 2020-09-12T11:40:53.664825083526Z
+      gs: 2020-09-12T11:40:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 76.439 km
+      flown: 76.439 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 405.879
+    landedMade: 76.439 km
+    stoppedAlt: 191.000 m
+- - - '124'
+    - Rousselet Simon
+  - place: '14'
+    total: 380.361
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 191.913
+      arrival: 0
+      time: 0
+      reach: 166.749
+      distance: 358.662
+      leading: 21.7
+    velocity:
+      ss: 2020-09-12T11:44:25.094863921945Z
+      gs: 2020-09-12T11:40:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 72.388 km
+      flown: 72.388 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 380.361
+    landedMade: 72.388 km
+    stoppedAlt: 104.000 m
+- - - '133'
+    - Johann Courtain
+  - place: '15'
+    total: 377.32
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 192.104
+      arrival: 0
+      time: 0
+      reach: 166.935
+      distance: 359.039
+      leading: 18.3
+    velocity:
+      ss: 2020-09-12T11:42:47.968388089889Z
+      gs: 2020-09-12T11:40:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 72.469 km
+      flown: 72.469 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 377.32
+    landedMade: 72.469 km
+    stoppedAlt: 917.000 m
+- - - '132'
+    - Emiel Jansen
+  - place: '16'
+    total: 316.535
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 158.417
+      arrival: 0
+      time: 0
+      reach: 135.959
+      distance: 294.376
+      leading: 22.2
+    velocity:
+      ss: 2020-09-12T11:47:37.514763947206Z
+      gs: 2020-09-12T11:40:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 59.022 km
+      flown: 59.022 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 316.535
+    landedMade: 59.022 km
+    stoppedAlt: 99.000 m
+- - - '114'
+    - Konrad Lueders
+  - place: '17'
+    total: 280.247
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 147.728
+      arrival: 0
+      time: 0
+      reach: 128.646
+      distance: 276.374
+      leading: 3.9
+    velocity:
+      ss: 2020-09-12T11:41:42.402711932814Z
+      gs: 2020-09-12T11:40:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 55.847 km
+      flown: 55.847 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 280.247
+    landedMade: 55.847 km
+    stoppedAlt: 181.000 m
+- - - '131'
+    - Jurgen Buchert
+  - place: '18'
+    total: 248.94
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 130.073
+      arrival: 0
+      time: 0
+      reach: 118.867
+      distance: 248.94
+      leading: 0
+    velocity:
+      ss: 2020-09-12T11:41:07.212110290498Z
+      gs: 2020-09-12T11:40:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 51.602 km
+      flown: 51.602 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 248.94
+    landedMade: 51.602 km
+    stoppedAlt: 191.000 m
+- - - '102'
+    - Walter Bacchi
+  - place: '19'
+    total: 234.797
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 118.622
+      arrival: 0
+      time: 0
+      reach: 112.931
+      distance: 231.552
+      leading: 3.2
+    velocity:
+      ss: 2020-09-12T11:41:08.720598409899Z
+      gs: 2020-09-12T11:40:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 49.025 km
+      flown: 49.025 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 234.797
+    landedMade: 49.025 km
+    stoppedAlt: 184.000 m
+- - - '109'
+    - Marcello Ciarlo
+  - place: 20=
+    total: 219.151
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 110.033
+      arrival: 0
+      time: 0
+      reach: 109.118
+      distance: 219.151
+      leading: 0
+    velocity:
+      ss: 2020-09-12T11:42:06.414668362657Z
+      gs: 2020-09-12T11:40:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 47.370 km
+      flown: 47.370 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 219.151
+    landedMade: 47.370 km
+    stoppedAlt: 223.000 m
+- - - '129'
+    - Stepan Zubashev
+  - place: 20=
+    total: 219.08
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 110.033
+      arrival: 0
+      time: 0
+      reach: 109.047
+      distance: 219.08
+      leading: 0
+    velocity:
+      ss: 2020-09-12T11:41:37.497709077788Z
+      gs: 2020-09-12T11:40:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 47.339 km
+      flown: 47.339 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 219.08
+    landedMade: 47.339 km
+    stoppedAlt: 226.000 m
+- - - '108'
+    - Jean louis FOGLIA
+  - place: '22'
+    total: 19.083
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 2.958
+      arrival: 0
+      time: 0
+      reach: 16.125
+      distance: 19.083
+      leading: 0
+    velocity:
+      ss: 2020-09-12T12:33:09.42915561296Z
+      gs: 2020-09-12T11:40:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 3.437 km
+      flown: 3.437 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 19.083
+    landedMade: 3.437 km
+    stoppedAlt: 192.000 m
+- - - '105'
+    - Christian Ciech
+  - place: 23=
+    total: 16
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: 973.419 s
+    penaltiesJumpRaw:
+      adds: []
+      muls: []
+      resets: []
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets:
+      - penalty-reset: 16
+    penalties:
+      adds: []
+      muls: []
+      resets:
+      - penalty-reset: 16
+    breakdown:
+      effort: 195.444
+      arrival: 76.1
+      time: 426.4
+      reach: 195.444
+      distance: 390.888
+      leading: 106.6
+    velocity:
+      ss: 2020-09-12T11:23:46.581123471992Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T13:34:46.719414659552Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.183372 h
+      gsElapsed: 1.912978 h
+      ssVelocity: 37.82 km / h
+      gsVelocity: 43.16 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 984
+    subtotal: 1000
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '119'
+    - Christian Pollet
+  - place: 23=
+    total: 16
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: 844.695 s
+    penaltiesJumpRaw:
+      adds: []
+      muls: []
+      resets: []
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets:
+      - penalty-reset: 16
+    penalties:
+      adds: []
+      muls: []
+      resets:
+      - penalty-reset: 16
+    breakdown:
+      effort: 195.444
+      arrival: 48.5
+      time: 248.8
+      reach: 195.444
+      distance: 390.888
+      leading: 66.1
+    velocity:
+      ss: 2020-09-12T11:25:55.304711060193Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:03:46.683659163086Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.630939 h
+      gsElapsed: 2.396301 h
+      ssVelocity: 31.38 km / h
+      gsVelocity: 34.46 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 738.338
+    subtotal: 754.338
+    landedMade: 84.845 km
+    stoppedAlt: null
+- - - '113'
+    - Marco Laurenzi
+  - place: 23=
+    total: 16
+    essNotGoal: true
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: 949.679 s
+    penaltiesJumpRaw:
+      adds: []
+      muls: []
+      resets: []
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets:
+      - penalty-reset: 16
+    penalties:
+      adds: []
+      muls: []
+      resets:
+      - penalty-reset: 16
+    breakdown:
+      effort: 195.444
+      arrival: 26.9
+      time: 230.5
+      reach: 195.444
+      distance: 390.888
+      leading: 64.5
+    velocity:
+      ss: 2020-09-12T11:24:10.320997347002Z
+      gs: 2020-09-12T11:40:00Z
+      es: 2020-09-12T14:07:24.409914924104Z
+      ssDistance: 82.569 km
+      ssElapsed: 2.720580 h
+      gsElapsed: 2.456781 h
+      ssVelocity: 30.35 km / h
+      gsVelocity: 33.61 km / h
+    penaltyReason: ''
+    reach:
+      extra: 84.845 km
+      flown: 84.845 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 696.715
+    subtotal: 712.715
+    landedMade: 84.845 km
+    stoppedAlt: null
+scoreDfNoTrack: []

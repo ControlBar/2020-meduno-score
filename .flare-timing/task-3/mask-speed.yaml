@@ -1,0 +1,157 @@
+ssBestTime: 2.183372 h
+gsBestTime: 1.912978 h
+taskDistance: 84.844713 km
+taskSpeedDistance: 82.569117 km
+ssSpeed:
+- - - '105'
+    - Christian Ciech
+  - time: 2.183372 h
+    frac: 1
+- - - '134'
+    - Roland Wöhrle
+  - time: 2.304756 h
+    frac: 0.87540548
+- - - '118'
+    - Suan Selenati
+  - time: 2.351952 h
+    frac: 0.83617913
+- - - '106'
+    - Lorenzo De Grandis
+  - time: 2.391730 h
+    frac: 0.80454865
+- - - '130'
+    - Oliver Salewski
+  - time: 2.413202 h
+    frac: 0.78790249
+- - - '107'
+    - Joost Eertman
+  - time: 2.416283 h
+    frac: 0.78553561
+- - - '110'
+    - Tullio Gervasoni
+  - time: 2.517123 h
+    frac: 0.71056644
+- - - '103'
+    - Joerg Bajewski
+  - time: 2.539463 h
+    frac: 0.69450921
+- - - '123'
+    - Sasha Serebrennikova
+  - time: 2.589930 h
+    frac: 0.65883423
+- - - '112'
+    - Marco Gröbner
+  - time: 2.597216 h
+    frac: 0.65374639
+- - - '119'
+    - Christian Pollet
+  - time: 2.630939 h
+    frac: 0.63038885
+- - - '113'
+    - Marco Laurenzi
+  - time: 2.720580 h
+    frac: 0.56965589
+- - - '115'
+    - ERIC MATHURIN
+  - time: 2.946767 h
+    frac: 0.42324937
+- - - '104'
+    - Valentino Bau
+  - time: 2.985125 h
+    frac: 0.39919909
+- - - '122'
+    - Pieter Speeleveld
+  - time: 3.391987 h
+    frac: 0.15419489
+gsSpeed:
+- - - '105'
+    - Christian Ciech
+  - time: 1.912978 h
+    frac: 1
+- - - '134'
+    - Roland Wöhrle
+  - time: 2.362115 h
+    frac: 0.60831478
+- - - '118'
+    - Suan Selenati
+  - time: 2.389413 h
+    frac: 0.58857495
+- - - '119'
+    - Christian Pollet
+  - time: 2.396301 h
+    frac: 0.58362396
+- - - '106'
+    - Lorenzo De Grandis
+  - time: 2.411320 h
+    frac: 0.57286919
+- - - '107'
+    - Joost Eertman
+  - time: 2.423534 h
+    frac: 0.5641634
+- - - '130'
+    - Oliver Salewski
+  - time: 2.435315 h
+    frac: 0.55579855
+- - - '113'
+    - Marco Laurenzi
+  - time: 2.456781 h
+    frac: 0.54063755
+- - - '110'
+    - Tullio Gervasoni
+  - time: 2.540595 h
+    frac: 0.48235308
+- - - '103'
+    - Joerg Bajewski
+  - time: 2.600062 h
+    frac: 0.44179246
+- - - '123'
+    - Sasha Serebrennikova
+  - time: 2.606316 h
+    frac: 0.43756098
+- - - '112'
+    - Marco Gröbner
+  - time: 2.606416 h
+    frac: 0.43749356
+- - - '115'
+    - ERIC MATHURIN
+  - time: 2.971270 h
+    frac: 0.19993454
+- - - '104'
+    - Valentino Bau
+  - time: 3.101445 h
+    frac: 0.11872748
+- - - '122'
+    - Pieter Speeleveld
+  - time: 3.399141 h
+    frac: 0
+altStopped:
+- - - '126'
+    - Andrea Theodoli
+  - 191.000 m
+- - - '132'
+    - Emiel Jansen
+  - 99.000 m
+- - - '108'
+    - Jean louis FOGLIA
+  - 192.000 m
+- - - '133'
+    - Johann Courtain
+  - 917.000 m
+- - - '131'
+    - Jurgen Buchert
+  - 191.000 m
+- - - '114'
+    - Konrad Lueders
+  - 181.000 m
+- - - '109'
+    - Marcello Ciarlo
+  - 223.000 m
+- - - '124'
+    - Rousselet Simon
+  - 104.000 m
+- - - '129'
+    - Stepan Zubashev
+  - 226.000 m
+- - - '102'
+    - Walter Bacchi
+  - 184.000 m

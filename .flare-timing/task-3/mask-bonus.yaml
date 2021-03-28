@@ -1,0 +1,200 @@
+bolster:
+  max: 84.844713 km
+  mean: 72.446764 km
+  stdDev: 19.290444 km
+reach:
+  max: 84.844713 km
+  mean: 72.304233 km
+  stdDev: 19.780426 km
+reachRank:
+- - - '105'
+    - Christian Ciech
+  - frac: 1
+    reach: 84.844713 km
+- - - '134'
+    - Roland Wöhrle
+  - frac: 1
+    reach: 84.844713 km
+- - - '118'
+    - Suan Selenati
+  - frac: 1
+    reach: 84.844713 km
+- - - '119'
+    - Christian Pollet
+  - frac: 1
+    reach: 84.844713 km
+- - - '106'
+    - Lorenzo De Grandis
+  - frac: 1
+    reach: 84.844713 km
+- - - '107'
+    - Joost Eertman
+  - frac: 1
+    reach: 84.844713 km
+- - - '130'
+    - Oliver Salewski
+  - frac: 1
+    reach: 84.844713 km
+- - - '113'
+    - Marco Laurenzi
+  - frac: 1
+    reach: 84.844713 km
+- - - '110'
+    - Tullio Gervasoni
+  - frac: 1
+    reach: 84.844713 km
+- - - '103'
+    - Joerg Bajewski
+  - frac: 1
+    reach: 84.844713 km
+- - - '123'
+    - Sasha Serebrennikova
+  - frac: 1
+    reach: 84.844713 km
+- - - '112'
+    - Marco Gröbner
+  - frac: 1
+    reach: 84.844713 km
+- - - '115'
+    - ERIC MATHURIN
+  - frac: 1
+    reach: 84.844713 km
+- - - '104'
+    - Valentino Bau
+  - frac: 1
+    reach: 84.844713 km
+- - - '122'
+    - Pieter Speeleveld
+  - frac: 1
+    reach: 84.844713 km
+- - - '126'
+    - Andrea Theodoli
+  - frac: 0.90092488
+    reach: 76.438713 km
+- - - '133'
+    - Johann Courtain
+  - frac: 0.85413352
+    reach: 72.468713 km
+- - - '124'
+    - Rousselet Simon
+  - frac: 0.85317883
+    reach: 72.387713 km
+- - - '132'
+    - Emiel Jansen
+  - frac: 0.69564397
+    reach: 59.021713 km
+- - - '114'
+    - Konrad Lueders
+  - frac: 0.65822266
+    reach: 55.846713 km
+- - - '131'
+    - Jurgen Buchert
+  - frac: 0.60819008
+    reach: 51.601713 km
+- - - '102'
+    - Walter Bacchi
+  - frac: 0.57781695
+    reach: 49.024713 km
+- - - '109'
+    - Marcello Ciarlo
+  - frac: 0.55831072
+    reach: 47.369713 km
+- - - '129'
+    - Stepan Zubashev
+  - frac: 0.55794535
+    reach: 47.338713 km
+- - - '108'
+    - Jean louis FOGLIA
+  - frac: 4.050592e-2
+    reach: 3.436713 km
+nigh:
+- - - '126'
+    - Andrea Theodoli
+  - togo:
+      distance: 8.406000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 76.438713 km
+- - - '124'
+    - Rousselet Simon
+  - togo:
+      distance: 12.457000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 72.387713 km
+- - - '133'
+    - Johann Courtain
+  - togo:
+      distance: 12.376000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 72.468713 km
+- - - '132'
+    - Emiel Jansen
+  - togo:
+      distance: 25.823000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 59.021713 km
+- - - '114'
+    - Konrad Lueders
+  - togo:
+      distance: 28.998000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 55.846713 km
+- - - '102'
+    - Walter Bacchi
+  - togo:
+      distance: 35.820000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 49.024713 km
+- - - '131'
+    - Jurgen Buchert
+  - togo:
+      distance: 33.243000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 51.601713 km
+- - - '109'
+    - Marcello Ciarlo
+  - togo:
+      distance: 37.475000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 47.369713 km
+- - - '129'
+    - Stepan Zubashev
+  - togo:
+      distance: 37.506000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 47.338713 km
+- - - '108'
+    - Jean louis FOGLIA
+  - togo:
+      distance: 81.408000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 3.436713 km

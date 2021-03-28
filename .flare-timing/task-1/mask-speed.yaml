@@ -1,0 +1,110 @@
+ssBestTime: 1.027384 h
+gsBestTime: 1.028988 h
+taskDistance: 59.144830 km
+taskSpeedDistance: 57.066512 km
+ssSpeed:
+- - - '105'
+    - Christian Ciech
+  - time: 1.027384 h
+    frac: 1
+- - - '134'
+    - Roland Wöhrle
+  - time: 2.117721 h
+    frac: 0
+- - - '113'
+    - Marco Laurenzi
+  - time: 2.235538 h
+    frac: 0
+- - - '107'
+    - Joost Eertman
+  - time: 2.334348 h
+    frac: 0
+- - - '112'
+    - Marco Gröbner
+  - time: 2.394984 h
+    frac: 0
+gsSpeed:
+- - - '105'
+    - Christian Ciech
+  - time: 1.028988 h
+    frac: 1
+- - - '134'
+    - Roland Wöhrle
+  - time: 2.119479 h
+    frac: 0
+- - - '113'
+    - Marco Laurenzi
+  - time: 2.238177 h
+    frac: 0
+- - - '107'
+    - Joost Eertman
+  - time: 2.337427 h
+    frac: 0
+- - - '112'
+    - Marco Gröbner
+  - time: 2.410973 h
+    frac: 0
+altStopped:
+- - - '126'
+    - Andrea Theodoli
+  - 231.000 m
+- - - '119'
+    - Christian Pollet
+  - 199.000 m
+- - - '115'
+    - ERIC MATHURIN
+  - 238.000 m
+- - - '132'
+    - Emiel Jansen
+  - 236.000 m
+- - - '108'
+    - Jean louis FOGLIA
+  - 241.000 m
+- - - '103'
+    - Joerg Bajewski
+  - 233.000 m
+- - - '133'
+    - Johann Courtain
+  - -4975.000 m
+- - - '131'
+    - Jurgen Buchert
+  - 218.000 m
+- - - '114'
+    - Konrad Lueders
+  - 254.000 m
+- - - '106'
+    - Lorenzo De Grandis
+  - 169.000 m
+- - - '109'
+    - Marcello Ciarlo
+  - 237.000 m
+- - - '130'
+    - Oliver Salewski
+  - 236.000 m
+- - - '122'
+    - Pieter Speeleveld
+  - 235.000 m
+- - - '124'
+    - Rousselet Simon
+  - 219.000 m
+- - - '123'
+    - Sasha Serebrennikova
+  - 241.000 m
+- - - '129'
+    - Stepan Zubashev
+  - 241.000 m
+- - - '118'
+    - Suan Selenati
+  - 219.000 m
+- - - '110'
+    - Tullio Gervasoni
+  - 237.000 m
+- - - '104'
+    - Valentino Bau
+  - 173.000 m
+- - - '101'
+    - Vanni Accattoli
+  - 235.000 m
+- - - '102'
+    - Walter Bacchi
+  - 221.000 m

@@ -1,0 +1,132 @@
+bestDistance: 84.844713 km
+chunking:
+  startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 851
+  - 85.1 km
+  sumOf: 2330
+landout: 10
+lookahead: 255
+difficulty:
+- chunk: 34
+  startChunk: 3.4 km
+  endChunk: 3.5 km
+  endAhead: 29.0 km
+  down: 1
+  downs:
+  - 3.437 km
+  downers:
+  - - '108'
+    - Jean louis FOGLIA
+  downward: 1
+  rel: 2.1459e-4
+  frac: 7.56836e-3
+- chunk: 473
+  startChunk: 47.3 km
+  endChunk: 47.4 km
+  endAhead: 72.9 km
+  down: 2
+  downs:
+  - 47.339 km
+  - 47.370 km
+  downers:
+  - - '129'
+    - Stepan Zubashev
+  - - '109'
+    - Marcello Ciarlo
+  downward: 8
+  rel: 1.71674e-3
+  frac: 0.28149414
+- chunk: 490
+  startChunk: 49.0 km
+  endChunk: 49.1 km
+  endAhead: 74.6 km
+  down: 1
+  downs:
+  - 49.025 km
+  downers:
+  - - '102'
+    - Walter Bacchi
+  downward: 6
+  rel: 1.28755e-3
+  frac: 0.3034668
+- chunk: 516
+  startChunk: 51.6 km
+  endChunk: 51.7 km
+  endAhead: 77.2 km
+  down: 1
+  downs:
+  - 51.602 km
+  downers:
+  - - '131'
+    - Jurgen Buchert
+  downward: 6
+  rel: 1.28755e-3
+  frac: 0.33276367
+- chunk: 558
+  startChunk: 55.8 km
+  endChunk: 55.9 km
+  endAhead: 81.4 km
+  down: 1
+  downs:
+  - 55.847 km
+  downers:
+  - - '114'
+    - Konrad Lueders
+  downward: 5
+  rel: 1.07296e-3
+  frac: 0.37792969
+- chunk: 590
+  startChunk: 59.0 km
+  endChunk: 59.1 km
+  endAhead: 84.6 km
+  down: 1
+  downs:
+  - 59.022 km
+  downers:
+  - - '132'
+    - Emiel Jansen
+  downward: 4
+  rel: 8.5837e-4
+  frac: 0.40527344
+- chunk: 723
+  startChunk: 72.3 km
+  endChunk: 72.4 km
+  endAhead: 97.9 km
+  down: 1
+  downs:
+  - 72.388 km
+  downers:
+  - - '124'
+    - Rousselet Simon
+  downward: 3
+  rel: 6.4378e-4
+  frac: 0.4909668
+- chunk: 724
+  startChunk: 72.4 km
+  endChunk: 72.5 km
+  endAhead: 98.0 km
+  down: 1
+  downs:
+  - 72.469 km
+  downers:
+  - - '133'
+    - Johann Courtain
+  downward: 2
+  rel: 4.2918e-4
+  frac: 0.49145508
+- chunk: 764
+  startChunk: 76.4 km
+  endChunk: 76.5 km
+  endAhead: 102.0 km
+  down: 1
+  downs:
+  - 76.439 km
+  downers:
+  - - '126'
+    - Andrea Theodoli
+  downward: 1
+  rel: 2.1459e-4
+  frac: 0.5

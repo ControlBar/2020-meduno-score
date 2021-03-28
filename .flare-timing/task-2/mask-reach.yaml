@@ -1,0 +1,440 @@
+bolster:
+  max: 84.498418 km
+  mean: 56.913160 km
+  stdDev: 28.559240 km
+reach:
+  max: 84.498418 km
+  mean: 56.879704 km
+  stdDev: 28.618044 km
+reachRank:
+- - - '134'
+    - Roland Wöhrle
+  - frac: 1
+    reach: 84.498418 km
+- - - '105'
+    - Christian Ciech
+  - frac: 1
+    reach: 84.498418 km
+- - - '113'
+    - Marco Laurenzi
+  - frac: 1
+    reach: 84.498418 km
+- - - '107'
+    - Joost Eertman
+  - frac: 1
+    reach: 84.498418 km
+- - - '106'
+    - Lorenzo De Grandis
+  - frac: 1
+    reach: 84.498418 km
+- - - '130'
+    - Oliver Salewski
+  - frac: 1
+    reach: 84.498418 km
+- - - '119'
+    - Christian Pollet
+  - frac: 1
+    reach: 84.498418 km
+- - - '118'
+    - Suan Selenati
+  - frac: 1
+    reach: 84.498418 km
+- - - '112'
+    - Marco Gröbner
+  - frac: 1
+    reach: 84.498418 km
+- - - '123'
+    - Sasha Serebrennikova
+  - frac: 1
+    reach: 84.498418 km
+- - - '102'
+    - Walter Bacchi
+  - frac: 0.70033759
+    reach: 59.177418 km
+- - - '103'
+    - Joerg Bajewski
+  - frac: 0.63854945
+    reach: 53.956418 km
+- - - '122'
+    - Pieter Speeleveld
+  - frac: 0.51297313
+    reach: 43.345418 km
+- - - '104'
+    - Valentino Bau
+  - frac: 0.47790739
+    reach: 40.382418 km
+- - - '110'
+    - Tullio Gervasoni
+  - frac: 0.37783451
+    reach: 31.926418 km
+- - - '114'
+    - Konrad Lueders
+  - frac: 0.37520724
+    reach: 31.704418 km
+- - - '115'
+    - ERIC MATHURIN
+  - frac: 0.28806951
+    reach: 24.341418 km
+- - - '129'
+    - Stepan Zubashev
+  - frac: 0.26210453
+    reach: 22.147418 km
+- - - '124'
+    - Rousselet Simon
+  - frac: 0.24641193
+    reach: 20.821418 km
+- - - '109'
+    - Marcello Ciarlo
+  - frac: 0.1821267
+    reach: 15.389418 km
+- - - '131'
+    - Jurgen Buchert
+  - frac: 7.452705e-2
+    reach: 6.297418 km
+nigh:
+- - - '102'
+    - Walter Bacchi
+  - togo:
+      distance: 25.318859 km
+      flipSum:
+      - 25.318859 km
+      - 12.305739 km
+      - 3.846232 km
+      legs:
+      - 13.013120 km
+      - 8.459507 km
+      - 3.846232 km
+      legsSum:
+      - 13.013120 km
+      - 21.472627 km
+      - 25.318859 km
+      waypoints:
+      - lat: 46.21158333
+        lng: 12.73406667
+      - lat: 46.2017369
+        lng: 12.90257083
+      - lat: 46.18383106
+        lng: 12.79575582
+      - lat: 46.19384297
+        lng: 12.8435821
+    made: 59.177418 km
+- - - '103'
+    - Joerg Bajewski
+  - togo:
+      distance: 30.524574 km
+      flipSum:
+      - 30.524574 km
+      - 12.236063 km
+      - 3.857246 km
+      legs:
+      - 18.288510 km
+      - 8.378817 km
+      - 3.857246 km
+      legsSum:
+      - 18.288510 km
+      - 26.667328 km
+      - 30.524574 km
+      waypoints:
+      - lat: 46.16425
+        lng: 12.67018333
+      - lat: 46.19296318
+        lng: 12.90407113
+      - lat: 46.18227386
+        lng: 12.79632798
+      - lat: 46.19353508
+        lng: 12.84372145
+    made: 53.956418 km
+- - - '122'
+    - Pieter Speeleveld
+  - togo:
+      distance: 41.144162 km
+      flipSum:
+      - 41.144162 km
+      - 30.612061 km
+      - 12.241975 km
+      - 3.850125 km
+      legs:
+      - 10.532101 km
+      - 18.370086 km
+      - 8.391850 km
+      - 3.850125 km
+      legsSum:
+      - 10.532101 km
+      - 28.902187 km
+      - 37.294037 km
+      - 41.144162 km
+      waypoints:
+      - lat: 46.20645
+        lng: 12.79903333
+      - lat: 46.18716448
+        lng: 12.66506115
+      - lat: 46.19646126
+        lng: 12.90333534
+      - lat: 46.18305423
+        lng: 12.79605194
+      - lat: 46.19368859
+        lng: 12.84364979
+    made: 43.345418 km
+- - - '104'
+    - Valentino Bau
+  - togo:
+      distance: 44.115150 km
+      flipSum:
+      - 44.115150 km
+      - 30.586937 km
+      - 12.241975 km
+      - 3.850125 km
+      legs:
+      - 13.528213 km
+      - 18.344962 km
+      - 8.391850 km
+      - 3.850125 km
+      legsSum:
+      - 13.528213 km
+      - 31.873175 km
+      - 40.265026 km
+      - 44.115150 km
+      waypoints:
+      - lat: 46.20788333
+        lng: 12.83795
+      - lat: 46.18349994
+        lng: 12.66575392
+      - lat: 46.19646126
+        lng: 12.90333534
+      - lat: 46.18305423
+        lng: 12.79605194
+      - lat: 46.19368859
+        lng: 12.84364979
+    made: 40.382418 km
+- - - '110'
+    - Tullio Gervasoni
+  - togo:
+      distance: 52.564066 km
+      flipSum:
+      - 52.564066 km
+      - 30.586937 km
+      - 12.241975 km
+      - 3.850125 km
+      legs:
+      - 21.977129 km
+      - 18.344962 km
+      - 8.391850 km
+      - 3.850125 km
+      legsSum:
+      - 21.977129 km
+      - 40.322091 km
+      - 48.713941 km
+      - 52.564066 km
+      waypoints:
+      - lat: 46.21141667
+        lng: 12.94843333
+      - lat: 46.18349994
+        lng: 12.66575392
+      - lat: 46.19646126
+        lng: 12.90333534
+      - lat: 46.18305423
+        lng: 12.79605194
+      - lat: 46.19368859
+        lng: 12.84364979
+    made: 31.926418 km
+- - - '114'
+    - Konrad Lueders
+  - togo:
+      distance: 52.787204 km
+      flipSum:
+      - 52.787204 km
+      - 30.586937 km
+      - 12.241975 km
+      - 3.850125 km
+      legs:
+      - 22.200267 km
+      - 18.344962 km
+      - 8.391850 km
+      - 3.850125 km
+      legsSum:
+      - 22.200267 km
+      - 40.545229 km
+      - 48.937079 km
+      - 52.787204 km
+      waypoints:
+      - lat: 46.21323333
+        lng: 12.95098333
+      - lat: 46.18349994
+        lng: 12.66575392
+      - lat: 46.19646126
+        lng: 12.90333534
+      - lat: 46.18305423
+        lng: 12.79605194
+      - lat: 46.19368859
+        lng: 12.84364979
+    made: 31.704418 km
+- - - '115'
+    - ERIC MATHURIN
+  - togo:
+      distance: 60.108654 km
+      flipSum:
+      - 60.108654 km
+      - 30.652031 km
+      - 12.256071 km
+      - 3.850125 km
+      legs:
+      - 29.456623 km
+      - 18.395960 km
+      - 8.405946 km
+      - 3.850125 km
+      legsSum:
+      - 29.456623 km
+      - 47.852583 km
+      - 56.258529 km
+      - 60.108654 km
+      waypoints:
+      - lat: 46.26396667
+        lng: 13.03231667
+      - lat: 46.19081987
+        lng: 12.66427391
+      - lat: 46.19821657
+        lng: 12.90303518
+      - lat: 46.18305423
+        lng: 12.79605194
+      - lat: 46.19368859
+        lng: 12.84364979
+    made: 24.341418 km
+- - - '129'
+    - Stepan Zubashev
+  - togo:
+      distance: 62.323635 km
+      flipSum:
+      - 62.323635 km
+      - 30.705588 km
+      - 12.256071 km
+      - 3.850125 km
+      legs:
+      - 31.618047 km
+      - 18.449517 km
+      - 8.405946 km
+      - 3.850125 km
+      legsSum:
+      - 31.618047 km
+      - 50.067563 km
+      - 58.473510 km
+      - 62.323635 km
+      waypoints:
+      - lat: 46.28888333
+        lng: 13.0512
+      - lat: 46.19446494
+        lng: 12.66339244
+      - lat: 46.19821657
+        lng: 12.90303518
+      - lat: 46.18305423
+        lng: 12.79605194
+      - lat: 46.19368859
+        lng: 12.84364979
+    made: 22.147418 km
+- - - '124'
+    - Rousselet Simon
+  - togo:
+      distance: 63.622614 km
+      flipSum:
+      - 63.622614 km
+      - 63.313158 km
+      - 30.652031 km
+      - 12.256071 km
+      - 3.850125 km
+      legs:
+      - 0.309456 km
+      - 32.661127 km
+      - 18.395960 km
+      - 8.405946 km
+      - 3.850125 km
+      legsSum:
+      - 0.309456 km
+      - 32.970583 km
+      - 51.366543 km
+      - 59.772489 km
+      - 63.622614 km
+      waypoints:
+      - lat: 46.27505
+        lng: 13.06693333
+      - lat: 46.27537135
+        lng: 13.07093276
+      - lat: 46.19081987
+        lng: 12.66427391
+      - lat: 46.19821657
+        lng: 12.90303518
+      - lat: 46.18305423
+        lng: 12.79605194
+      - lat: 46.19368859
+        lng: 12.84364979
+    made: 20.821418 km
+- - - '109'
+    - Marcello Ciarlo
+  - togo:
+      distance: 69.076159 km
+      flipSum:
+      - 69.076159 km
+      - 63.492625 km
+      - 30.652031 km
+      - 12.256071 km
+      - 3.850125 km
+      legs:
+      - 5.583533 km
+      - 32.840595 km
+      - 18.395960 km
+      - 8.405946 km
+      - 3.850125 km
+      legsSum:
+      - 5.583533 km
+      - 38.424128 km
+      - 56.820088 km
+      - 65.226034 km
+      - 69.076159 km
+      waypoints:
+      - lat: 46.22305
+        lng: 13.03731667
+      - lat: 46.2648391
+        lng: 13.0775729
+      - lat: 46.19081987
+        lng: 12.66427391
+      - lat: 46.19821657
+        lng: 12.90303518
+      - lat: 46.18305423
+        lng: 12.79605194
+      - lat: 46.19368859
+        lng: 12.84364979
+    made: 15.389418 km
+- - - '131'
+    - Jurgen Buchert
+  - togo:
+      distance: 78.157023 km
+      flipSum:
+      - 78.157023 km
+      - 63.321759 km
+      - 30.652031 km
+      - 12.256071 km
+      - 3.850125 km
+      legs:
+      - 14.835263 km
+      - 32.669728 km
+      - 18.395960 km
+      - 8.405946 km
+      - 3.850125 km
+      legsSum:
+      - 14.835263 km
+      - 47.504992 km
+      - 65.900951 km
+      - 74.306898 km
+      - 78.157023 km
+      waypoints:
+      - lat: 46.20583333
+        lng: 12.90428333
+      - lat: 46.27030244
+        lng: 13.07316104
+      - lat: 46.19081987
+        lng: 12.66427391
+      - lat: 46.19821657
+        lng: 12.90303518
+      - lat: 46.18305423
+        lng: 12.79605194
+      - lat: 46.19368859
+        lng: 12.84364979
+    made: 6.297418 km

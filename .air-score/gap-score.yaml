@@ -1,0 +1,2647 @@
+bestTime:
+- 2.11944 h
+- 2.27556 h
+- 1.91306 h
+- 2.45278 h
+validity:
+- distance: 0.40653872297079874
+  time: 1.0
+  launch: 1.0
+  stop: 1.0
+  task: 0.40653872297079874
+- distance: 0.7727177963668407
+  time: 1.0
+  launch: 1.0
+  stop: 1.0
+  task: 0.7727177963668407
+- distance: 1.0
+  time: 1.0
+  launch: 1.0
+  stop: 1.0
+  task: 1.0
+- distance: 0.6399162028968389
+  time: 1.0
+  launch: 1.0
+  stop: 1.0
+  task: 0.6399162028968389
+validityWorkingDistance:
+- area: 34.45
+  flying: 34
+  minimumDistance: 7.000 km
+  nominalDistance: 60.0 km
+  nominalGoal: 0.3
+  reachMax:
+    extra: 59.55047 km
+    flown: 59.55047 km
+  sum: 655.04119 km
+- area: 34.45
+  flying: 34
+  minimumDistance: 7.000 km
+  nominalDistance: 60.0 km
+  nominalGoal: 0.3
+  reachMax:
+    extra: 85.13040 km
+    flown: 85.13040 km
+  sum: 1143.91916 km
+- area: 34.45
+  flying: 34
+  minimumDistance: 7.000 km
+  nominalDistance: 60.0 km
+  nominalGoal: 0.3
+  reachMax:
+    extra: 85.27090 km
+    flown: 85.27090 km
+  sum: 1810.57815 km
+- area: 34.45
+  flying: 34
+  minimumDistance: 7.000 km
+  nominalDistance: 60.0 km
+  nominalGoal: 0.3
+  reachMax:
+    extra: 82.87410 km
+    flown: 82.87410 km
+  sum: 956.86247 km
+validityWorkingLaunch:
+- flying: 34
+  nominalLaunch: 0.96
+  present: 34
+- flying: 34
+  nominalLaunch: 0.96
+  present: 34
+- flying: 34
+  nominalLaunch: 0.96
+  present: 34
+- flying: 34
+  nominalLaunch: 0.96
+  present: 34
+validityWorkingStop:
+- flying: 34
+  landed: 26
+  launchToEssDistance: 56.521 km
+  pilotsAtEss: 5
+  reachStats:
+    extra:
+      max: 59.550470 km
+      mean: 25.314569 km
+      stdDev: 18.332220 km
+    flown:
+      max: 59.550470 km
+      mean: 19.265917 km
+      stdDev: 18.463017 km
+  stillFlying: 8
+- flying: 34
+  landed: 21
+  launchToEssDistance: 83.671 km
+  pilotsAtEss: 10
+  reachStats:
+    extra:
+      max: 85.130400 km
+      mean: 54.815227 km
+      stdDev: 31.667905 km
+    flown:
+      max: 85.130400 km
+      mean: 33.644681 km
+      stdDev: 32.234333 km
+  stillFlying: 13
+- flying: 34
+  landed: 25
+  launchToEssDistance: 81.965 km
+  pilotsAtEss: 15
+  reachStats:
+    extra:
+      max: 85.270900 km
+      mean: 72.581640 km
+      stdDev: 19.917737 km
+    flown:
+      max: 85.270900 km
+      mean: 53.252298 km
+      stdDev: 20.469537 km
+  stillFlying: 9
+- flying: 34
+  landed: 20
+  launchToEssDistance: 79.050 km
+  pilotsAtEss: 3
+  reachStats:
+    extra:
+      max: 82.874100 km
+      mean: 48.209257 km
+      stdDev: 24.608264 km
+    flown:
+      max: 82.874100 km
+      mean: 28.143014 km
+      stdDev: 25.277409 km
+  stillFlying: 14
+validityWorkingTime:
+- gsBestTime: 2.11944 h
+  nominalDistance: 60.0 km
+  nominalTime: 1.500000 h
+  reachMax:
+    extra: 59.55047 km
+    flown: 59.55047 km
+  ssBestTime: 2.11806 h
+- gsBestTime: 2.27556 h
+  nominalDistance: 60.0 km
+  nominalTime: 1.500000 h
+  reachMax:
+    extra: 85.13040 km
+    flown: 85.13040 km
+  ssBestTime: 2.26694 h
+- gsBestTime: 1.91306 h
+  nominalDistance: 60.0 km
+  nominalTime: 1.500000 h
+  reachMax:
+    extra: 85.27090 km
+    flown: 85.27090 km
+  ssBestTime: 1.90389 h
+- gsBestTime: 2.45278 h
+  nominalDistance: 60.0 km
+  nominalTime: 1.500000 h
+  reachMax:
+    extra: 82.87410 km
+    flown: 82.87410 km
+  ssBestTime: 2.44778 h
+score:
+- - - - '134'
+      - Roland Wöhrle
+    - breakdown:
+        distance: 295.5012723993554
+        leading: 19.431553850002587
+        arrival: 13.87968132143042
+        time: 77.72621540001036
+        effort: 0.5
+        reach: 0.5
+      place: '1'
+      total: 406.53872297079874
+      fractions:
+        distance: 1.0
+        leading: 1.0
+        arrival: 1.0
+        time: 1.0
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 59.550470 km
+        flown: 59.550470 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: '2020-09-10T14:07:10Z'
+      timeElapsed: 2.11944 h
+      leadingArea: null
+      leadingCoef: 1.4759321237194918
+  - - - '113'
+      - Marco Laurenzi
+    - breakdown:
+        distance: 295.5012723993554
+        leading: 15.110245958035922
+        arrival: 5.631375343181321
+        time: 63.09587755839411
+        effort: 0.5
+        reach: 0.5
+      place: '2'
+      total: 379.33877125896674
+      fractions:
+        distance: 1.0
+        leading: 0.777613878677742
+        arrival: 0.405728
+        time: 0.8117708707889268
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 59.550470 km
+        flown: 59.550470 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: '2020-09-10T14:14:18Z'
+      timeElapsed: 2.23833 h
+      leadingArea: null
+      leadingCoef: 1.6033395412991451
+  - - - '105'
+      - Christian Ciech
+    - breakdown:
+        distance: 293.9758466110212
+        leading: 16.819011467369005
+        arrival: 7.071930811915
+        time: 54.11185768334076
+        effort: 0.5
+        reach: 0.49483758483674556
+      place: '3'
+      total: 371.978646573646
+      fractions:
+        distance: 0.9948378368189472
+        leading: 0.8655515455531502
+        arrival: 0.5095168000000001
+        time: 0.6961854170418484
+        effort: 1.0
+        reach: 0.9896751696734911
+      reach:
+        extra: 58.935651 km
+        flown: 58.935651 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: '2020-09-10T14:11:15Z'
+      timeElapsed: 2.18750 h
+      leadingArea: null
+      leadingCoef: 1.5358238614161552
+  - - - '107'
+      - Joost Eertman
+    - breakdown:
+        distance: 295.5012723993554
+        leading: 11.261569107432306
+        arrival: 3.8323465690227962
+        time: 55.80464748219598
+        effort: 0.5
+        reach: 0.5
+      place: '4'
+      total: 366.3998355580065
+      fractions:
+        distance: 1.0
+        leading: 0.579550621343172
+        arrival: 0.276112
+        time: 0.717964295508315
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 59.550470 km
+        flown: 59.550470 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: '2020-09-10T14:20:15Z'
+      timeElapsed: 2.33750 h
+      leadingArea: null
+      leadingCoef: 1.8071423711885688
+  - - - '112'
+      - Marco Gröbner
+    - breakdown:
+        distance: 295.5012723993554
+        leading: 10.097660428312167
+        arrival: 3.0211069551478307
+        time: 51.1137746044465
+        effort: 0.5
+        reach: 0.5
+      place: '5'
+      total: 359.73381438726193
+      fractions:
+        distance: 1.0
+        leading: 0.519652751718094
+        arrival: 0.217664
+        time: 0.6576130632553567
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 59.550470 km
+        flown: 59.550470 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: '2020-09-10T14:24:40Z'
+      timeElapsed: 2.41111 h
+      leadingArea: null
+      leadingCoef: 1.8803833470576303
+  - - - '130'
+      - Oliver Salewski
+    - breakdown:
+        distance: 223.02672661485767
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.47701475595913945
+        reach: 0.2777254284502983
+      place: '6'
+      total: 223.02672661485767
+      fractions:
+        distance: 0.7547403258333455
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.9540295119182789
+        reach: 0.5554508569005966
+      reach:
+        extra: 33.077376 km
+        flown: 33.077376 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 3.4082793053087297
+  - - - '123'
+      - Sasha Serebrennikova
+    - breakdown:
+        distance: 220.9833223095863
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.47543212499966336
+        reach: 0.272393018109677
+      place: '7'
+      total: 220.9833223095863
+      fractions:
+        distance: 0.7478252818178672
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.9508642499993267
+        reach: 0.544786036219354
+      reach:
+        extra: 32.442281 km
+        flown: 32.442281 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 3.0924093472657903
+  - - - '118'
+      - Suan Selenati
+    - breakdown:
+        distance: 191.32034451482733
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.43501763248742525
+        reach: 0.21242564583239548
+      place: '8'
+      total: 191.32034451482733
+      fractions:
+        distance: 0.6474433864916402
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.8700352649748505
+        reach: 0.42485129166479096
+      reach:
+        extra: 25.300107 km
+        flown: 25.300107 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 3.4306801323905813
+  - - - '104'
+      - Valentino Bau
+    - breakdown:
+        distance: 189.8835265963367
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.43256983445024727
+        reach: 0.21001113805444335
+      place: '9'
+      total: 189.8835265963367
+      fractions:
+        distance: 0.6425810794469896
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.8651396689004945
+        reach: 0.4200222761088867
+      reach:
+        extra: 25.012537 km
+        flown: 25.012537 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 3.819539592814095
+  - - - '106'
+      - Lorenzo De Grandis
+    - breakdown:
+        distance: 184.3686091241591
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.42366691685588803
+        reach: 0.20025113768992145
+      place: '10'
+      total: 184.3686091241591
+      fractions:
+        distance: 0.6239181565181012
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.8473338337117761
+        reach: 0.4005022753798429
+      reach:
+        extra: 23.850111 km
+        flown: 23.850111 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 3.2161192442092172
+  - - - '115'
+      - Eric Mathurin
+    - breakdown:
+        distance: 176.7224045762297
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.4107104632808374
+        reach: 0.18733222855718235
+      place: '11'
+      total: 176.7224045762297
+      fractions:
+        distance: 0.5980427872317182
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.8214209265616748
+        reach: 0.3746644571143647
+      reach:
+        extra: 22.311456 km
+        flown: 22.311456 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 3.5783587990902057
+  - - - '126'
+      - Andrea Theodoli
+    - breakdown:
+        distance: 162.87018011158398
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.3837789475505865
+        reach: 0.16738671614181816
+      place: '12'
+      total: 162.87018011158398
+      fractions:
+        distance: 0.5511657489294088
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.767557895101173
+        reach: 0.3347734322836363
+      reach:
+        extra: 19.935925 km
+        flown: 19.935925 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 3.719756245003885
+  - - - '101'
+      - Vanni Accattoli
+    - breakdown:
+        distance: 162.62125913125038
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.38328764377890934
+        reach: 0.1670356515355668
+      place: '13'
+      total: 162.62125913125038
+      fractions:
+        distance: 0.5503233803727104
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.7665752875578187
+        reach: 0.3340713030711336
+      reach:
+        extra: 19.894113 km
+        flown: 19.894113 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 3.9714877128250916
+  - - - '110'
+      - Tullio Gervasoni
+    - breakdown:
+        distance: 162.57253975985603
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.3831840668960379
+        reach: 0.16697435819038262
+      place: '14'
+      total: 162.57253975985603
+      fractions:
+        distance: 0.550158510113443
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.7663681337920758
+        reach: 0.33394871638076523
+      reach:
+        extra: 19.886813 km
+        flown: 19.886813 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 4.010754125979434
+  - - - '109'
+      - Marcello Ciarlo
+    - breakdown:
+        distance: 162.55781552818743
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.3831527633308387
+        reach: 0.16695583378441425
+      place: '15'
+      total: 162.55781552818743
+      fractions:
+        distance: 0.5501086821328423
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.7663055266616774
+        reach: 0.3339116675688285
+      reach:
+        extra: 19.884607 km
+        flown: 19.884607 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 3.9980707042200763
+  - - - '114'
+      - Konrad Lueders
+    - breakdown:
+        distance: 107.12711750783325
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.25688723843677286
+        reach: 0.10563946319745168
+      place: '16'
+      total: 107.12711750783325
+      fractions:
+        distance: 0.3625267554281669
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.5137744768735457
+        reach: 0.21127892639490337
+      reach:
+        extra: 12.581766 km
+        flown: 12.581766 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 4.0643288435250975
+  - - - '103'
+      - Joerg Bajewski
+    - breakdown:
+        distance: 107.1174336381124
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.2568684013798687
+        reach: 0.10562552926983347
+      place: '17'
+      total: 107.1174336381124
+      fractions:
+        distance: 0.3624939844365491
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.5137368027597374
+        reach: 0.21125105853966694
+      reach:
+        extra: 12.580106 km
+        flown: 12.580106 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 4.101939485684155
+  - - - '108'
+      - Jean Louis Foglia
+    - breakdown:
+        distance: 105.63058415879077
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.2536487275179774
+        reach: 0.10381358619621898
+      place: '18'
+      total: 105.63058415879077
+      fractions:
+        distance: 0.35746236657836195
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.5072974550359548
+        reach: 0.20762717239243797
+      reach:
+        extra: 12.364302 km
+        flown: 12.364302 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 4.103332887894074
+  - - - '122'
+      - Pieter Speeleveld
+    - breakdown:
+        distance: 104.53833592511475
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.2511048661708427
+        reach: 0.10266119252759662
+      place: '19'
+      total: 104.53833592511475
+      fractions:
+        distance: 0.35376611097578065
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.5022097323416854
+        reach: 0.20532238505519324
+      reach:
+        extra: 12.227051 km
+        flown: 12.227051 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 4.238919194210475
+  - - - '133'
+      - Johann Courtain
+    - breakdown:
+        distance: 104.52415516692169
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.2510711351403183
+        reach: 0.10264693474259926
+      place: '20'
+      total: 104.52415516692169
+      fractions:
+        distance: 0.3537181221529985
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.5021422702806366
+        reach: 0.2052938694851985
+      reach:
+        extra: 12.225353 km
+        flown: 12.225353 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 4.214328603440097
+  - - - '124'
+      - Rousselet Simon
+    - breakdown:
+        distance: 101.8765441152753
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.2443638077269872
+        reach: 0.10039453521053589
+      place: '21'
+      total: 101.8765441152753
+      fractions:
+        distance: 0.3447583940606326
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.4887276154539744
+        reach: 0.20078907042107177
+      reach:
+        extra: 11.957090 km
+        flown: 11.957090 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 4.09633653967134
+  - - - '119'
+      - Christian Pollet
+    - breakdown:
+        distance: 94.00341684283343
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.2257034408233901
+        reach: 0.09241161219771828
+      place: '22'
+      total: 94.00341684283343
+      fractions:
+        distance: 0.31811510007913757
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.4514068816467802
+        reach: 0.18482322439543655
+      reach:
+        extra: 11.006315 km
+        flown: 11.006315 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 4.144386871533591
+  - - - '129'
+      - Stepan Zubashev
+    - breakdown:
+        distance: 93.75093280551589
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.225108194701218
+        reach: 0.09215243222464153
+      place: '23'
+      total: 93.75093280551589
+      fractions:
+        distance: 0.3172606738519086
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.450216389402436
+        reach: 0.18430486444928307
+      reach:
+        extra: 10.975447 km
+        flown: 10.975447 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 4.1662467003854875
+  - - - '102'
+      - Walter Bacchi
+    - breakdown:
+        distance: 80.51780847058936
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.19247496602625866
+        reach: 0.08000371326400864
+      place: '24'
+      total: 80.51780847058936
+      fractions:
+        distance: 0.2724787200299209
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.3849499320525173
+        reach: 0.16000742652801728
+      reach:
+        extra: 9.528522 km
+        flown: 9.528522 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 4.271310367646553
+  - - - '131'
+      - Jurgen Buchert
+    - breakdown:
+        distance: 55.18582137386065
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.12797956867196353
+        reach: 0.04014035159182152
+      place: '25'
+      total: 55.18582137386065
+      fractions:
+        distance: 0.18675324449797878
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.25595913734392706
+        reach: 0.08028070318364304
+      reach:
+        extra: 7.000000 km
+        flown: 4.780756 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 4.678564245088933
+  - - - '132'
+      - Emiel Jansen
+    - breakdown:
+        distance: 55.18582137386065
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.12797956867196353
+        reach: 0.051062774893207104
+      place: '25'
+      total: 55.18582137386065
+      fractions:
+        distance: 0.18675324449797878
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.25595913734392706
+        reach: 0.10212554978641421
+      reach:
+        extra: 7.000000 km
+        flown: 6.081628 km
+      landedMade: null
+      ss: '2020-09-10T12:00:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 4.56444084326842
+- - - - '134'
+      - Roland Wöhrle
+    - breakdown:
+        distance: 420.00507253468766
+        leading: 61.72472667062679
+        arrival: 44.089090479019134
+        time: 246.89890668250715
+        effort: 0.5
+        reach: 0.5
+      place: '1'
+      total: 772.7177963668406
+      fractions:
+        distance: 1.0
+        leading: 1.0
+        arrival: 1.0
+        time: 1.0
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 85.130400 km
+        flown: 85.130400 km
+      landedMade: null
+      ss: '2020-09-11T11:45:00Z'
+      es: '2020-09-11T14:01:32Z'
+      timeElapsed: 2.27556 h
+      leadingArea: null
+      leadingCoef: 1.45598621008604
+  - - - '105'
+      - Christian Ciech
+    - breakdown:
+        distance: 420.00507253468766
+        leading: 57.527972851887476
+        arrival: 35.27378546137261
+        time: 229.11278668502925
+        effort: 0.5
+        reach: 0.5
+      place: '2'
+      total: 741.9196175329771
+      fractions:
+        distance: 1.0
+        leading: 0.9320085475447486
+        arrival: 0.800057
+        time: 0.9279619329365866
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 85.130400 km
+        flown: 85.130400 km
+      landedMade: null
+      ss: '2020-09-11T11:45:00Z'
+      es: '2020-09-11T14:03:17Z'
+      timeElapsed: 2.30472 h
+      leadingArea: null
+      leadingCoef: 1.4773786395689468
+  - - - '113'
+      - Marco Laurenzi
+    - breakdown:
+        distance: 420.00507253468766
+        leading: 57.22774483793001
+        arrival: 28.080165369725375
+        time: 225.55825178018185
+        effort: 0.5
+        reach: 0.5
+      place: '3'
+      total: 730.8712345225249
+      fractions:
+        distance: 1.0
+        leading: 0.927144564662175
+        arrival: 0.6368960000000001
+        time: 0.9135652110044873
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 85.130400 km
+        flown: 85.130400 km
+      landedMade: null
+      ss: '2020-09-11T11:45:00Z'
+      es: '2020-09-11T14:03:50Z'
+      timeElapsed: 2.31389 h
+      leadingArea: null
+      leadingCoef: 1.4797147801391985
+  - - - '107'
+      - Joost Eertman
+    - breakdown:
+        distance: 420.00507253468766
+        leading: 44.59589926903501
+        arrival: 22.340779838438092
+        time: 175.3597265125263
+        effort: 0.5
+        reach: 0.5
+      place: '4'
+      total: 662.3014781546871
+      fractions:
+        distance: 1.0
+        leading: 0.7224965046342936
+        arrival: 0.5067189999999999
+        time: 0.7102491010137413
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 85.130400 km
+        flown: 85.130400 km
+      landedMade: null
+      ss: '2020-09-11T11:45:00Z'
+      es: '2020-09-11T14:15:39Z'
+      timeElapsed: 2.51083 h
+      leadingArea: null
+      leadingCoef: 1.6323791982871418
+  - - - '106'
+      - Lorenzo De Grandis
+    - breakdown:
+        distance: 420.00507253468766
+        leading: 45.41613526567277
+        arrival: 17.888178501871476
+        time: 157.71272818989067
+        effort: 0.5
+        reach: 0.5
+      place: '5'
+      total: 641.0221144921226
+      fractions:
+        distance: 1.0
+        leading: 0.7357851174946578
+        arrival: 0.40572800000000003
+        time: 0.6387745102196707
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 85.130400 km
+        flown: 85.130400 km
+      landedMade: null
+      ss: '2020-09-11T11:45:00Z'
+      es: '2020-09-11T14:21:11Z'
+      timeElapsed: 2.60306 h
+      leadingArea: null
+      leadingCoef: 1.6198619047819331
+  - - - '130'
+      - Oliver Salewski
+    - breakdown:
+        distance: 420.00507253468766
+        leading: 32.277360120882435
+        arrival: 14.554910994386193
+        time: 125.55884529383388
+        effort: 0.5
+        reach: 0.5
+      place: '6'
+      total: 592.3961889437902
+      fractions:
+        distance: 1.0
+        leading: 0.5229243102706586
+        arrival: 0.330125
+        time: 0.5085435451332023
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 85.130400 km
+        flown: 85.130400 km
+      landedMade: null
+      ss: '2020-09-11T11:45:00Z'
+      es: '2020-09-11T14:32:43Z'
+      timeElapsed: 2.79528 h
+      leadingArea: null
+      leadingCoef: 1.85359828160849
+  - - - '119'
+      - Christian Pollet
+    - breakdown:
+        distance: 420.00507253468766
+        leading: 24.298594913530067
+        arrival: 12.173526950342932
+        time: 111.18970535229957
+        effort: 0.5
+        reach: 0.5
+      place: '7'
+      total: 567.6668997508604
+      fractions:
+        distance: 1.0
+        leading: 0.39366063203797297
+        arrival: 0.276112
+        time: 0.4503450697547272
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 85.130400 km
+        flown: 85.130400 km
+      landedMade: null
+      ss: '2020-09-11T11:45:00Z'
+      es: '2020-09-11T14:38:25Z'
+      timeElapsed: 2.89028 h
+      leadingArea: null
+      leadingCoef: 2.025694161460794
+  - - - '118'
+      - Suan Selenati
+    - breakdown:
+        distance: 420.00507253468766
+        leading: 33.147919939337285
+        arrival: 10.57657600410238
+        time: 96.57265708487967
+        effort: 0.5
+        reach: 0.5
+      place: '8'
+      total: 560.302225563007
+      fractions:
+        distance: 1.0
+        leading: 0.5370282174957208
+        arrival: 0.23989100000000002
+        time: 0.39114250598551503
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 85.130400 km
+        flown: 85.130400 km
+      landedMade: null
+      ss: '2020-09-11T11:45:00Z'
+      es: '2020-09-11T14:44:32Z'
+      timeElapsed: 2.99222 h
+      leadingArea: null
+      leadingCoef: 1.8360971893578288
+  - - - '112'
+      - Marco Gröbner
+    - breakdown:
+        distance: 420.00507253468766
+        leading: 22.659206046270533
+        arrival: 9.596607790025221
+        time: 92.75128525748731
+        effort: 0.5
+        reach: 0.5
+      place: '9'
+      total: 545.0121716284708
+      fractions:
+        distance: 1.0
+        leading: 0.3671009540015261
+        arrival: 0.217664
+        time: 0.3756650302901433
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 85.130400 km
+        flown: 85.130400 km
+      landedMade: null
+      ss: '2020-09-11T11:45:00Z'
+      es: '2020-09-11T14:46:11Z'
+      timeElapsed: 3.01972 h
+      leadingArea: null
+      leadingCoef: 2.0635337860378393
+  - - - '123'
+      - Sasha Serebrennikova
+    - breakdown:
+        distance: 420.00507253468766
+        leading: 10.898090078790585
+        arrival: 9.066171942472142
+        time: 8.826132024709402
+        effort: 0.5
+        reach: 0.5
+      place: '10'
+      total: 448.79546658065976
+      fractions:
+        distance: 1.0
+        leading: 0.1765595518461276
+        arrival: 0.205633
+        time: 0.03574795912749473
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 85.130400 km
+        flown: 85.130400 km
+      landedMade: null
+      ss: '2020-09-11T11:45:00Z'
+      es: '2020-09-11T15:27:14Z'
+      timeElapsed: 3.70389 h
+      leadingArea: null
+      leadingCoef: 2.3576132443334656
+  - - - '102'
+      - Walter Bacchi
+    - breakdown:
+        distance: 355.58208165778643
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.5
+        reach: 0.34661377900006046
+      place: '11'
+      total: 355.58208165778643
+      fractions:
+        distance: 0.8466137790000605
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 1.0
+        reach: 0.6932275580001209
+      reach:
+        extra: 59.014739 km
+        flown: 59.014739 km
+      landedMade: null
+      ss: '2020-09-11T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 3.4278249807931407
+  - - - '122'
+      - Pieter Speeleveld
+    - breakdown:
+        distance: 300.0126658067145
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.46195137957508225
+        reach: 0.25235586437358903
+      place: '12'
+      total: 300.0126658067145
+      fractions:
+        distance: 0.7143072439486713
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.9239027591501645
+        reach: 0.5047117287471781
+      reach:
+        extra: 42.966311 km
+        flown: 42.966311 km
+      landedMade: null
+      ss: '2020-09-11T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 4.697201094351768
+  - - - '104'
+      - Valentino Bau
+    - breakdown:
+        distance: 286.80139103812417
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.44798037795458756
+        reach: 0.23487182977544552
+      place: '13'
+      total: 286.80139103812417
+      fractions:
+        distance: 0.6828522077300331
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.8959607559091751
+        reach: 0.46974365955089104
+      reach:
+        extra: 39.989466 km
+        flown: 39.989466 km
+      landedMade: null
+      ss: '2020-09-11T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 4.313413722172287
+  - - - '110'
+      - Tullio Gervasoni
+    - breakdown:
+        distance: 244.90719499666778
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.3980198996649021
+        reach: 0.18508542694145988
+      place: '14'
+      total: 244.90719499666778
+      fractions:
+        distance: 0.5831053266063619
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.7960397993298042
+        reach: 0.37017085388291976
+      reach:
+        extra: 31.512793 km
+        flown: 31.512793 km
+      landedMade: null
+      ss: '2020-09-11T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 5.042339053085132
+  - - - '114'
+      - Konrad Lueders
+    - breakdown:
+        distance: 243.69690678378862
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.3964546698931012
+        reach: 0.18376905291363238
+      place: '15'
+      total: 243.69690678378862
+      fractions:
+        distance: 0.5802237228067335
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.7929093397862024
+        reach: 0.36753810582726476
+      reach:
+        extra: 31.288666 km
+        flown: 31.288666 km
+      landedMade: null
+      ss: '2020-09-11T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 5.168420227565459
+  - - - '115'
+      - Eric Mathurin
+    - breakdown:
+        distance: 196.46181032590727
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.32706007211843924
+        reach: 0.1407004935820661
+      place: '16'
+      total: 196.46181032590727
+      fractions:
+        distance: 0.46776056570050534
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.6541201442368785
+        reach: 0.2814009871641322
+      reach:
+        extra: 23.955779 km
+        flown: 23.955779 km
+      landedMade: null
+      ss: '2020-09-11T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 5.537120597321346
+  - - - '129'
+      - Stepan Zubashev
+    - breakdown:
+        distance: 180.00375627338988
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.30089304240186404
+        reach: 0.1276821535763312
+      place: '17'
+      total: 180.00375627338988
+      fractions:
+        distance: 0.42857519597819527
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.6017860848037281
+        reach: 0.2553643071526624
+      reach:
+        extra: 21.739266 km
+        flown: 21.739266 km
+      landedMade: null
+      ss: '2020-09-11T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 5.721727192963585
+  - - - '124'
+      - Rousselet Simon
+    - breakdown:
+        distance: 168.75102616322997
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.2819526031571421
+        reach: 0.11983070185113982
+      place: '18'
+      total: 168.75102616322997
+      fractions:
+        distance: 0.40178330500828185
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.5639052063142842
+        reach: 0.23966140370227965
+      reach:
+        extra: 20.402471 km
+        flown: 20.402471 km
+      landedMade: null
+      ss: '2020-09-11T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 5.864943616965252
+  - - - '109'
+      - Marcello Ciarlo
+    - breakdown:
+        distance: 123.71290033219807
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.2067663938805182
+        reach: 0.08778457329138613
+      place: '19'
+      total: 123.71290033219807
+      fractions:
+        distance: 0.2945509671719043
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.4135327877610364
+        reach: 0.17556914658277226
+      reach:
+        extra: 14.946272 km
+        flown: 14.946272 km
+      landedMade: null
+      ss: '2020-09-11T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 6.371457200341786
+  - - - '103'
+      - Joerg Bajewski
+    - breakdown:
+        distance: 58.92946835365548
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.09919316563834829
+        reach: 0.005659799738074053
+      place: '20'
+      total: 58.92946835365548
+      fractions:
+        distance: 0.14030656343748937
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.19838633127669658
+        reach: 0.011319599476148107
+      reach:
+        extra: 7.000000 km
+        flown: 0.963642 km
+      landedMade: null
+      ss: '2020-09-11T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 7.383792510912926
+  - - - '131'
+      - Jurgen Buchert
+    - breakdown:
+        distance: 58.92946835365548
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.09919316563834829
+        reach: 0.034275397154882335
+      place: '20'
+      total: 58.92946835365548
+      fractions:
+        distance: 0.14030656343748937
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.19838633127669658
+        reach: 0.06855079430976467
+      reach:
+        extra: 7.000000 km
+        flown: 5.835757 km
+      landedMade: null
+      ss: '2020-09-11T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 6.952953784345739
+- - - - '105'
+      - Christian Ciech
+    - breakdown:
+        distance: 499.9295745980054
+        leading: 87.51232444534904
+        arrival: 62.50880317524932
+        time: 350.04929778139615
+        effort: 0.5
+        reach: 0.5
+      place: '1'
+      total: 999.9999999999999
+      fractions:
+        distance: 1.0
+        leading: 1.0
+        arrival: 1.0
+        time: 1.0
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 85.270900 km
+        flown: 85.270900 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: '2020-09-12T13:34:47Z'
+      timeElapsed: 1.91306 h
+      leadingArea: null
+      leadingCoef: 1.2361057138950569
+  - - - '134'
+      - Roland Wöhrle
+    - breakdown:
+        distance: 499.9295745980054
+        leading: 48.91866509290188
+        arrival: 53.90948101327542
+        time: 184.66598152688968
+        effort: 0.5
+        reach: 0.5
+      place: '2'
+      total: 787.4237022310724
+      fractions:
+        distance: 1.0
+        leading: 0.5589917237708766
+        arrival: 0.8624302222222222
+        time: 0.5275427852513864
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 85.270900 km
+        flown: 85.270900 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: '2020-09-12T14:01:44Z'
+      timeElapsed: 2.36222 h
+      leadingArea: null
+      leadingCoef: 1.5617158506110649
+  - - - '118'
+      - Suan Selenati
+    - breakdown:
+        distance: 499.9295745980054
+        leading: 47.91300153086773
+        arrival: 46.36719660384015
+        time: 178.04956754153912
+        effort: 0.5
+        reach: 0.5
+      place: '3'
+      total: 772.2593402742524
+      fractions:
+        distance: 1.0
+        leading: 0.5475000445313178
+        arrival: 0.7417706666666668
+        time: 0.5086414075674852
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 85.270900 km
+        flown: 85.270900 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: '2020-09-12T14:03:22Z'
+      timeElapsed: 2.38944 h
+      leadingArea: null
+      leadingCoef: 1.5745253998991398
+  - - - '119'
+      - Christian Pollet
+    - breakdown:
+        distance: 499.9295745980054
+        leading: 49.958362300559926
+        arrival: 39.8116067071036
+        time: 176.38207935869082
+        effort: 0.5
+        reach: 0.5
+      place: '4'
+      total: 766.0816229643597
+      fractions:
+        distance: 1.0
+        leading: 0.5708723041833799
+        arrival: 0.6368960000000001
+        time: 0.5038778265707033
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 85.270900 km
+        flown: 85.270900 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: '2020-09-12T14:03:47Z'
+      timeElapsed: 2.39639 h
+      leadingArea: null
+      leadingCoef: 1.5486471648832585
+  - - - '106'
+      - Lorenzo De Grandis
+    - breakdown:
+        distance: 499.9295745980054
+        leading: 48.55259980042404
+        arrival: 34.172368083225905
+        time: 172.80729777259853
+        effort: 0.5
+        reach: 0.5
+      place: '5'
+      total: 755.4618402542538
+      fractions:
+        distance: 1.0
+        leading: 0.5548087096091805
+        arrival: 0.546680888888889
+        time: 0.4936656032960127
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 85.270900 km
+        flown: 85.270900 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: '2020-09-12T14:04:41Z'
+      timeElapsed: 2.41139 h
+      leadingArea: null
+      leadingCoef: 1.5663594929961042
+  - - - '107'
+      - Joost Eertman
+    - breakdown:
+        distance: 499.9295745980054
+        leading: 48.330965279357486
+        arrival: 29.379137492367185
+        time: 169.92096850085275
+        effort: 0.5
+        reach: 0.5
+      place: '6'
+      total: 747.5606458705827
+      fractions:
+        distance: 1.0
+        leading: 0.5522761003741811
+        arrival: 0.4700000000000001
+        time: 0.4854201096182957
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 85.270900 km
+        flown: 85.270900 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: '2020-09-12T14:05:25Z'
+      timeElapsed: 2.42361 h
+      leadingArea: null
+      leadingCoef: 1.56918162428871
+  - - - '130'
+      - Oliver Salewski
+    - breakdown:
+        distance: 499.9295745980054
+        leading: 47.92858345423075
+        arrival: 25.361571694687555
+        time: 167.18724854585156
+        effort: 0.5
+        reach: 0.5
+      place: '7'
+      total: 740.4069782927752
+      fractions:
+        distance: 1.0
+        leading: 0.5476780985764111
+        arrival: 0.405728
+        time: 0.4776105811537982
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 85.270900 km
+        flown: 85.270900 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: '2020-09-12T14:06:07Z'
+      timeElapsed: 2.43528 h
+      leadingArea: null
+      leadingCoef: 1.574325672588818
+  - - - '110'
+      - Tullio Gervasoni
+    - breakdown:
+        distance: 499.9295745980054
+        leading: 42.485468928542424
+        arrival: 19.37206151950607
+        time: 143.3705427630673
+        effort: 0.5
+        reach: 0.5
+      place: '8'
+      total: 705.1576478091212
+      fractions:
+        distance: 1.0
+        leading: 0.48547983610096385
+        arrival: 0.30990933333333337
+        time: 0.4095724335736317
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 85.270900 km
+        flown: 85.270900 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: '2020-09-12T14:12:26Z'
+      timeElapsed: 2.54056 h
+      leadingArea: null
+      leadingCoef: 1.6464339524953575
+  - - - '113'
+      - Marco Laurenzi
+    - breakdown:
+        distance: 499.59431353403517
+        leading: 48.67940729638278
+        arrival: 17.639461960277718
+        time: 129.73096567154943
+        effort: 0.5
+        reach: 0.49932938341517447
+      place: '9'
+      total: 695.6441484622451
+      fractions:
+        distance: 0.9993293834151744
+        leading: 0.5562577340381674
+        arrival: 0.2821916444444445
+        time: 0.3706077015259882
+        effort: 1.0
+        reach: 0.9986587668303489
+      reach:
+        extra: 85.156532 km
+        flown: 85.156532 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: '2020-09-12T14:07:25Z'
+      timeElapsed: 2.45694 h
+      leadingArea: null
+      leadingCoef: 1.5647484231182391
+  - - - '112'
+      - Marco Gröbner
+    - breakdown:
+        distance: 499.9295745980054
+        leading: 37.852302559179854
+        arrival: 15.641091638962386
+        time: 129.15657750795938
+        effort: 0.5
+        reach: 0.5
+      place: '10'
+      total: 682.579546304107
+      fractions:
+        distance: 1.0
+        leading: 0.43253682037457947
+        arrival: 0.25022222222222223
+        time: 0.36896682360613375
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 85.270900 km
+        flown: 85.270900 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: '2020-09-12T14:16:23Z'
+      timeElapsed: 2.60639 h
+      leadingArea: null
+      leadingCoef: 1.7113690779466564
+  - - - '103'
+      - Joerg Bajewski
+    - breakdown:
+        distance: 499.9295745980054
+        leading: 33.44942888207407
+        arrival: 17.25943066232444
+        time: 130.51564997817877
+        effort: 0.5
+        reach: 0.5
+      place: '11'
+      total: 681.1540841205826
+      fractions:
+        distance: 1.0
+        leading: 0.3822253504757842
+        arrival: 0.276112
+        time: 0.37284934095107103
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 85.270900 km
+        flown: 85.270900 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: '2020-09-12T14:16:00Z'
+      timeElapsed: 2.60000 h
+      leadingArea: null
+      leadingCoef: 1.7759554973014369
+  - - - '123'
+      - Sasha Serebrennikova
+    - breakdown:
+        distance: 499.9295745980054
+        leading: 30.84364411805055
+        arrival: 14.446701209580024
+        time: 129.15657750795938
+        effort: 0.5
+        reach: 0.5
+      place: '12'
+      total: 674.3764974335953
+      fractions:
+        distance: 1.0
+        leading: 0.3524491471748329
+        arrival: 0.2311146666666667
+        time: 0.36896682360613375
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 85.270900 km
+        flown: 85.270900 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: '2020-09-12T14:16:23Z'
+      timeElapsed: 2.60639 h
+      leadingArea: null
+      leadingCoef: 1.8154525325671451
+  - - - '115'
+      - Eric Mathurin
+    - breakdown:
+        distance: 499.9295745980054
+        leading: 23.646132876636216
+        arrival: 13.605916134337468
+        time: 57.20619482997563
+        effort: 0.5
+        reach: 0.5
+      place: '13'
+      total: 594.3878184389547
+      fractions:
+        distance: 1.0
+        leading: 0.2702034602155162
+        arrival: 0.217664
+        time: 0.16342325264626179
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 85.270900 km
+        flown: 85.270900 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: '2020-09-12T14:38:17Z'
+      timeElapsed: 2.97139 h
+      leadingArea: null
+      leadingCoef: 1.929260947710622
+  - - - '104'
+      - Valentino Bau
+    - breakdown:
+        distance: 499.0177222562784
+        leading: 31.56135897871893
+        arrival: 10.438714538715876
+        time: 26.91357157202997
+        effort: 0.4997822401200216
+        reach: 0.498393798290068
+      place: '14'
+      total: 567.9313673457431
+      fractions:
+        distance: 0.9981760384100896
+        leading: 0.36065044756557485
+        arrival: 0.16699591111111112
+        time: 0.0768850894505646
+        effort: 0.9995644802400432
+        reach: 0.996787596580136
+      reach:
+        extra: 84.996975 km
+        flown: 84.996975 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: '2020-09-12T14:46:06Z'
+      timeElapsed: 3.10167 h
+      leadingArea: null
+      leadingCoef: 1.8044812216875263
+  - - - '122'
+      - Pieter Speeleveld
+    - breakdown:
+        distance: 499.2808601092536
+        leading: 4.192310007010603
+        arrival: 10.163031269529817
+        time: 0.0
+        effort: 0.499923355377465
+        reach: 0.4987790328753735
+      place: '15'
+      total: 513.636201385794
+      fractions:
+        distance: 0.9987023882528385
+        leading: 0.047905366856398346
+        arrival: 0.16258560000000002
+        time: 0.0
+        effort: 0.99984671075493
+        reach: 0.997558065750747
+      reach:
+        extra: 85.062674 km
+        flown: 85.062674 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: '2020-09-12T15:03:57Z'
+      timeElapsed: 3.39917 h
+      leadingArea: null
+      leadingCoef: 2.2689812296280434
+  - - - '126'
+      - Andrea Theodoli
+    - breakdown:
+        distance: 446.3611066441621
+        leading: 15.103794229884565
+        arrival: 0
+        time: 0
+        effort: 0.4459166576686543
+        reach: 0.44693131397431596
+      place: '16'
+      total: 461.46490087404663
+      fractions:
+        distance: 0.8928479716429703
+        leading: 0.17259048169057378
+        arrival: 0.0
+        time: 0.0
+        effort: 0.8918333153373086
+        reach: 0.8938626279486319
+      reach:
+        extra: 76.220471 km
+        flown: 76.220471 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 2.0728804815489372
+  - - - '133'
+      - Johann Courtain
+    - breakdown:
+        distance: 418.41421187749233
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.4133175474764066
+        reach: 0.4236287608390002
+      place: '17'
+      total: 418.41421187749233
+      fractions:
+        distance: 0.8369463083154067
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.8266350949528132
+        reach: 0.8472575216780004
+      reach:
+        extra: 72.246411 km
+        flown: 72.246411 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 2.537822892212121
+  - - - '124'
+      - Rousselet Simon
+    - breakdown:
+        distance: 417.81007037463945
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.41258302413646547
+        reach: 0.42315483096162826
+      place: '18'
+      total: 417.81007037463945
+      fractions:
+        distance: 0.8357378550980937
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.8251660482729309
+        reach: 0.8463096619232565
+      reach:
+        extra: 72.165587 km
+        flown: 72.165587 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 2.405555722652101
+  - - - '132'
+      - Emiel Jansen
+    - breakdown:
+        distance: 316.0682953189818
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.2877582485089799
+        reach: 0.3444673916186983
+      place: '19'
+      total: 316.0682953189818
+      fractions:
+        distance: 0.6322256401276782
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.5755164970179598
+        reach: 0.6889347832373967
+      reach:
+        extra: 58.746089 km
+        flown: 58.746089 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 3.1686899151388626
+  - - - '114'
+      - Konrad Lueders
+    - breakdown:
+        distance: 294.6297858697059
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.2635849576832283
+        reach: 0.3257576234325587
+      place: '20'
+      total: 294.6297858697059
+      fractions:
+        distance: 0.5893425811157871
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.5271699153664566
+        reach: 0.6515152468651174
+      reach:
+        extra: 55.555291 km
+        flown: 55.555291 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 3.56893369098292
+  - - - '131'
+      - Jurgen Buchert
+    - breakdown:
+        distance: 267.1678385393143
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.2335257097996145
+        reach: 0.3008852394908823
+      place: '21'
+      total: 267.1678385393143
+      fractions:
+        distance: 0.5344109492904968
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.467051419599229
+        reach: 0.6017704789817646
+      reach:
+        extra: 51.313510 km
+        flown: 51.313510 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 4.029460627048638
+  - - - '102'
+      - Walter Bacchi
+    - breakdown:
+        distance: 251.66304786221943
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.21764987279252945
+        reach: 0.28574712680402836
+      place: '22'
+      total: 251.66304786221943
+      fractions:
+        distance: 0.5033969995965578
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.4352997455850589
+        reach: 0.5714942536080567
+      reach:
+        extra: 48.731829 km
+        flown: 48.731829 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 3.8480390936996165
+  - - - '109'
+      - Marcello Ciarlo
+    - breakdown:
+        distance: 239.96043813782273
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.20401906545721288
+        reach: 0.27596941758217425
+      place: '23'
+      total: 239.96043813782273
+      fractions:
+        distance: 0.4799884830393871
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.40803813091442576
+        reach: 0.5519388351643485
+      reach:
+        extra: 47.064321 km
+        flown: 47.064321 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 4.170791141700527
+  - - - '129'
+      - Stepan Zubashev
+    - breakdown:
+        distance: 239.72247539617842
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.20374134086015463
+        reach: 0.27577114965201377
+      place: '24'
+      total: 239.72247539617842
+      fractions:
+        distance: 0.4795124905121684
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.40748268172030927
+        reach: 0.5515422993040275
+      reach:
+        extra: 47.030508 km
+        flown: 47.030508 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 4.698747417538285
+  - - - '108'
+      - Jean Louis Foglia
+    - breakdown:
+        distance: 27.808438162682087
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.014579055441478452
+        reach: 0.017808817426341834
+      place: '25'
+      total: 27.808438162682087
+      fractions:
+        distance: 0.05562471111064578
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.029158110882956903
+        reach: 0.03561763485268367
+      reach:
+        extra: 7.000000 km
+        flown: 3.037148 km
+      landedMade: null
+      ss: '2020-09-12T11:40:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 7.6201106827804965
+- - - - '105'
+      - Christian Ciech
+    - breakdown:
+        distance: 490.1895690312178
+        leading: 26.202160926483703
+        arrival: 18.715829233202644
+        time: 104.80864370593481
+        effort: 0.5
+        reach: 0.5
+      place: '1'
+      total: 639.9162028968389
+      fractions:
+        distance: 1.0
+        leading: 1.0
+        arrival: 1.0
+        time: 1.0
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 82.874100 km
+        flown: 82.874100 km
+      landedMade: null
+      ss: '2020-09-13T11:45:00Z'
+      es: '2020-09-13T14:12:10Z'
+      timeElapsed: 2.45278 h
+      leadingArea: null
+      leadingCoef: 1.7015595754938058
+  - - - '134'
+      - Roland Wöhrle
+    - breakdown:
+        distance: 490.1895690312178
+        leading: 24.29605506865603
+        arrival: 8.796439739605244
+        time: 99.02957391053613
+        effort: 0.5
+        reach: 0.5
+      place: '2'
+      total: 622.3116377500153
+      fractions:
+        distance: 1.0
+        leading: 0.9272538679853277
+        arrival: 0.4700000000000001
+        time: 0.9448607520233425
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 82.874100 km
+        flown: 82.874100 km
+      landedMade: null
+      ss: '2020-09-13T11:45:00Z'
+      es: '2020-09-13T14:13:23Z'
+      timeElapsed: 2.47306 h
+      leadingArea: null
+      leadingCoef: 1.727153591620738
+  - - - '119'
+      - Christian Pollet
+    - breakdown:
+        distance: 490.1895690312178
+        leading: 23.600569597261163
+        arrival: 4.683116381463595
+        time: 84.97870584907288
+        effort: 0.5
+        reach: 0.5
+      place: '3'
+      total: 603.4519608590155
+      fractions:
+        distance: 1.0
+        leading: 0.9007108102067645
+        arrival: 0.25022222222222223
+        time: 0.8107986406875042
+        effort: 1.0
+        reach: 1.0
+      reach:
+        extra: 82.874100 km
+        flown: 82.874100 km
+      landedMade: null
+      ss: '2020-09-13T11:45:00Z'
+      es: '2020-09-13T14:19:54Z'
+      timeElapsed: 2.58167 h
+      leadingArea: null
+      leadingCoef: 1.7423705090958321
+  - - - '113'
+      - Marco Laurenzi
+    - breakdown:
+        distance: 482.120521581769
+        leading: 23.336729857324386
+        arrival: 0
+        time: 0
+        effort: 0.5
+        reach: 0.4835389246136021
+      place: '4'
+      total: 505.4572514390934
+      fractions:
+        distance: 0.9835389246136022
+        leading: 0.8906414216293475
+        arrival: 0.0
+        time: 0.0
+        effort: 1.0
+        reach: 0.9670778492272042
+      reach:
+        extra: 80.145706 km
+        flown: 80.145706 km
+      landedMade: null
+      ss: '2020-09-13T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 1.7487335929608627
+  - - - '115'
+      - Eric Mathurin
+    - breakdown:
+        distance: 390.77083209825423
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.46802452912834175
+        reach: 0.3291585542868175
+      place: '5'
+      total: 390.77083209825423
+      fractions:
+        distance: 0.7971830834151592
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.9360490582566835
+        reach: 0.658317108573635
+      reach:
+        extra: 54.557438 km
+        flown: 54.557438 km
+      landedMade: null
+      ss: '2020-09-13T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 3.147711934602457
+  - - - '123'
+      - Sasha Serebrennikova
+    - breakdown:
+        distance: 390.04225719654966
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.4677209760049981
+        reach: 0.3279757948736775
+      place: '6'
+      total: 390.04225719654966
+      fractions:
+        distance: 0.7956967708786756
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.9354419520099962
+        reach: 0.655951589747355
+      reach:
+        extra: 54.361398 km
+        flown: 54.361398 km
+      landedMade: null
+      ss: '2020-09-13T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 3.588504614725996
+  - - - '104'
+      - Valentino Bau
+    - breakdown:
+        distance: 389.77482276137476
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.4675693980954611
+        reach: 0.3275817992906912
+      place: '7'
+      total: 389.77482276137476
+      fractions:
+        distance: 0.7951511973861523
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.9351387961909222
+        reach: 0.6551635985813824
+      reach:
+        extra: 54.296094 km
+        flown: 54.296094 km
+      landedMade: null
+      ss: '2020-09-13T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 3.625324445094105
+  - - - '130'
+      - Oliver Salewski
+    - breakdown:
+        distance: 389.6583136735048
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.46746942222145027
+        reach: 0.32744409346923015
+      place: '8'
+      total: 389.6583136735048
+      fractions:
+        distance: 0.7949135156906804
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.9349388444429005
+        reach: 0.6548881869384603
+      reach:
+        extra: 54.273269 km
+        flown: 54.273269 km
+      landedMade: null
+      ss: '2020-09-13T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 3.5039859701590736
+  - - - '118'
+      - Suan Selenati
+    - breakdown:
+        distance: 389.2326141947973
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.46708604152653593
+        reach: 0.32695903569543355
+      place: '9'
+      total: 389.2326141947973
+      fractions:
+        distance: 0.7940450772219695
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.9341720830530719
+        reach: 0.6539180713908671
+      reach:
+        extra: 54.192872 km
+        flown: 54.192872 km
+      landedMade: null
+      ss: '2020-09-13T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 3.5489896473752367
+  - - - '107'
+      - Joost Eertman
+    - breakdown:
+        distance: 387.96130209506623
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.465486094616377
+        reach: 0.3259654714824497
+      place: '10'
+      total: 387.96130209506623
+      fractions:
+        distance: 0.7914515660988267
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.930972189232754
+        reach: 0.6519309429648994
+      reach:
+        extra: 54.028190 km
+        flown: 54.028190 km
+      landedMade: null
+      ss: '2020-09-13T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 3.3070965323371513
+  - - - '103'
+      - Joerg Bajewski
+    - breakdown:
+        distance: 386.5959460689822
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.46359660116538326
+        reach: 0.32506960165290194
+      place: '11'
+      total: 386.5959460689822
+      fractions:
+        distance: 0.7886662028182851
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.9271932023307665
+        reach: 0.6501392033058039
+      reach:
+        extra: 53.879701 km
+        flown: 53.879701 km
+      landedMade: null
+      ss: '2020-09-13T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 3.2120418072292014
+  - - - '110'
+      - Tullio Gervasoni
+    - breakdown:
+        distance: 384.48280691350016
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.46055243546813246
+        reach: 0.32380290622828434
+      place: '12'
+      total: 384.48280691350016
+      fractions:
+        distance: 0.7843553416964169
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.9211048709362649
+        reach: 0.6476058124565687
+      reach:
+        extra: 53.669749 km
+        flown: 53.669749 km
+      landedMade: null
+      ss: '2020-09-13T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 3.2379242892261426
+  - - - '108'
+      - Jean Louis Foglia
+    - breakdown:
+        distance: 367.77334676302013
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.4352352116651042
+        reach: 0.31503237866707284
+      place: '13'
+      total: 367.77334676302013
+      fractions:
+        distance: 0.750267590332177
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.8704704233302084
+        reach: 0.6300647573341457
+      reach:
+        extra: 52.216050 km
+        flown: 52.216050 km
+      landedMade: null
+      ss: '2020-09-13T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 4.192798754190234
+  - - - '124'
+      - Rousselet Simon
+    - breakdown:
+        distance: 364.7118516167164
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.4304615825159103
+        reach: 0.3135604747822727
+      place: '14'
+      total: 364.7118516167164
+      fractions:
+        distance: 0.744022057298183
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.8609231650318206
+        reach: 0.6271209495645454
+      reach:
+        extra: 51.972084 km
+        flown: 51.972084 km
+      landedMade: null
+      ss: '2020-09-13T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 3.923065442650966
+  - - - '126'
+      - Andrea Theodoli
+    - breakdown:
+        distance: 149.374500454627
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.14526935571086344
+        reach: 0.15945867175378067
+      place: '15'
+      total: 120.874500454627
+      fractions:
+        distance: 0.3047280274646441
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.2905387114217269
+        reach: 0.31891734350756135
+      reach:
+        extra: 26.429988 km
+        flown: 26.429988 km
+      landedMade: null
+      ss: '2020-09-13T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 5.008083219197765
+  - - - '132'
+      - Emiel Jansen
+    - breakdown:
+        distance: 155.18801576862475
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.14826982041173953
+        reach: 0.1683179357808888
+      place: '16'
+      total: 118.68801576862475
+      fractions:
+        distance: 0.31658775619262836
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.29653964082347906
+        reach: 0.3366358715617776
+      reach:
+        extra: 27.898395 km
+        flown: 27.898395 km
+      landedMade: null
+      ss: '2020-09-13T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 4.781767681121781
+  - - - '114'
+      - Konrad Lueders
+    - breakdown:
+        distance: 116.7272539332145
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.11729296534499734
+        reach: 0.12083379480599375
+      place: '17'
+      total: 116.7272539332145
+      fractions:
+        distance: 0.2381267601509911
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.23458593068999467
+        reach: 0.2416675896119875
+      reach:
+        extra: 20.027984 km
+        flown: 20.027984 km
+      landedMade: null
+      ss: '2020-09-13T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 5.330203476009399
+  - - - '109'
+      - Marcello Ciarlo
+    - breakdown:
+        distance: 58.614645300037665
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.06157231268262656
+        reach: 0.05800315159312343
+      place: '18'
+      total: 58.614645300037665
+      fractions:
+        distance: 0.11957546427574998
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.12314462536525311
+        reach: 0.11600630318624686
+      reach:
+        extra: 9.613918 km
+        flown: 9.613918 km
+      landedMade: null
+      ss: '2020-09-13T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 6.1481008494724545
+  - - - '129'
+      - Stepan Zubashev
+    - breakdown:
+        distance: 45.28667470784873
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.05015330705212436
+        reach: 0.009198471343507847
+      place: '19'
+      total: 45.28667470784873
+      fractions:
+        distance: 0.09238604321456838
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.10030661410424872
+        reach: 0.018396942687015694
+      reach:
+        extra: 7.000000 km
+        flown: 1.524630 km
+      landedMade: null
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 0
+  - - - '131'
+      - Jurgen Buchert
+    - breakdown:
+        distance: 45.28667470784873
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0.05015330705212436
+        reach: 0.031087515561946638
+      place: '19'
+      total: 45.28667470784873
+      fractions:
+        distance: 0.09238604321456838
+        leading: 0.0
+        arrival: 0.0
+        time: 0.0
+        effort: 0.10030661410424872
+        reach: 0.062175031123893276
+      reach:
+        extra: 7.000000 km
+        flown: 5.152700 km
+      landedMade: null
+      ss: '2020-09-13T11:45:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 6.527737047886556

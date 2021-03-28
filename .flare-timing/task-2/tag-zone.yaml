@@ -1,0 +1,2854 @@
+timing:
+  zonesSum:
+  - 21
+  - 21
+  - 18
+  - 12
+  - 10
+  - 10
+  - 10
+  - 10
+  zonesFirst:
+  - 2020-09-11T11:00:58.514278438831Z
+  - 2020-09-11T11:45:08.311789795338Z
+  - 2020-09-11T12:13:01.822932839039Z
+  - 2020-09-11T13:13:31.371207534424Z
+  - 2020-09-11T13:45:22.436123559941Z
+  - 2020-09-11T13:57:57.38685173081Z
+  - 2020-09-11T14:01:31.522155352173Z
+  - 2020-09-11T14:01:55.284373366254Z
+  zonesLast:
+  - 2020-09-11T11:32:31.544651473039Z
+  - 2020-09-11T14:28:30.431279360942Z
+  - 2020-09-11T13:03:19.69823960607Z
+  - 2020-09-11T15:21:17.992235862284Z
+  - 2020-09-11T15:00:56.389591240814Z
+  - 2020-09-11T15:22:51.330791332444Z
+  - 2020-09-11T15:27:13.873925439656Z
+  - 2020-09-11T15:27:48.046656980395Z
+  zonesRankTime:
+  - - 2020-09-11T11:00:58.514278438831Z
+    - 2020-09-11T11:01:08.680704627352Z
+    - 2020-09-11T11:01:19.467453141109Z
+    - 2020-09-11T11:02:41.700586432824Z
+    - 2020-09-11T11:03:59.173489628056Z
+    - 2020-09-11T11:05:07.232210229714Z
+    - 2020-09-11T11:05:38.768548691107Z
+    - 2020-09-11T11:06:13.504367382466Z
+    - 2020-09-11T11:06:48.681895628869Z
+    - 2020-09-11T11:06:53.906737332966Z
+    - 2020-09-11T11:07:16.861632579388Z
+    - 2020-09-11T11:07:34.96720639329Z
+    - 2020-09-11T11:08:22.561220476096Z
+    - 2020-09-11T11:08:45.013515499349Z
+    - 2020-09-11T11:09:03.176493407375Z
+    - 2020-09-11T11:11:10.243453130362Z
+    - 2020-09-11T11:11:42.285800059828Z
+    - 2020-09-11T11:11:44.434386804661Z
+    - 2020-09-11T11:12:34.563441489255Z
+    - 2020-09-11T11:18:11.233110243126Z
+    - 2020-09-11T11:32:31.544651473039Z
+  - - 2020-09-11T11:45:08.311789795338Z
+    - 2020-09-11T11:45:21.659474777071Z
+    - 2020-09-11T11:45:22.793895967181Z
+    - 2020-09-11T11:45:23.002717173024Z
+    - 2020-09-11T11:45:23.242584926292Z
+    - 2020-09-11T11:45:31.7427884761Z
+    - 2020-09-11T11:45:31.96772141431Z
+    - 2020-09-11T11:45:37.794384801062Z
+    - 2020-09-11T11:45:38.111363047253Z
+    - 2020-09-11T11:45:38.211445177895Z
+    - 2020-09-11T11:45:39.683595107416Z
+    - 2020-09-11T11:45:41.148738689052Z
+    - 2020-09-11T11:45:43.374925483925Z
+    - 2020-09-11T11:45:44.065364426283Z
+    - 2020-09-11T11:45:48.644078279534Z
+    - 2020-09-11T11:45:58.754706864151Z
+    - 2020-09-11T11:48:12.406949077165Z
+    - 2020-09-11T11:48:57.007049464783Z
+    - 2020-09-11T11:50:40.144782161432Z
+    - 2020-09-11T13:00:45.532181923081Z
+    - 2020-09-11T14:28:30.431279360942Z
+  - - 2020-09-11T12:13:01.822932839039Z
+    - 2020-09-11T12:16:34.727219742127Z
+    - 2020-09-11T12:16:53.100995425778Z
+    - 2020-09-11T12:16:59.176489229483Z
+    - 2020-09-11T12:17:02.241874977999Z
+    - 2020-09-11T12:18:18.602090544554Z
+    - 2020-09-11T12:18:50.168505236528Z
+    - 2020-09-11T12:22:41.582100833842Z
+    - 2020-09-11T12:23:18.78361978166Z
+    - 2020-09-11T12:23:19.008737033724Z
+    - 2020-09-11T12:27:10.274630914233Z
+    - 2020-09-11T12:32:34.904265260229Z
+    - 2020-09-11T12:35:41.855739334805Z
+    - 2020-09-11T12:35:44.467619123465Z
+    - 2020-09-11T12:38:43.504366362054Z
+    - 2020-09-11T12:49:01.935441483842Z
+    - 2020-09-11T12:59:58.72949888224Z
+    - 2020-09-11T13:03:19.69823960607Z
+  - - 2020-09-11T13:13:31.371207534424Z
+    - 2020-09-11T13:17:09.217705224071Z
+    - 2020-09-11T13:18:54.355058409941Z
+    - 2020-09-11T13:24:25.06669073605Z
+    - 2020-09-11T13:26:01.507317543447Z
+    - 2020-09-11T13:33:27.843569836351Z
+    - 2020-09-11T13:46:16.177928597157Z
+    - 2020-09-11T13:46:25.472702385429Z
+    - 2020-09-11T13:58:09.404768327129Z
+    - 2020-09-11T14:18:39.979021360279Z
+    - 2020-09-11T14:25:02.270065040977Z
+    - 2020-09-11T15:21:17.992235862284Z
+  - - 2020-09-11T13:45:22.436123559941Z
+    - 2020-09-11T13:45:35.031400105627Z
+    - 2020-09-11T13:47:14.246533623893Z
+    - 2020-09-11T14:00:08.781132701242Z
+    - 2020-09-11T14:00:30.83916816575Z
+    - 2020-09-11T14:12:38.194518415793Z
+    - 2020-09-11T14:20:38.438117659354Z
+    - 2020-09-11T14:29:30.206412960339Z
+    - 2020-09-11T14:30:13.974667716721Z
+    - 2020-09-11T15:00:56.389591240814Z
+  - - 2020-09-11T13:57:57.38685173081Z
+    - 2020-09-11T14:00:38.602833061957Z
+    - 2020-09-11T14:01:16.789384647269Z
+    - 2020-09-11T14:11:36.478872186787Z
+    - 2020-09-11T14:14:18.488817448445Z
+    - 2020-09-11T14:29:53.916411842919Z
+    - 2020-09-11T14:34:49.500972155509Z
+    - 2020-09-11T14:41:09.775891180066Z
+    - 2020-09-11T14:42:35.647352461835Z
+    - 2020-09-11T15:22:51.330791332444Z
+  - - 2020-09-11T14:01:31.522155352173Z
+    - 2020-09-11T14:03:16.81532340991Z
+    - 2020-09-11T14:03:49.627493801404Z
+    - 2020-09-11T14:15:39.08513324444Z
+    - 2020-09-11T14:21:10.469588527833Z
+    - 2020-09-11T14:32:42.952593000141Z
+    - 2020-09-11T14:38:24.409473952948Z
+    - 2020-09-11T14:44:31.973742425285Z
+    - 2020-09-11T14:46:10.974854902016Z
+    - 2020-09-11T15:27:13.873925439656Z
+  - - 2020-09-11T14:01:55.284373366254Z
+    - 2020-09-11T14:03:45.367545107702Z
+    - 2020-09-11T14:04:20.243303748162Z
+    - 2020-09-11T14:16:11.711580860897Z
+    - 2020-09-11T14:21:37.712628240717Z
+    - 2020-09-11T14:33:28.699799534815Z
+    - 2020-09-11T14:39:05.781847416391Z
+    - 2020-09-11T14:44:58.054025204434Z
+    - 2020-09-11T14:46:43.20059486456Z
+    - 2020-09-11T15:27:48.046656980395Z
+  zonesRankPilot:
+  - - - '134'
+      - Roland Wöhrle
+    - - '115'
+      - ERIC MATHURIN
+    - - '107'
+      - Joost Eertman
+    - - '106'
+      - Lorenzo De Grandis
+    - - '123'
+      - Sasha Serebrennikova
+    - - '119'
+      - Christian Pollet
+    - - '103'
+      - Joerg Bajewski
+    - - '130'
+      - Oliver Salewski
+    - - '118'
+      - Suan Selenati
+    - - '105'
+      - Christian Ciech
+    - - '122'
+      - Pieter Speeleveld
+    - - '110'
+      - Tullio Gervasoni
+    - - '104'
+      - Valentino Bau
+    - - '112'
+      - Marco Gröbner
+    - - '102'
+      - Walter Bacchi
+    - - '113'
+      - Marco Laurenzi
+    - - '124'
+      - Rousselet Simon
+    - - '129'
+      - Stepan Zubashev
+    - - '131'
+      - Jurgen Buchert
+    - - '114'
+      - Konrad Lueders
+    - - '109'
+      - Marcello Ciarlo
+  - - - '118'
+      - Suan Selenati
+    - - '105'
+      - Christian Ciech
+    - - '106'
+      - Lorenzo De Grandis
+    - - '119'
+      - Christian Pollet
+    - - '123'
+      - Sasha Serebrennikova
+    - - '110'
+      - Tullio Gervasoni
+    - - '134'
+      - Roland Wöhrle
+    - - '103'
+      - Joerg Bajewski
+    - - '124'
+      - Rousselet Simon
+    - - '115'
+      - ERIC MATHURIN
+    - - '107'
+      - Joost Eertman
+    - - '129'
+      - Stepan Zubashev
+    - - '112'
+      - Marco Gröbner
+    - - '130'
+      - Oliver Salewski
+    - - '102'
+      - Walter Bacchi
+    - - '113'
+      - Marco Laurenzi
+    - - '122'
+      - Pieter Speeleveld
+    - - '104'
+      - Valentino Bau
+    - - '114'
+      - Konrad Lueders
+    - - '109'
+      - Marcello Ciarlo
+    - - '131'
+      - Jurgen Buchert
+  - - - '118'
+      - Suan Selenati
+    - - '105'
+      - Christian Ciech
+    - - '113'
+      - Marco Laurenzi
+    - - '106'
+      - Lorenzo De Grandis
+    - - '134'
+      - Roland Wöhrle
+    - - '107'
+      - Joost Eertman
+    - - '104'
+      - Valentino Bau
+    - - '102'
+      - Walter Bacchi
+    - - '123'
+      - Sasha Serebrennikova
+    - - '103'
+      - Joerg Bajewski
+    - - '130'
+      - Oliver Salewski
+    - - '112'
+      - Marco Gröbner
+    - - '119'
+      - Christian Pollet
+    - - '110'
+      - Tullio Gervasoni
+    - - '114'
+      - Konrad Lueders
+    - - '115'
+      - ERIC MATHURIN
+    - - '129'
+      - Stepan Zubashev
+    - - '122'
+      - Pieter Speeleveld
+  - - - '134'
+      - Roland Wöhrle
+    - - '113'
+      - Marco Laurenzi
+    - - '105'
+      - Christian Ciech
+    - - '106'
+      - Lorenzo De Grandis
+    - - '107'
+      - Joost Eertman
+    - - '130'
+      - Oliver Salewski
+    - - '119'
+      - Christian Pollet
+    - - '118'
+      - Suan Selenati
+    - - '112'
+      - Marco Gröbner
+    - - '123'
+      - Sasha Serebrennikova
+    - - '102'
+      - Walter Bacchi
+    - - '103'
+      - Joerg Bajewski
+  - - - '134'
+      - Roland Wöhrle
+    - - '105'
+      - Christian Ciech
+    - - '113'
+      - Marco Laurenzi
+    - - '106'
+      - Lorenzo De Grandis
+    - - '107'
+      - Joost Eertman
+    - - '130'
+      - Oliver Salewski
+    - - '119'
+      - Christian Pollet
+    - - '118'
+      - Suan Selenati
+    - - '112'
+      - Marco Gröbner
+    - - '123'
+      - Sasha Serebrennikova
+  - - - '134'
+      - Roland Wöhrle
+    - - '105'
+      - Christian Ciech
+    - - '113'
+      - Marco Laurenzi
+    - - '107'
+      - Joost Eertman
+    - - '106'
+      - Lorenzo De Grandis
+    - - '130'
+      - Oliver Salewski
+    - - '119'
+      - Christian Pollet
+    - - '118'
+      - Suan Selenati
+    - - '112'
+      - Marco Gröbner
+    - - '123'
+      - Sasha Serebrennikova
+  - - - '134'
+      - Roland Wöhrle
+    - - '105'
+      - Christian Ciech
+    - - '113'
+      - Marco Laurenzi
+    - - '107'
+      - Joost Eertman
+    - - '106'
+      - Lorenzo De Grandis
+    - - '130'
+      - Oliver Salewski
+    - - '119'
+      - Christian Pollet
+    - - '118'
+      - Suan Selenati
+    - - '112'
+      - Marco Gröbner
+    - - '123'
+      - Sasha Serebrennikova
+  - - - '134'
+      - Roland Wöhrle
+    - - '105'
+      - Christian Ciech
+    - - '113'
+      - Marco Laurenzi
+    - - '107'
+      - Joost Eertman
+    - - '106'
+      - Lorenzo De Grandis
+    - - '130'
+      - Oliver Salewski
+    - - '119'
+      - Christian Pollet
+    - - '118'
+      - Suan Selenati
+    - - '112'
+      - Marco Gröbner
+    - - '123'
+      - Sasha Serebrennikova
+  lastLanding: 2020-09-11T15:31:06Z
+tagging:
+- - - '126'
+    - Andrea Theodoli
+  - null
+- - - '105'
+    - Christian Ciech
+  - zonesTag:
+    - inter:
+        fixFrac: 37.90673733296698
+        time: 2020-09-11T11:06:53.906737332966Z
+        lat: 46.227526
+        lng: 12.80915579
+        alt: 928
+      cross:
+        crossingPair:
+        - fix: 37
+          time: 2020-09-11T11:06:53Z
+          lat: 46.22761667
+          lng: 12.80905
+          alt: 928
+        - fix: 38
+          time: 2020-09-11T11:06:54Z
+          lat: 46.22751667
+          lng: 12.80916667
+          alt: 928
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2345.659474777072
+        time: 2020-09-11T11:45:21.659474777071Z
+        lat: 46.22817196
+        lng: 12.82183154
+        alt: 1513.66
+      cross:
+        crossingPair:
+        - fix: 2345
+          time: 2020-09-11T11:45:21Z
+          lat: 46.22815
+          lng: 12.82166667
+          alt: 1513
+        - fix: 2346
+          time: 2020-09-11T11:45:22Z
+          lat: 46.22818333
+          lng: 12.82191667
+          alt: 1514
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 4218.727219742127
+        time: 2020-09-11T12:16:34.727219742127Z
+        lat: 46.27593636
+        lng: 13.07077878
+        alt: 1313
+      cross:
+        crossingPair:
+        - fix: 4218
+          time: 2020-09-11T12:16:34Z
+          lat: 46.2759
+          lng: 13.07063333
+          alt: 1313
+        - fix: 4219
+          time: 2020-09-11T12:16:35Z
+          lat: 46.27595
+          lng: 13.07083333
+          alt: 1313
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 7958.355058409942
+        time: 2020-09-11T13:18:54.355058409941Z
+        lat: 46.20875365
+        lng: 12.65898981
+        alt: 1397.64
+      cross:
+        crossingPair:
+        - fix: 7958
+          time: 2020-09-11T13:18:54Z
+          lat: 46.20878333
+          lng: 12.65906667
+          alt: 1398
+        - fix: 7959
+          time: 2020-09-11T13:18:55Z
+          lat: 46.2087
+          lng: 12.65885
+          alt: 1397
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 9559.031400105629
+        time: 2020-09-11T13:45:35.031400105627Z
+        lat: 46.20673225
+        lng: 12.90222451
+        alt: 901.94
+      cross:
+        crossingPair:
+        - fix: 9559
+          time: 2020-09-11T13:45:35Z
+          lat: 46.20673333
+          lng: 12.90221667
+          alt: 902
+        - fix: 9560
+          time: 2020-09-11T13:45:36Z
+          lat: 46.2067
+          lng: 12.90246667
+          alt: 900
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 10462.602833061957
+        time: 2020-09-11T14:00:38.602833061957Z
+        lat: 46.18929291
+        lng: 12.79304314
+        alt: 720.4
+      cross:
+        crossingPair:
+        - fix: 10462
+          time: 2020-09-11T14:00:38Z
+          lat: 46.18938333
+          lng: 12.79308333
+          alt: 721
+        - fix: 10463
+          time: 2020-09-11T14:00:39Z
+          lat: 46.18923333
+          lng: 12.79301667
+          alt: 720
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 10620.81532340991
+        time: 2020-09-11T14:03:16.81532340991Z
+        lat: 46.19473025
+        lng: 12.84327485
+        alt: 310.18
+      cross:
+        crossingPair:
+        - fix: 10620
+          time: 2020-09-11T14:03:16Z
+          lat: 46.19471667
+          lng: 12.84301667
+          alt: 311
+        - fix: 10621
+          time: 2020-09-11T14:03:17Z
+          lat: 46.19473333
+          lng: 12.84333333
+          alt: 310
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 10649.367545107703
+        time: 2020-09-11T14:03:45.367545107702Z
+        lat: 46.19588946
+        lng: 12.85089801
+        alt: 272
+      cross:
+        crossingPair:
+        - fix: 10649
+          time: 2020-09-11T14:03:45Z
+          lat: 46.19588333
+          lng: 12.8508
+          alt: 272
+        - fix: 10650
+          time: 2020-09-11T14:03:46Z
+          lat: 46.1959
+          lng: 12.85106667
+          alt: 272
+        inZone:
+        - false
+        - true
+- - - '119'
+    - Christian Pollet
+  - zonesTag:
+    - inter:
+        fixFrac: 49.23221022971488
+        time: 2020-09-11T11:05:07.232210229714Z
+        lat: 46.22792678
+        lng: 12.81011935
+        alt: 898.3
+      cross:
+        crossingPair:
+        - fix: 49
+          time: 2020-09-11T11:05:07Z
+          lat: 46.22795
+          lng: 12.8101
+          alt: 899
+        - fix: 50
+          time: 2020-09-11T11:05:08Z
+          lat: 46.22785
+          lng: 12.81018333
+          alt: 896
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2465.0027171730244
+        time: 2020-09-11T11:45:23.002717173024Z
+        lat: 46.2290501
+        lng: 12.82118396
+        alt: 1416
+      cross:
+        crossingPair:
+        - fix: 2465
+          time: 2020-09-11T11:45:23Z
+          lat: 46.22905
+          lng: 12.82118333
+          alt: 1416
+        - fix: 2466
+          time: 2020-09-11T11:45:24Z
+          lat: 46.22908333
+          lng: 12.82141667
+          alt: 1416
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 5483.855739334806
+        time: 2020-09-11T12:35:41.855739334805Z
+        lat: 46.27346426
+        lng: 13.07158782
+        alt: 1255.14
+      cross:
+        crossingPair:
+        - fix: 5483
+          time: 2020-09-11T12:35:41Z
+          lat: 46.27345
+          lng: 13.07141667
+          alt: 1256
+        - fix: 5484
+          time: 2020-09-11T12:35:42Z
+          lat: 46.27346667
+          lng: 13.07161667
+          alt: 1255
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 9718.177928597157
+        time: 2020-09-11T13:46:16.177928597157Z
+        lat: 46.21294405
+        lng: 12.65740552
+        alt: 1470
+      cross:
+        crossingPair:
+        - fix: 9718
+          time: 2020-09-11T13:46:16Z
+          lat: 46.21295
+          lng: 12.65745
+          alt: 1470
+        - fix: 9719
+          time: 2020-09-11T13:46:17Z
+          lat: 46.21291667
+          lng: 12.6572
+          alt: 1470
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 11780.438117659354
+        time: 2020-09-11T14:20:38.438117659354Z
+        lat: 46.2075667
+        lng: 12.90220223
+        alt: 1102
+      cross:
+        crossingPair:
+        - fix: 11780
+          time: 2020-09-11T14:20:38Z
+          lat: 46.20756667
+          lng: 12.9021
+          alt: 1102
+        - fix: 11781
+          time: 2020-09-11T14:20:39Z
+          lat: 46.20756667
+          lng: 12.90233333
+          alt: 1102
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 12631.500972155509
+        time: 2020-09-11T14:34:49.500972155509Z
+        lat: 46.18989156
+        lng: 12.79267484
+        alt: 679.5
+      cross:
+        crossingPair:
+        - fix: 12631
+          time: 2020-09-11T14:34:49Z
+          lat: 46.18995
+          lng: 12.79275
+          alt: 681
+        - fix: 12632
+          time: 2020-09-11T14:34:50Z
+          lat: 46.18983333
+          lng: 12.7926
+          alt: 678
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 12846.409473952948
+        time: 2020-09-11T14:38:24.409473952948Z
+        lat: 46.19529698
+        lng: 12.84314856
+        alt: 331.59
+      cross:
+        crossingPair:
+        - fix: 12846
+          time: 2020-09-11T14:38:24Z
+          lat: 46.19528333
+          lng: 12.84306667
+          alt: 332
+        - fix: 12847
+          time: 2020-09-11T14:38:25Z
+          lat: 46.19531667
+          lng: 12.84326667
+          alt: 331
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 12887.78184741639
+        time: 2020-09-11T14:39:05.781847416391Z
+        lat: 46.19679273
+        lng: 12.85088031
+        alt: 278.22
+      cross:
+        crossingPair:
+        - fix: 12887
+          time: 2020-09-11T14:39:05Z
+          lat: 46.19676667
+          lng: 12.85075
+          alt: 279
+        - fix: 12888
+          time: 2020-09-11T14:39:06Z
+          lat: 46.1968
+          lng: 12.85091667
+          alt: 278
+        inZone:
+        - false
+        - true
+- - - '115'
+    - ERIC MATHURIN
+  - zonesTag:
+    - inter:
+        fixFrac: 34.680704627352135
+        time: 2020-09-11T11:01:08.680704627352Z
+        lat: 46.22778795
+        lng: 12.80983543
+        alt: 934.36
+      cross:
+        crossingPair:
+        - fix: 34
+          time: 2020-09-11T11:01:08Z
+          lat: 46.22783333
+          lng: 12.80973333
+          alt: 933
+        - fix: 35
+          time: 2020-09-11T11:01:09Z
+          lat: 46.22776667
+          lng: 12.80988333
+          alt: 935
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2704.2114451778957
+        time: 2020-09-11T11:45:38.211445177895Z
+        lat: 46.21877631
+        lng: 12.82803268
+        alt: 1370.37
+      cross:
+        crossingPair:
+        - fix: 2704
+          time: 2020-09-11T11:45:38Z
+          lat: 46.21878333
+          lng: 12.82798333
+          alt: 1371
+        - fix: 2705
+          time: 2020-09-11T11:45:39Z
+          lat: 46.21875
+          lng: 12.82821667
+          alt: 1368
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 6507.935441483843
+        time: 2020-09-11T12:49:01.935441483842Z
+        lat: 46.26825215
+        lng: 13.07453924
+        alt: 926.06
+      cross:
+        crossingPair:
+        - fix: 6507
+          time: 2020-09-11T12:49:01Z
+          lat: 46.26828333
+          lng: 13.07438333
+          alt: 927
+        - fix: 6508
+          time: 2020-09-11T12:49:02Z
+          lat: 46.26825
+          lng: 13.07455
+          alt: 926
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+    - null
+    - null
+- - - '132'
+    - Emiel Jansen
+  - null
+- - - '108'
+    - Jean louis FOGLIA
+  - null
+- - - '103'
+    - Joerg Bajewski
+  - zonesTag:
+    - inter:
+        fixFrac: 101.76854869110758
+        time: 2020-09-11T11:05:38.768548691107Z
+        lat: 46.22763596
+        lng: 12.80947038
+        alt: 924
+      cross:
+        crossingPair:
+        - fix: 101
+          time: 2020-09-11T11:05:38Z
+          lat: 46.2277
+          lng: 12.80931667
+          alt: 924
+        - fix: 102
+          time: 2020-09-11T11:05:39Z
+          lat: 46.22761667
+          lng: 12.80951667
+          alt: 924
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2500.7943848010627
+        time: 2020-09-11T11:45:37.794384801062Z
+        lat: 46.21811322
+        lng: 12.82842212
+        alt: 1428.21
+      cross:
+        crossingPair:
+        - fix: 2500
+          time: 2020-09-11T11:45:37Z
+          lat: 46.2181
+          lng: 12.82825
+          alt: 1429
+        - fix: 2501
+          time: 2020-09-11T11:45:38Z
+          lat: 46.21811667
+          lng: 12.82846667
+          alt: 1428
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 4762.008737033725
+        time: 2020-09-11T12:23:19.008737033724Z
+        lat: 46.26720001
+        lng: 13.07536871
+        alt: 1182.99
+      cross:
+        crossingPair:
+        - fix: 4762
+          time: 2020-09-11T12:23:19Z
+          lat: 46.2672
+          lng: 13.07536667
+          alt: 1183
+        - fix: 4763
+          time: 2020-09-11T12:23:20Z
+          lat: 46.2672
+          lng: 13.0756
+          alt: 1182
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 15440.992235862284
+        time: 2020-09-11T15:21:17.992235862284Z
+        lat: 46.16793327
+        lng: 12.66763475
+        alt: 402.02
+      cross:
+        crossingPair:
+        - fix: 15440
+          time: 2020-09-11T15:21:17Z
+          lat: 46.16793333
+          lng: 12.66781667
+          alt: 404
+        - fix: 15441
+          time: 2020-09-11T15:21:18Z
+          lat: 46.16793333
+          lng: 12.66763333
+          alt: 402
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+    - null
+- - - '133'
+    - Johann Courtain
+  - null
+- - - '107'
+    - Joost Eertman
+  - zonesTag:
+    - inter:
+        fixFrac: 33.4674531411093
+        time: 2020-09-11T11:01:19.467453141109Z
+        lat: 46.22806213
+        lng: 12.81036232
+        alt: 932.93
+      cross:
+        crossingPair:
+        - fix: 33
+          time: 2020-09-11T11:01:19Z
+          lat: 46.22811667
+          lng: 12.8103
+          alt: 932
+        - fix: 34
+          time: 2020-09-11T11:01:20Z
+          lat: 46.228
+          lng: 12.81043333
+          alt: 934
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2693.6835951074163
+        time: 2020-09-11T11:45:39.683595107416Z
+        lat: 46.22980174
+        lng: 12.82061999
+        alt: 1351
+      cross:
+        crossingPair:
+        - fix: 2693
+          time: 2020-09-11T11:45:39Z
+          lat: 46.22973333
+          lng: 12.82048333
+          alt: 1351
+        - fix: 2694
+          time: 2020-09-11T11:45:40Z
+          lat: 46.22983333
+          lng: 12.82068333
+          alt: 1351
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 4652.602090544555
+        time: 2020-09-11T12:18:18.602090544554Z
+        lat: 46.27307671
+        lng: 13.07174712
+        alt: 1221.6
+      cross:
+        crossingPair:
+        - fix: 4652
+          time: 2020-09-11T12:18:18Z
+          lat: 46.27306667
+          lng: 13.07161667
+          alt: 1221
+        - fix: 4653
+          time: 2020-09-11T12:18:19Z
+          lat: 46.27308333
+          lng: 13.07183333
+          alt: 1222
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 8701.507317543448
+        time: 2020-09-11T13:26:01.507317543447Z
+        lat: 46.2088915
+        lng: 12.65893985
+        alt: 1186.99
+      cross:
+        crossingPair:
+        - fix: 8701
+          time: 2020-09-11T13:26:01Z
+          lat: 46.2089
+          lng: 12.65906667
+          alt: 1188
+        - fix: 8702
+          time: 2020-09-11T13:26:02Z
+          lat: 46.20888333
+          lng: 12.65881667
+          alt: 1186
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 10770.83916816575
+        time: 2020-09-11T14:00:30.83916816575Z
+        lat: 46.21206396
+        lng: 12.90225711
+        alt: 1229
+      cross:
+        crossingPair:
+        - fix: 10770
+          time: 2020-09-11T14:00:30Z
+          lat: 46.21205
+          lng: 12.90203333
+          alt: 1229
+        - fix: 10771
+          time: 2020-09-11T14:00:31Z
+          lat: 46.21206667
+          lng: 12.9023
+          alt: 1229
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 11436.478872186786
+        time: 2020-09-11T14:11:36.478872186787Z
+        lat: 46.19609343
+        lng: 12.78791948
+        alt: 591.52
+      cross:
+        crossingPair:
+        - fix: 11436
+          time: 2020-09-11T14:11:36Z
+          lat: 46.19613333
+          lng: 12.78798333
+          alt: 592
+        - fix: 11437
+          time: 2020-09-11T14:11:37Z
+          lat: 46.19605
+          lng: 12.78785
+          alt: 591
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 11679.08513324444
+        time: 2020-09-11T14:15:39.08513324444Z
+        lat: 46.1957
+        lng: 12.84309079
+        alt: 344.74
+      cross:
+        crossingPair:
+        - fix: 11679
+          time: 2020-09-11T14:15:39Z
+          lat: 46.1957
+          lng: 12.84306667
+          alt: 345
+        - fix: 11680
+          time: 2020-09-11T14:15:40Z
+          lat: 46.1957
+          lng: 12.84335
+          alt: 342
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 11711.711580860898
+        time: 2020-09-11T14:16:11.711580860897Z
+        lat: 46.19585961
+        lng: 12.85090418
+        alt: 295.58
+      cross:
+        crossingPair:
+        - fix: 11711
+          time: 2020-09-11T14:16:11Z
+          lat: 46.19588333
+          lng: 12.85075
+          alt: 297
+        - fix: 11712
+          time: 2020-09-11T14:16:12Z
+          lat: 46.19585
+          lng: 12.85096667
+          alt: 295
+        inZone:
+        - false
+        - true
+- - - '131'
+    - Jurgen Buchert
+  - zonesTag:
+    - inter:
+        fixFrac: 65.56344148925537
+        time: 2020-09-11T11:12:34.563441489255Z
+        lat: 46.22746455
+        lng: 12.8089533
+        alt: 982.44
+      cross:
+        crossingPair:
+        - fix: 65
+          time: 2020-09-11T11:12:34Z
+          lat: 46.22748333
+          lng: 12.80885
+          alt: 983
+        - fix: 66
+          time: 2020-09-11T11:12:35Z
+          lat: 46.22745
+          lng: 12.80903333
+          alt: 982
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 11821.431279360942
+        time: 2020-09-11T14:28:30.431279360942Z
+        lat: 46.19780943
+        lng: 12.83755062
+        alt: 481.27
+      cross:
+        crossingPair:
+        - fix: 11821
+          time: 2020-09-11T14:28:30Z
+          lat: 46.19781667
+          lng: 12.83745
+          alt: 483
+        - fix: 11822
+          time: 2020-09-11T14:28:31Z
+          lat: 46.1978
+          lng: 12.83768333
+          alt: 479
+        inZone:
+        - true
+        - false
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+- - - '114'
+    - Konrad Lueders
+  - zonesTag:
+    - inter:
+        fixFrac: 230.23311024312693
+        time: 2020-09-11T11:18:11.233110243126Z
+        lat: 46.22753834
+        lng: 12.80919386
+        alt: 1001.77
+      cross:
+        crossingPair:
+        - fix: 230
+          time: 2020-09-11T11:18:11Z
+          lat: 46.22755
+          lng: 12.80916667
+          alt: 1002
+        - fix: 231
+          time: 2020-09-11T11:18:12Z
+          lat: 46.2275
+          lng: 12.80928333
+          alt: 1001
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2179.144782161433
+        time: 2020-09-11T11:50:40.144782161432Z
+        lat: 46.21525942
+        lng: 12.83002895
+        alt: 1012.57
+      cross:
+        crossingPair:
+        - fix: 2179
+          time: 2020-09-11T11:50:40Z
+          lat: 46.21526667
+          lng: 12.83
+          alt: 1013
+        - fix: 2180
+          time: 2020-09-11T11:50:41Z
+          lat: 46.21521667
+          lng: 12.8302
+          alt: 1010
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 5062.5043663620545
+        time: 2020-09-11T12:38:43.504366362054Z
+        lat: 46.27029232
+        lng: 13.07316711
+        alt: 813.99
+      cross:
+        crossingPair:
+        - fix: 5062
+          time: 2020-09-11T12:38:43Z
+          lat: 46.27021667
+          lng: 13.07311667
+          alt: 815
+        - fix: 5063
+          time: 2020-09-11T12:38:44Z
+          lat: 46.27036667
+          lng: 13.07321667
+          alt: 813
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+    - null
+    - null
+- - - '106'
+    - Lorenzo De Grandis
+  - zonesTag:
+    - inter:
+        fixFrac: 33.700586432824124
+        time: 2020-09-11T11:02:41.700586432824Z
+        lat: 46.22791327
+        lng: 12.81009341
+        alt: 895
+      cross:
+        crossingPair:
+        - fix: 33
+          time: 2020-09-11T11:02:41Z
+          lat: 46.22798333
+          lng: 12.81
+          alt: 895
+        - fix: 34
+          time: 2020-09-11T11:02:42Z
+          lat: 46.22788333
+          lng: 12.81013333
+          alt: 895
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2594.793895967182
+        time: 2020-09-11T11:45:22.793895967181Z
+        lat: 46.22874708
+        lng: 12.82140879
+        alt: 1495.79
+      cross:
+        crossingPair:
+        - fix: 2594
+          time: 2020-09-11T11:45:22Z
+          lat: 46.2288
+          lng: 12.82125
+          alt: 1495
+        - fix: 2595
+          time: 2020-09-11T11:45:23Z
+          lat: 46.22873333
+          lng: 12.82145
+          alt: 1496
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 4491.176489229484
+        time: 2020-09-11T12:16:59.176489229483Z
+        lat: 46.27479706
+        lng: 13.07110785
+        alt: 1203.94
+      cross:
+        crossingPair:
+        - fix: 4491
+          time: 2020-09-11T12:16:59Z
+          lat: 46.2748
+          lng: 13.07106667
+          alt: 1205
+        - fix: 4492
+          time: 2020-09-11T12:17:00Z
+          lat: 46.27478333
+          lng: 13.0713
+          alt: 1199
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 8537.06669073605
+        time: 2020-09-11T13:24:25.06669073605Z
+        lat: 46.20816001
+        lng: 12.65920333
+        alt: 1210
+      cross:
+        crossingPair:
+        - fix: 8537
+          time: 2020-09-11T13:24:25Z
+          lat: 46.20816667
+          lng: 12.65921667
+          alt: 1210
+        - fix: 8538
+          time: 2020-09-11T13:24:26Z
+          lat: 46.20806667
+          lng: 12.65901667
+          alt: 1210
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 10680.781132701242
+        time: 2020-09-11T14:00:08.781132701242Z
+        lat: 46.20971667
+        lng: 12.90219163
+        alt: 1170.91
+      cross:
+        crossingPair:
+        - fix: 10680
+          time: 2020-09-11T14:00:08Z
+          lat: 46.20971667
+          lng: 12.90198333
+          alt: 1167
+        - fix: 10681
+          time: 2020-09-11T14:00:09Z
+          lat: 46.20971667
+          lng: 12.90225
+          alt: 1172
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 11530.488817448446
+        time: 2020-09-11T14:14:18.488817448445Z
+        lat: 46.19507554
+        lng: 12.78882669
+        alt: 466.02
+      cross:
+        crossingPair:
+        - fix: 11530
+          time: 2020-09-11T14:14:18Z
+          lat: 46.1951
+          lng: 12.7889
+          alt: 467
+        - fix: 11531
+          time: 2020-09-11T14:14:19Z
+          lat: 46.19505
+          lng: 12.78875
+          alt: 465
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 11942.469588527832
+        time: 2020-09-11T14:21:10.469588527833Z
+        lat: 46.19599116
+        lng: 12.84306537
+        alt: 296
+      cross:
+        crossingPair:
+        - fix: 11942
+          time: 2020-09-11T14:21:10Z
+          lat: 46.19598333
+          lng: 12.84291667
+          alt: 296
+        - fix: 11943
+          time: 2020-09-11T14:21:11Z
+          lat: 46.196
+          lng: 12.84323333
+          alt: 296
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 11969.712628240717
+        time: 2020-09-11T14:21:37.712628240717Z
+        lat: 46.19647854
+        lng: 12.85084961
+        alt: 249.57
+      cross:
+        crossingPair:
+        - fix: 11969
+          time: 2020-09-11T14:21:37Z
+          lat: 46.19646667
+          lng: 12.85068333
+          alt: 251
+        - fix: 11970
+          time: 2020-09-11T14:21:38Z
+          lat: 46.19648333
+          lng: 12.85091667
+          alt: 249
+        inZone:
+        - false
+        - true
+- - - '109'
+    - Marcello Ciarlo
+  - zonesTag:
+    - inter:
+        fixFrac: 354.54465147303915
+        time: 2020-09-11T11:32:31.544651473039Z
+        lat: 46.23322723
+        lng: 12.80297589
+        alt: 1128
+      cross:
+        crossingPair:
+        - fix: 354
+          time: 2020-09-11T11:32:31Z
+          lat: 46.2332
+          lng: 12.80306667
+          alt: 1128
+        - fix: 355
+          time: 2020-09-11T11:32:32Z
+          lat: 46.23325
+          lng: 12.8029
+          alt: 1128
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 5648.532181923081
+        time: 2020-09-11T13:00:45.532181923081Z
+        lat: 46.23066107
+        lng: 12.81996418
+        alt: 1486
+      cross:
+        crossingPair:
+        - fix: 5648
+          time: 2020-09-11T13:00:45Z
+          lat: 46.23061667
+          lng: 12.81986667
+          alt: 1486
+        - fix: 5649
+          time: 2020-09-11T13:00:46Z
+          lat: 46.2307
+          lng: 12.82005
+          alt: 1486
+        inZone:
+        - true
+        - false
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+- - - '112'
+    - Marco Gröbner
+  - zonesTag:
+    - inter:
+        fixFrac: 36.01351549934991
+        time: 2020-09-11T11:08:45.013515499349Z
+        lat: 46.22743175
+        lng: 12.80883468
+        alt: 897.99
+      cross:
+        crossingPair:
+        - fix: 36
+          time: 2020-09-11T11:08:45Z
+          lat: 46.22743333
+          lng: 12.80883333
+          alt: 898
+        - fix: 37
+          time: 2020-09-11T11:08:46Z
+          lat: 46.22731667
+          lng: 12.80893333
+          alt: 897
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2254.374925483926
+        time: 2020-09-11T11:45:43.374925483925Z
+        lat: 46.22882088
+        lng: 12.82135417
+        alt: 1421.63
+      cross:
+        crossingPair:
+        - fix: 2254
+          time: 2020-09-11T11:45:43Z
+          lat: 46.22883333
+          lng: 12.82126667
+          alt: 1422
+        - fix: 2255
+          time: 2020-09-11T11:45:44Z
+          lat: 46.2288
+          lng: 12.8215
+          alt: 1421
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 5065.90426526023
+        time: 2020-09-11T12:32:34.904265260229Z
+        lat: 46.27204841
+        lng: 13.07221418
+        alt: 1139
+      cross:
+        crossingPair:
+        - fix: 5065
+          time: 2020-09-11T12:32:34Z
+          lat: 46.27203333
+          lng: 13.07203333
+          alt: 1139
+        - fix: 5066
+          time: 2020-09-11T12:32:35Z
+          lat: 46.27205
+          lng: 13.07223333
+          alt: 1139
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 10200.40476832713
+        time: 2020-09-11T13:58:09.404768327129Z
+        lat: 46.17813338
+        lng: 12.66659563
+        alt: 1396
+      cross:
+        crossingPair:
+        - fix: 10200
+          time: 2020-09-11T13:58:09Z
+          lat: 46.17813333
+          lng: 12.66668333
+          alt: 1396
+        - fix: 10201
+          time: 2020-09-11T13:58:10Z
+          lat: 46.17813333
+          lng: 12.66646667
+          alt: 1396
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 12124.97466771672
+        time: 2020-09-11T14:30:13.974667716721Z
+        lat: 46.2072008
+        lng: 12.90221075
+        alt: 1344.08
+      cross:
+        crossingPair:
+        - fix: 12124
+          time: 2020-09-11T14:30:13Z
+          lat: 46.20723333
+          lng: 12.90198333
+          alt: 1347
+        - fix: 12125
+          time: 2020-09-11T14:30:14Z
+          lat: 46.2072
+          lng: 12.90221667
+          alt: 1344
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 12866.647352461836
+        time: 2020-09-11T14:42:35.647352461835Z
+        lat: 46.19039605
+        lng: 12.7923529
+        alt: 864.35
+      cross:
+        crossingPair:
+        - fix: 12866
+          time: 2020-09-11T14:42:35Z
+          lat: 46.19045
+          lng: 12.79245
+          alt: 865
+        - fix: 12867
+          time: 2020-09-11T14:42:36Z
+          lat: 46.19036667
+          lng: 12.7923
+          alt: 864
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 13081.974854902017
+        time: 2020-09-11T14:46:10.974854902016Z
+        lat: 46.19666709
+        lng: 12.84305871
+        alt: 598.1
+      cross:
+        crossingPair:
+        - fix: 13081
+          time: 2020-09-11T14:46:10Z
+          lat: 46.19668333
+          lng: 12.84275
+          alt: 602
+        - fix: 13082
+          time: 2020-09-11T14:46:11Z
+          lat: 46.19666667
+          lng: 12.84306667
+          alt: 598
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 13114.20059486456
+        time: 2020-09-11T14:46:43.20059486456Z
+        lat: 46.19608333
+        lng: 12.85086676
+        alt: 538.8
+      cross:
+        crossingPair:
+        - fix: 13114
+          time: 2020-09-11T14:46:43Z
+          lat: 46.19608333
+          lng: 12.85083333
+          alt: 539
+        - fix: 13115
+          time: 2020-09-11T14:46:44Z
+          lat: 46.19608333
+          lng: 12.851
+          alt: 538
+        inZone:
+        - false
+        - true
+- - - '113'
+    - Marco Laurenzi
+  - zonesTag:
+    - inter:
+        fixFrac: 31.24345313036275
+        time: 2020-09-11T11:11:10.243453130362Z
+        lat: 46.22746348
+        lng: 12.80894956
+        alt: 898.73
+      cross:
+        crossingPair:
+        - fix: 31
+          time: 2020-09-11T11:11:10Z
+          lat: 46.2275
+          lng: 12.80893333
+          alt: 898
+        - fix: 32
+          time: 2020-09-11T11:11:11Z
+          lat: 46.22735
+          lng: 12.809
+          alt: 901
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2119.7547068641516
+        time: 2020-09-11T11:45:58.754706864151Z
+        lat: 46.22964998
+        lng: 12.82073459
+        alt: 1399.25
+      cross:
+        crossingPair:
+        - fix: 2119
+          time: 2020-09-11T11:45:58Z
+          lat: 46.22965
+          lng: 12.82053333
+          alt: 1400
+        - fix: 2120
+          time: 2020-09-11T11:45:59Z
+          lat: 46.22965
+          lng: 12.8208
+          alt: 1399
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 3974.100995425779
+        time: 2020-09-11T12:16:53.100995425778Z
+        lat: 46.27321666
+        lng: 13.07168855
+        alt: 1235
+      cross:
+        crossingPair:
+        - fix: 3974
+          time: 2020-09-11T12:16:53Z
+          lat: 46.27321667
+          lng: 13.07166667
+          alt: 1235
+        - fix: 3975
+          time: 2020-09-11T12:16:54Z
+          lat: 46.27321667
+          lng: 13.07188333
+          alt: 1235
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 7590.217705224071
+        time: 2020-09-11T13:17:09.217705224071Z
+        lat: 46.20886152
+        lng: 12.65895072
+        alt: 1282.78
+      cross:
+        crossingPair:
+        - fix: 7590
+          time: 2020-09-11T13:17:09Z
+          lat: 46.20888333
+          lng: 12.65898333
+          alt: 1283
+        - fix: 7591
+          time: 2020-09-11T13:17:10Z
+          lat: 46.20878333
+          lng: 12.65883333
+          alt: 1282
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 9395.246533623893
+        time: 2020-09-11T13:47:14.246533623893Z
+        lat: 46.20627927
+        lng: 12.90224086
+        alt: 940.26
+      cross:
+        crossingPair:
+        - fix: 9395
+          time: 2020-09-11T13:47:14Z
+          lat: 46.20628333
+          lng: 12.90218333
+          alt: 941
+        - fix: 9396
+          time: 2020-09-11T13:47:15Z
+          lat: 46.20626667
+          lng: 12.90241667
+          alt: 938
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 10237.789384647269
+        time: 2020-09-11T14:01:16.789384647269Z
+        lat: 46.1902579
+        lng: 12.79244213
+        alt: 697.79
+      cross:
+        crossingPair:
+        - fix: 10237
+          time: 2020-09-11T14:01:16Z
+          lat: 46.19035
+          lng: 12.7926
+          alt: 697
+        - fix: 10238
+          time: 2020-09-11T14:01:17Z
+          lat: 46.19023333
+          lng: 12.7924
+          alt: 698
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 10390.627493801405
+        time: 2020-09-11T14:03:49.627493801404Z
+        lat: 46.19468137
+        lng: 12.84328825
+        alt: 274.25
+      cross:
+        crossingPair:
+        - fix: 10390
+          time: 2020-09-11T14:03:49Z
+          lat: 46.19465
+          lng: 12.8431
+          alt: 273
+        - fix: 10391
+          time: 2020-09-11T14:03:50Z
+          lat: 46.1947
+          lng: 12.8434
+          alt: 275
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 10421.243303748162
+        time: 2020-09-11T14:04:20.243303748162Z
+        lat: 46.19659955
+        lng: 12.85085677
+        alt: 242.51
+      cross:
+        crossingPair:
+        - fix: 10421
+          time: 2020-09-11T14:04:20Z
+          lat: 46.19658333
+          lng: 12.8508
+          alt: 243
+        - fix: 10422
+          time: 2020-09-11T14:04:21Z
+          lat: 46.19665
+          lng: 12.85103333
+          alt: 241
+        inZone:
+        - false
+        - true
+- - - '130'
+    - Oliver Salewski
+  - zonesTag:
+    - inter:
+        fixFrac: 39.50436738246666
+        time: 2020-09-11T11:06:13.504367382466Z
+        lat: 46.22758304
+        lng: 12.80932551
+        alt: 927
+      cross:
+        crossingPair:
+        - fix: 39
+          time: 2020-09-11T11:06:13Z
+          lat: 46.22761667
+          lng: 12.80926667
+          alt: 927
+        - fix: 40
+          time: 2020-09-11T11:06:14Z
+          lat: 46.22755
+          lng: 12.80938333
+          alt: 927
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2410.0653644262834
+        time: 2020-09-11T11:45:44.065364426283Z
+        lat: 46.22936671
+        lng: 12.82094749
+        alt: 1480.93
+      cross:
+        crossingPair:
+        - fix: 2410
+          time: 2020-09-11T11:45:44Z
+          lat: 46.22936667
+          lng: 12.82093333
+          alt: 1481
+        - fix: 2411
+          time: 2020-09-11T11:45:45Z
+          lat: 46.22936667
+          lng: 12.82115
+          alt: 1480
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 4896.274630914234
+        time: 2020-09-11T12:27:10.274630914233Z
+        lat: 46.27443169
+        lng: 13.0712291
+        alt: 1109.45
+      cross:
+        crossingPair:
+        - fix: 4896
+          time: 2020-09-11T12:27:10Z
+          lat: 46.27445
+          lng: 13.07118333
+          alt: 1110
+        - fix: 4897
+          time: 2020-09-11T12:27:11Z
+          lat: 46.27438333
+          lng: 13.07135
+          alt: 1108
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 8873.843569836352
+        time: 2020-09-11T13:33:27.843569836351Z
+        lat: 46.20990008
+        lng: 12.65856983
+        alt: 1297
+      cross:
+        crossingPair:
+        - fix: 8873
+          time: 2020-09-11T13:33:27Z
+          lat: 46.2099
+          lng: 12.65876667
+          alt: 1297
+        - fix: 8874
+          time: 2020-09-11T13:33:28Z
+          lat: 46.2099
+          lng: 12.65853333
+          alt: 1297
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 11224.194518415794
+        time: 2020-09-11T14:12:38.194518415793Z
+        lat: 46.20670367
+        lng: 12.90222545
+        alt: 1229.22
+      cross:
+        crossingPair:
+        - fix: 11224
+          time: 2020-09-11T14:12:38Z
+          lat: 46.20671667
+          lng: 12.90218333
+          alt: 1230
+        - fix: 11225
+          time: 2020-09-11T14:12:39Z
+          lat: 46.20665
+          lng: 12.9024
+          alt: 1226
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 12259.91641184292
+        time: 2020-09-11T14:29:53.916411842919Z
+        lat: 46.19129447
+        lng: 12.79175279
+        alt: 1035
+      cross:
+        crossingPair:
+        - fix: 12259
+          time: 2020-09-11T14:29:53Z
+          lat: 46.19141667
+          lng: 12.79178333
+          alt: 1035
+        - fix: 12260
+          time: 2020-09-11T14:29:54Z
+          lat: 46.19128333
+          lng: 12.79175
+          alt: 1035
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 12428.952593000142
+        time: 2020-09-11T14:32:42.952593000141Z
+        lat: 46.19630158
+        lng: 12.84305324
+        alt: 456.86
+      cross:
+        crossingPair:
+        - fix: 12428
+          time: 2020-09-11T14:32:42Z
+          lat: 46.19633333
+          lng: 12.84278333
+          alt: 454
+        - fix: 12429
+          time: 2020-09-11T14:32:43Z
+          lat: 46.1963
+          lng: 12.84306667
+          alt: 457
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 12474.699799534816
+        time: 2020-09-11T14:33:28.699799534815Z
+        lat: 46.19657668
+        lng: 12.85085497
+        alt: 445.6
+      cross:
+        crossingPair:
+        - fix: 12474
+          time: 2020-09-11T14:33:28Z
+          lat: 46.1966
+          lng: 12.85075
+          alt: 447
+        - fix: 12475
+          time: 2020-09-11T14:33:29Z
+          lat: 46.19656667
+          lng: 12.8509
+          alt: 445
+        inZone:
+        - false
+        - true
+- - - '122'
+    - Pieter Speeleveld
+  - zonesTag:
+    - inter:
+        fixFrac: 36.86163257938899
+        time: 2020-09-11T11:07:16.861632579388Z
+        lat: 46.22742589
+        lng: 12.80881258
+        alt: 918.72
+      cross:
+        crossingPair:
+        - fix: 36
+          time: 2020-09-11T11:07:16Z
+          lat: 46.22748333
+          lng: 12.80868333
+          alt: 917
+        - fix: 37
+          time: 2020-09-11T11:07:17Z
+          lat: 46.22741667
+          lng: 12.80883333
+          alt: 919
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2492.4069490771653
+        time: 2020-09-11T11:48:12.406949077165Z
+        lat: 46.2176198
+        lng: 12.82870795
+        alt: 1515.19
+      cross:
+        crossingPair:
+        - fix: 2492
+          time: 2020-09-11T11:48:12Z
+          lat: 46.21763333
+          lng: 12.82863333
+          alt: 1516
+        - fix: 2493
+          time: 2020-09-11T11:48:13Z
+          lat: 46.2176
+          lng: 12.82881667
+          alt: 1514
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 6999.69823960607
+        time: 2020-09-11T13:03:19.69823960607Z
+        lat: 46.27220662
+        lng: 13.07213806
+        alt: 1252.4
+      cross:
+        crossingPair:
+        - fix: 6999
+          time: 2020-09-11T13:03:19Z
+          lat: 46.27218333
+          lng: 13.07203333
+          alt: 1251
+        - fix: 7000
+          time: 2020-09-11T13:03:20Z
+          lat: 46.27221667
+          lng: 13.07218333
+          alt: 1253
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+    - null
+    - null
+- - - '134'
+    - Roland Wöhrle
+  - zonesTag:
+    - inter:
+        fixFrac: 1074.514278438832
+        time: 2020-09-11T11:00:58.514278438831Z
+        lat: 46.22760715
+        lng: 12.80939286
+        alt: 931.54
+      cross:
+        crossingPair:
+        - fix: 1074
+          time: 2020-09-11T11:00:58Z
+          lat: 46.22765
+          lng: 12.80935
+          alt: 930
+        - fix: 1075
+          time: 2020-09-11T11:00:59Z
+          lat: 46.22756667
+          lng: 12.80943333
+          alt: 933
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 3747.9677214143103
+        time: 2020-09-11T11:45:31.96772141431Z
+        lat: 46.22961669
+        lng: 12.82075968
+        alt: 1466.1
+      cross:
+        crossingPair:
+        - fix: 3747
+          time: 2020-09-11T11:45:31Z
+          lat: 46.22961667
+          lng: 12.82055
+          alt: 1469
+        - fix: 3748
+          time: 2020-09-11T11:45:32Z
+          lat: 46.22961667
+          lng: 12.82076667
+          alt: 1466
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 5638.241874977999
+        time: 2020-09-11T12:17:02.241874977999Z
+        lat: 46.27473735
+        lng: 13.07112714
+        alt: 1287
+      cross:
+        crossingPair:
+        - fix: 5638
+          time: 2020-09-11T12:17:02Z
+          lat: 46.27473333
+          lng: 13.07106667
+          alt: 1287
+        - fix: 5639
+          time: 2020-09-11T12:17:03Z
+          lat: 46.27475
+          lng: 13.07131667
+          alt: 1287
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 9025.371207534425
+        time: 2020-09-11T13:13:31.371207534424Z
+        lat: 46.21036469
+        lng: 12.65839675
+        alt: 1395.37
+      cross:
+        crossingPair:
+        - fix: 9025
+          time: 2020-09-11T13:13:31Z
+          lat: 46.21038333
+          lng: 12.65848333
+          alt: 1395
+        - fix: 9026
+          time: 2020-09-11T13:13:32Z
+          lat: 46.21033333
+          lng: 12.65825
+          alt: 1396
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 10934.43612355994
+        time: 2020-09-11T13:45:22.436123559941Z
+        lat: 46.20663334
+        lng: 12.90222782
+        alt: 1035.56
+      cross:
+        crossingPair:
+        - fix: 10934
+          time: 2020-09-11T13:45:22Z
+          lat: 46.20663333
+          lng: 12.90213333
+          alt: 1036
+        - fix: 10935
+          time: 2020-09-11T13:45:23Z
+          lat: 46.20663333
+          lng: 12.90235
+          alt: 1035
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 11689.386851730811
+        time: 2020-09-11T13:57:57.38685173081Z
+        lat: 46.18990109
+        lng: 12.79266886
+        alt: 658.23
+      cross:
+        crossingPair:
+        - fix: 11689
+          time: 2020-09-11T13:57:57Z
+          lat: 46.18993333
+          lng: 12.79273333
+          alt: 659
+        - fix: 11690
+          time: 2020-09-11T13:57:58Z
+          lat: 46.18985
+          lng: 12.79256667
+          alt: 657
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 11903.522155352173
+        time: 2020-09-11T14:01:31.522155352173Z
+        lat: 46.19402611
+        lng: 12.84350738
+        alt: 380.91
+      cross:
+        crossingPair:
+        - fix: 11903
+          time: 2020-09-11T14:01:31Z
+          lat: 46.194
+          lng: 12.84333333
+          alt: 383
+        - fix: 11904
+          time: 2020-09-11T14:01:32Z
+          lat: 46.19405
+          lng: 12.84366667
+          alt: 379
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 11927.284373366254
+        time: 2020-09-11T14:01:55.284373366254Z
+        lat: 46.19525703
+        lng: 12.85110916
+        alt: 314.86
+      cross:
+        crossingPair:
+        - fix: 11927
+          time: 2020-09-11T14:01:55Z
+          lat: 46.19523333
+          lng: 12.85103333
+          alt: 316
+        - fix: 11928
+          time: 2020-09-11T14:01:56Z
+          lat: 46.19531667
+          lng: 12.8513
+          alt: 312
+        inZone:
+        - false
+        - true
+- - - '124'
+    - Rousselet Simon
+  - zonesTag:
+    - inter:
+        fixFrac: 2090.285800059829
+        time: 2020-09-11T11:11:42.285800059828Z
+        lat: 46.22998333
+        lng: 12.80181904
+        alt: 878
+      cross:
+        crossingPair:
+        - fix: 2090
+          time: 2020-09-11T11:11:42Z
+          lat: 46.22998333
+          lng: 12.80186667
+          alt: 878
+        - fix: 2091
+          time: 2020-09-11T11:11:43Z
+          lat: 46.22998333
+          lng: 12.8017
+          alt: 878
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 4126.111363047254
+        time: 2020-09-11T11:45:38.111363047253Z
+        lat: 46.22921478
+        lng: 12.82106117
+        alt: 1429.78
+      cross:
+        crossingPair:
+        - fix: 4126
+          time: 2020-09-11T11:45:38Z
+          lat: 46.22921667
+          lng: 12.82103333
+          alt: 1430
+        - fix: 4127
+          time: 2020-09-11T11:45:39Z
+          lat: 46.2292
+          lng: 12.82128333
+          alt: 1428
+        inZone:
+        - true
+        - false
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+- - - '123'
+    - Sasha Serebrennikova
+  - zonesTag:
+    - inter:
+        fixFrac: 35.17348962805667
+        time: 2020-09-11T11:03:59.173489628056Z
+        lat: 46.2276551
+        lng: 12.80952024
+        alt: 922.17
+      cross:
+        crossingPair:
+        - fix: 35
+          time: 2020-09-11T11:03:59Z
+          lat: 46.22766667
+          lng: 12.8095
+          alt: 922
+        - fix: 36
+          time: 2020-09-11T11:04:00Z
+          lat: 46.2276
+          lng: 12.80961667
+          alt: 923
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2519.2425849262922
+        time: 2020-09-11T11:45:23.242584926292Z
+        lat: 46.218054
+        lng: 12.82845661
+        alt: 1448.27
+      cross:
+        crossingPair:
+        - fix: 2519
+          time: 2020-09-11T11:45:23Z
+          lat: 46.21805
+          lng: 12.8284
+          alt: 1449
+        - fix: 2520
+          time: 2020-09-11T11:45:24Z
+          lat: 46.21806667
+          lng: 12.82863333
+          alt: 1446
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 4794.7836197816605
+        time: 2020-09-11T12:23:18.78361978166Z
+        lat: 46.27045586
+        lng: 13.07306978
+        alt: 1153.22
+      cross:
+        crossingPair:
+        - fix: 4794
+          time: 2020-09-11T12:23:18Z
+          lat: 46.27041667
+          lng: 13.0729
+          alt: 1154
+        - fix: 4795
+          time: 2020-09-11T12:23:19Z
+          lat: 46.27046667
+          lng: 13.07311667
+          alt: 1153
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 11715.97902136028
+        time: 2020-09-11T14:18:39.979021360279Z
+        lat: 46.17993579
+        lng: 12.66633575
+        alt: 1268.04
+      cross:
+        crossingPair:
+        - fix: 11715
+          time: 2020-09-11T14:18:39Z
+          lat: 46.18005
+          lng: 12.66645
+          alt: 1270
+        - fix: 11716
+          time: 2020-09-11T14:18:40Z
+          lat: 46.17993333
+          lng: 12.66633333
+          alt: 1268
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 14252.389591240813
+        time: 2020-09-11T15:00:56.389591240814Z
+        lat: 46.20762311
+        lng: 12.90220109
+        alt: 916.83
+      cross:
+        crossingPair:
+        - fix: 14252
+          time: 2020-09-11T15:00:56Z
+          lat: 46.20761667
+          lng: 12.90211667
+          alt: 918
+        - fix: 14253
+          time: 2020-09-11T15:00:57Z
+          lat: 46.20763333
+          lng: 12.90233333
+          alt: 915
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 15567.330791332444
+        time: 2020-09-11T15:22:51.330791332444Z
+        lat: 46.1969059
+        lng: 12.78715574
+        alt: 743.33
+      cross:
+        crossingPair:
+        - fix: 15567
+          time: 2020-09-11T15:22:51Z
+          lat: 46.19695
+          lng: 12.78718333
+          alt: 743
+        - fix: 15568
+          time: 2020-09-11T15:22:52Z
+          lat: 46.19681667
+          lng: 12.7871
+          alt: 744
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 15829.873925439657
+        time: 2020-09-11T15:27:13.873925439656Z
+        lat: 46.19651877
+        lng: 12.84305391
+        alt: 446.13
+      cross:
+        crossingPair:
+        - fix: 15829
+          time: 2020-09-11T15:27:13Z
+          lat: 46.19653333
+          lng: 12.84285
+          alt: 447
+        - fix: 15830
+          time: 2020-09-11T15:27:14Z
+          lat: 46.19651667
+          lng: 12.84308333
+          alt: 446
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 15864.046656980396
+        time: 2020-09-11T15:27:48.046656980395Z
+        lat: 46.196
+        lng: 12.85087833
+        alt: 404.86
+      cross:
+        crossingPair:
+        - fix: 15864
+          time: 2020-09-11T15:27:48Z
+          lat: 46.196
+          lng: 12.85086667
+          alt: 405
+        - fix: 15865
+          time: 2020-09-11T15:27:49Z
+          lat: 46.196
+          lng: 12.85111667
+          alt: 402
+        inZone:
+        - false
+        - true
+- - - '129'
+    - Stepan Zubashev
+  - zonesTag:
+    - inter:
+        fixFrac: 32.43438680466167
+        time: 2020-09-11T11:11:44.434386804661Z
+        lat: 46.22760656
+        lng: 12.80939125
+        alt: 919.3
+      cross:
+        crossingPair:
+        - fix: 32
+          time: 2020-09-11T11:11:44Z
+          lat: 46.22765
+          lng: 12.80933333
+          alt: 918
+        - fix: 33
+          time: 2020-09-11T11:11:45Z
+          lat: 46.22755
+          lng: 12.80946667
+          alt: 921
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2069.1487386890526
+        time: 2020-09-11T11:45:41.148738689052Z
+        lat: 46.22794567
+        lng: 12.82199646
+        alt: 1478.85
+      cross:
+        crossingPair:
+        - fix: 2069
+          time: 2020-09-11T11:45:41Z
+          lat: 46.22793333
+          lng: 12.82196667
+          alt: 1479
+        - fix: 2070
+          time: 2020-09-11T11:45:42Z
+          lat: 46.22801667
+          lng: 12.82216667
+          alt: 1478
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 6526.7294988822405
+        time: 2020-09-11T12:59:58.72949888224Z
+        lat: 46.28536078
+        lng: 13.07077473
+        alt: 635.54
+      cross:
+        crossingPair:
+        - fix: 6526
+          time: 2020-09-11T12:59:58Z
+          lat: 46.2853
+          lng: 13.07061667
+          alt: 637
+        - fix: 6527
+          time: 2020-09-11T12:59:59Z
+          lat: 46.28538333
+          lng: 13.07083333
+          alt: 635
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+    - null
+    - null
+- - - '118'
+    - Suan Selenati
+  - zonesTag:
+    - inter:
+        fixFrac: 54.681895628869206
+        time: 2020-09-11T11:06:48.681895628869Z
+        lat: 46.22744848
+        lng: 12.80889622
+        alt: 904
+      cross:
+        crossingPair:
+        - fix: 54
+          time: 2020-09-11T11:06:48Z
+          lat: 46.22751667
+          lng: 12.80881667
+          alt: 904
+        - fix: 55
+          time: 2020-09-11T11:06:49Z
+          lat: 46.22741667
+          lng: 12.80893333
+          alt: 904
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2354.3117897953384
+        time: 2020-09-11T11:45:08.311789795338Z
+        lat: 46.21508847
+        lng: 12.83012168
+        alt: 1453.88
+      cross:
+        crossingPair:
+        - fix: 2354
+          time: 2020-09-11T11:45:08Z
+          lat: 46.21508333
+          lng: 12.83003333
+          alt: 1457
+        - fix: 2355
+          time: 2020-09-11T11:45:09Z
+          lat: 46.2151
+          lng: 12.83031667
+          alt: 1447
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 4027.82293283904
+        time: 2020-09-11T12:13:01.822932839039Z
+        lat: 46.27110192
+        lng: 13.07270277
+        alt: 1045.82
+      cross:
+        crossingPair:
+        - fix: 4027
+          time: 2020-09-11T12:13:01Z
+          lat: 46.27103333
+          lng: 13.07248333
+          alt: 1045
+        - fix: 4028
+          time: 2020-09-11T12:13:02Z
+          lat: 46.27111667
+          lng: 13.07275
+          alt: 1046
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 9631.472702385428
+        time: 2020-09-11T13:46:25.472702385429Z
+        lat: 46.20632907
+        lng: 12.65984492
+        alt: 1366.58
+      cross:
+        crossingPair:
+        - fix: 9631
+          time: 2020-09-11T13:46:25Z
+          lat: 46.2064
+          lng: 12.6599
+          alt: 1368
+        - fix: 9632
+          time: 2020-09-11T13:46:26Z
+          lat: 46.20625
+          lng: 12.65978333
+          alt: 1365
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 12216.206412960339
+        time: 2020-09-11T14:29:30.206412960339Z
+        lat: 46.20610004
+        lng: 12.90224816
+        alt: 1329.59
+      cross:
+        crossingPair:
+        - fix: 12216
+          time: 2020-09-11T14:29:30Z
+          lat: 46.2061
+          lng: 12.9022
+          alt: 1330
+        - fix: 12217
+          time: 2020-09-11T14:29:31Z
+          lat: 46.2061
+          lng: 12.90243333
+          alt: 1328
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 12915.775891180067
+        time: 2020-09-11T14:41:09.775891180066Z
+        lat: 46.19390403
+        lng: 12.78980572
+        alt: 749.34
+      cross:
+        crossingPair:
+        - fix: 12915
+          time: 2020-09-11T14:41:09Z
+          lat: 46.19403333
+          lng: 12.78988333
+          alt: 754
+        - fix: 12916
+          time: 2020-09-11T14:41:10Z
+          lat: 46.19386667
+          lng: 12.78978333
+          alt: 748
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 13117.973742425285
+        time: 2020-09-11T14:44:31.973742425285Z
+        lat: 46.19363158
+        lng: 12.84367589
+        alt: 313.08
+      cross:
+        crossingPair:
+        - fix: 13117
+          time: 2020-09-11T14:44:31Z
+          lat: 46.19356667
+          lng: 12.8434
+          alt: 316
+        - fix: 13118
+          time: 2020-09-11T14:44:32Z
+          lat: 46.19363333
+          lng: 12.84368333
+          alt: 313
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 13144.054025204434
+        time: 2020-09-11T14:44:58.054025204434Z
+        lat: 46.19532027
+        lng: 12.85108018
+        alt: 258
+      cross:
+        crossingPair:
+        - fix: 13144
+          time: 2020-09-11T14:44:58Z
+          lat: 46.19531667
+          lng: 12.85106667
+          alt: 258
+        - fix: 13145
+          time: 2020-09-11T14:44:59Z
+          lat: 46.19538333
+          lng: 12.85131667
+          alt: 258
+        inZone:
+        - false
+        - true
+- - - '110'
+    - Tullio Gervasoni
+  - zonesTag:
+    - inter:
+        fixFrac: 28.967206393290272
+        time: 2020-09-11T11:07:34.96720639329Z
+        lat: 46.22735383
+        lng: 12.80851175
+        alt: 915.93
+      cross:
+        crossingPair:
+        - fix: 28
+          time: 2020-09-11T11:07:34Z
+          lat: 46.22746667
+          lng: 12.80836667
+          alt: 914
+        - fix: 29
+          time: 2020-09-11T11:07:35Z
+          lat: 46.22735
+          lng: 12.80851667
+          alt: 916
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2305.7427884761
+        time: 2020-09-11T11:45:31.7427884761Z
+        lat: 46.22882911
+        lng: 12.82134807
+        alt: 1400
+      cross:
+        crossingPair:
+        - fix: 2305
+          time: 2020-09-11T11:45:31Z
+          lat: 46.22881667
+          lng: 12.82115
+          alt: 1400
+        - fix: 2306
+          time: 2020-09-11T11:45:32Z
+          lat: 46.22883333
+          lng: 12.82141667
+          alt: 1400
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 5318.467619123465
+        time: 2020-09-11T12:35:44.467619123465Z
+        lat: 46.27422445
+        lng: 13.07130132
+        alt: 1253.06
+      cross:
+        crossingPair:
+        - fix: 5318
+          time: 2020-09-11T12:35:44Z
+          lat: 46.27421667
+          lng: 13.0712
+          alt: 1254
+        - fix: 5319
+          time: 2020-09-11T12:35:45Z
+          lat: 46.27423333
+          lng: 13.07141667
+          alt: 1252
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+    - null
+    - null
+- - - '104'
+    - Valentino Bau
+  - zonesTag:
+    - inter:
+        fixFrac: 28.561220476096228
+        time: 2020-09-11T11:08:22.561220476096Z
+        lat: 46.2273699
+        lng: 12.80858418
+        alt: 883
+      cross:
+        crossingPair:
+        - fix: 28
+          time: 2020-09-11T11:08:22Z
+          lat: 46.22741667
+          lng: 12.8085
+          alt: 883
+        - fix: 29
+          time: 2020-09-11T11:08:23Z
+          lat: 46.22733333
+          lng: 12.80865
+          alt: 883
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2463.007049464784
+        time: 2020-09-11T11:48:57.007049464783Z
+        lat: 46.21783321
+        lng: 12.82858474
+        alt: 1503.99
+      cross:
+        crossingPair:
+        - fix: 2463
+          time: 2020-09-11T11:48:57Z
+          lat: 46.21783333
+          lng: 12.82858333
+          alt: 1504
+        - fix: 2464
+          time: 2020-09-11T11:48:58Z
+          lat: 46.21781667
+          lng: 12.82878333
+          alt: 1503
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 4256.168505236528
+        time: 2020-09-11T12:18:50.168505236528Z
+        lat: 46.27316123
+        lng: 13.07171161
+        alt: 1106
+      cross:
+        crossingPair:
+        - fix: 4256
+          time: 2020-09-11T12:18:50Z
+          lat: 46.27315
+          lng: 13.07166667
+          alt: 1106
+        - fix: 4257
+          time: 2020-09-11T12:18:51Z
+          lat: 46.27321667
+          lng: 13.07193333
+          alt: 1106
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+    - null
+    - null
+- - - '101'
+    - Vanni Accattoli
+  - null
+- - - '102'
+    - Walter Bacchi
+  - zonesTag:
+    - inter:
+        fixFrac: 6138.176493407375
+        time: 2020-09-11T11:09:03.176493407375Z
+        lat: 46.22719902
+        lng: 12.80735392
+        alt: 915
+      cross:
+        crossingPair:
+        - fix: 6138
+          time: 2020-09-11T11:09:03Z
+          lat: 46.22721667
+          lng: 12.80733333
+          alt: 915
+        - fix: 6139
+          time: 2020-09-11T11:09:04Z
+          lat: 46.22711667
+          lng: 12.80745
+          alt: 915
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 8343.644078279534
+        time: 2020-09-11T11:45:48.644078279534Z
+        lat: 46.23000364
+        lng: 12.82046697
+        alt: 1385.71
+      cross:
+        crossingPair:
+        - fix: 8343
+          time: 2020-09-11T11:45:48Z
+          lat: 46.22995
+          lng: 12.82031667
+          alt: 1387
+        - fix: 8344
+          time: 2020-09-11T11:45:49Z
+          lat: 46.23003333
+          lng: 12.82055
+          alt: 1385
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 10556.582100833843
+        time: 2020-09-11T12:22:41.582100833842Z
+        lat: 46.2676597
+        lng: 13.07499553
+        alt: 1121
+      cross:
+        crossingPair:
+        - fix: 10556
+          time: 2020-09-11T12:22:41Z
+          lat: 46.26765
+          lng: 13.07485
+          alt: 1121
+        - fix: 10557
+          time: 2020-09-11T12:22:42Z
+          lat: 46.26766667
+          lng: 13.0751
+          alt: 1121
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 17897.27006504098
+        time: 2020-09-11T14:25:02.270065040977Z
+        lat: 46.20647127
+        lng: 12.659796
+        alt: 1090
+      cross:
+        crossingPair:
+        - fix: 17897
+          time: 2020-09-11T14:25:02Z
+          lat: 46.20646667
+          lng: 12.65985
+          alt: 1090
+        - fix: 17898
+          time: 2020-09-11T14:25:03Z
+          lat: 46.20648333
+          lng: 12.65965
+          alt: 1090
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+    - null

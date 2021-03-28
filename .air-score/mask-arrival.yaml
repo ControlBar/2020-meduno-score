@@ -1,0 +1,171 @@
+pilotsAtEss:
+- 5
+- 10
+- 15
+- 3
+arrivalRank:
+- - - - '134'
+      - Roland Wöhrle
+    - lag: null
+      rank: '1'
+      frac: 1.0
+  - - - '105'
+      - Christian Ciech
+    - lag: 0.06806 h
+      rank: '2'
+      frac: 0.5095168000000001
+  - - - '113'
+      - Marco Laurenzi
+    - lag: 0.11889 h
+      rank: '3'
+      frac: 0.405728
+  - - - '107'
+      - Joost Eertman
+    - lag: 0.21806 h
+      rank: '4'
+      frac: 0.276112
+  - - - '112'
+      - Marco Gröbner
+    - lag: 0.29167 h
+      rank: '5'
+      frac: 0.217664
+- - - - '134'
+      - Roland Wöhrle
+    - lag: null
+      rank: '1'
+      frac: 1.0
+  - - - '105'
+      - Christian Ciech
+    - lag: 0.02917 h
+      rank: '2'
+      frac: 0.800057
+  - - - '113'
+      - Marco Laurenzi
+    - lag: 0.03833 h
+      rank: '3'
+      frac: 0.6368960000000001
+  - - - '107'
+      - Joost Eertman
+    - lag: 0.23528 h
+      rank: '4'
+      frac: 0.5067189999999999
+  - - - '106'
+      - Lorenzo De Grandis
+    - lag: 0.32750 h
+      rank: '5'
+      frac: 0.40572800000000003
+  - - - '130'
+      - Oliver Salewski
+    - lag: 0.51972 h
+      rank: '6'
+      frac: 0.330125
+  - - - '119'
+      - Christian Pollet
+    - lag: 0.61472 h
+      rank: '7'
+      frac: 0.276112
+  - - - '118'
+      - Suan Selenati
+    - lag: 0.71667 h
+      rank: '8'
+      frac: 0.23989100000000002
+  - - - '112'
+      - Marco Gröbner
+    - lag: 0.74417 h
+      rank: '9'
+      frac: 0.217664
+  - - - '123'
+      - Sasha Serebrennikova
+    - lag: 1.42833 h
+      rank: '10'
+      frac: 0.205633
+- - - - '105'
+      - Christian Ciech
+    - lag: null
+      rank: '1'
+      frac: 1.0
+  - - - '134'
+      - Roland Wöhrle
+    - lag: 0.44917 h
+      rank: '2'
+      frac: 0.8624302222222222
+  - - - '118'
+      - Suan Selenati
+    - lag: 0.47639 h
+      rank: '3'
+      frac: 0.7417706666666668
+  - - - '119'
+      - Christian Pollet
+    - lag: 0.48333 h
+      rank: '4'
+      frac: 0.6368960000000001
+  - - - '106'
+      - Lorenzo De Grandis
+    - lag: 0.49833 h
+      rank: '5'
+      frac: 0.546680888888889
+  - - - '107'
+      - Joost Eertman
+    - lag: 0.51056 h
+      rank: '6'
+      frac: 0.4700000000000001
+  - - - '130'
+      - Oliver Salewski
+    - lag: 0.52222 h
+      rank: '7'
+      frac: 0.405728
+  - - - '113'
+      - Marco Laurenzi
+    - lag: 0.54389 h
+      rank: '8'
+      frac: 0.2821916444444445
+  - - - '110'
+      - Tullio Gervasoni
+    - lag: 0.62750 h
+      rank: '9'
+      frac: 0.30990933333333337
+  - - - '103'
+      - Joerg Bajewski
+    - lag: 0.68694 h
+      rank: '10'
+      frac: 0.276112
+  - - - '112'
+      - Marco Gröbner
+    - lag: 0.69333 h
+      rank: '11'
+      frac: 0.25022222222222223
+  - - - '123'
+      - Sasha Serebrennikova
+    - lag: 0.69333 h
+      rank: '12'
+      frac: 0.2311146666666667
+  - - - '115'
+      - Eric Mathurin
+    - lag: 1.05833 h
+      rank: '13'
+      frac: 0.217664
+  - - - '104'
+      - Valentino Bau
+    - lag: 1.18861 h
+      rank: '14'
+      frac: 0.16699591111111112
+  - - - '122'
+      - Pieter Speeleveld
+    - lag: 1.48611 h
+      rank: '15'
+      frac: 0.16258560000000002
+- - - - '105'
+      - Christian Ciech
+    - lag: null
+      rank: '1'
+      frac: 1.0
+  - - - '134'
+      - Roland Wöhrle
+    - lag: 0.02028 h
+      rank: '2'
+      frac: 0.4700000000000001
+  - - - '119'
+      - Christian Pollet
+    - lag: 0.12889 h
+      rank: '3'
+      frac: 0.25022222222222223

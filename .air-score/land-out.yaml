@@ -1,0 +1,667 @@
+minDistance: 7.000 km
+bestDistance:
+- 59.550500 km
+- 85.130400 km
+- 85.270900 km
+- 82.874100 km
+chunking:
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 589
+  - 5.9 km
+  sumOf: 1762
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 599
+  - 6.0 km
+  sumOf: 2107
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 859
+  - 8.6 km
+  sumOf: 2435
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 809
+  - 8.1 km
+  sumOf: 2283
+landout:
+- 30
+- 24
+- 22
+- 31
+lookahead:
+- 81
+- 232
+- 197
+- 146
+difficulty:
+- - chunk: 70
+    startChunk: 7.0 km
+    endChunk: 7.1 km
+    endAhead: 15.1 km
+    down: 2
+    downs:
+    - 7.000 km
+    - 7.000 km
+    downers:
+    - - '131'
+      - Jurgen Buchert
+    - - '132'
+      - Emiel Jansen
+    downward: 28
+  - chunk: 95
+    startChunk: 9.5 km
+    endChunk: 9.6 km
+    endAhead: 17.6 km
+    down: 1
+    downs:
+    - 9.529 km
+    downers:
+    - - '102'
+      - Walter Bacchi
+    downward: 27
+  - chunk: 109
+    startChunk: 10.9 km
+    endChunk: 11.0 km
+    endAhead: 19.0 km
+    down: 1
+    downs:
+    - 10.975 km
+    downers:
+    - - '129'
+      - Stepan Zubashev
+    downward: 26
+  - chunk: 110
+    startChunk: 11.0 km
+    endChunk: 11.1 km
+    endAhead: 19.1 km
+    down: 1
+    downs:
+    - 11.006 km
+    downers:
+    - - '119'
+      - Christian Pollet
+    downward: 25
+  - chunk: 119
+    startChunk: 11.9 km
+    endChunk: 12.0 km
+    endAhead: 20.0 km
+    down: 1
+    downs:
+    - 11.957 km
+    downers:
+    - - '124'
+      - Rousselet Simon
+    downward: 24
+  - chunk: 122
+    startChunk: 12.2 km
+    endChunk: 12.3 km
+    endAhead: 20.3 km
+    down: 2
+    downs:
+    - 12.227 km
+    - 12.225 km
+    downers:
+    - - '122'
+      - Pieter Speeleveld
+    - - '133'
+      - Johann Courtain
+    downward: 22
+  - chunk: 123
+    startChunk: 12.3 km
+    endChunk: 12.4 km
+    endAhead: 20.4 km
+    down: 1
+    downs:
+    - 12.364 km
+    downers:
+    - - '108'
+      - Jean Louis Foglia
+    downward: 21
+  - chunk: 125
+    startChunk: 12.5 km
+    endChunk: 12.6 km
+    endAhead: 20.6 km
+    down: 2
+    downs:
+    - 12.580 km
+    - 12.582 km
+    downers:
+    - - '103'
+      - Joerg Bajewski
+    - - '114'
+      - Konrad Lueders
+    downward: 19
+  - chunk: 198
+    startChunk: 19.8 km
+    endChunk: 19.9 km
+    endAhead: 27.9 km
+    down: 3
+    downs:
+    - 19.894 km
+    - 19.885 km
+    - 19.887 km
+    downers:
+    - - '101'
+      - Vanni Accattoli
+    - - '109'
+      - Marcello Ciarlo
+    - - '110'
+      - Tullio Gervasoni
+    downward: 16
+  - chunk: 199
+    startChunk: 19.9 km
+    endChunk: 20.0 km
+    endAhead: 28.0 km
+    down: 1
+    downs:
+    - 19.936 km
+    downers:
+    - - '126'
+      - Andrea Theodoli
+    downward: 15
+  - chunk: 223
+    startChunk: 22.3 km
+    endChunk: 22.4 km
+    endAhead: 30.4 km
+    down: 1
+    downs:
+    - 22.311 km
+    downers:
+    - - '115'
+      - Eric Mathurin
+    downward: 14
+  - chunk: 238
+    startChunk: 23.8 km
+    endChunk: 23.9 km
+    endAhead: 31.9 km
+    down: 1
+    downs:
+    - 23.850 km
+    downers:
+    - - '106'
+      - Lorenzo De Grandis
+    downward: 13
+  - chunk: 250
+    startChunk: 25.0 km
+    endChunk: 25.1 km
+    endAhead: 33.1 km
+    down: 1
+    downs:
+    - 25.013 km
+    downers:
+    - - '104'
+      - Valentino Bau
+    downward: 12
+  - chunk: 253
+    startChunk: 25.3 km
+    endChunk: 25.4 km
+    endAhead: 33.4 km
+    down: 1
+    downs:
+    - 25.300 km
+    downers:
+    - - '118'
+      - Suan Selenati
+    downward: 11
+  - chunk: 324
+    startChunk: 32.4 km
+    endChunk: 32.5 km
+    endAhead: 40.5 km
+    down: 1
+    downs:
+    - 32.442 km
+    downers:
+    - - '123'
+      - Sasha Serebrennikova
+    downward: 10
+  - chunk: 330
+    startChunk: 33.0 km
+    endChunk: 33.1 km
+    endAhead: 41.1 km
+    down: 1
+    downs:
+    - 33.077 km
+    downers:
+    - - '130'
+      - Oliver Salewski
+    downward: 9
+  - chunk: 589
+    startChunk: 58.9 km
+    endChunk: 59.0 km
+    endAhead: 67.0 km
+    down: 1
+    downs:
+    - 58.936 km
+    downers:
+    - - '105'
+      - Christian Ciech
+    downward: 8
+- - chunk: 70
+    startChunk: 7.0 km
+    endChunk: 7.1 km
+    endAhead: 30.2 km
+    down: 2
+    downs:
+    - 0.964 km
+    - 5.836 km
+    downers:
+    - - '103'
+      - Joerg Bajewski
+    - - '131'
+      - Jurgen Buchert
+    downward: 22
+  - chunk: 149
+    startChunk: 14.9 km
+    endChunk: 15.0 km
+    endAhead: 38.1 km
+    down: 1
+    downs:
+    - 14.946 km
+    downers:
+    - - '109'
+      - Marcello Ciarlo
+    downward: 21
+  - chunk: 204
+    startChunk: 20.4 km
+    endChunk: 20.5 km
+    endAhead: 43.6 km
+    down: 1
+    downs:
+    - 20.402 km
+    downers:
+    - - '124'
+      - Rousselet Simon
+    downward: 20
+  - chunk: 217
+    startChunk: 21.7 km
+    endChunk: 21.8 km
+    endAhead: 44.9 km
+    down: 1
+    downs:
+    - 21.739 km
+    downers:
+    - - '129'
+      - Stepan Zubashev
+    downward: 19
+  - chunk: 239
+    startChunk: 23.9 km
+    endChunk: 24.0 km
+    endAhead: 47.1 km
+    down: 1
+    downs:
+    - 23.956 km
+    downers:
+    - - '115'
+      - Eric Mathurin
+    downward: 18
+  - chunk: 312
+    startChunk: 31.2 km
+    endChunk: 31.3 km
+    endAhead: 54.4 km
+    down: 1
+    downs:
+    - 31.289 km
+    downers:
+    - - '114'
+      - Konrad Lueders
+    downward: 17
+  - chunk: 315
+    startChunk: 31.5 km
+    endChunk: 31.6 km
+    endAhead: 54.7 km
+    down: 1
+    downs:
+    - 31.513 km
+    downers:
+    - - '110'
+      - Tullio Gervasoni
+    downward: 16
+  - chunk: 399
+    startChunk: 39.9 km
+    endChunk: 40.0 km
+    endAhead: 63.1 km
+    down: 1
+    downs:
+    - 39.989 km
+    downers:
+    - - '104'
+      - Valentino Bau
+    downward: 15
+  - chunk: 429
+    startChunk: 42.9 km
+    endChunk: 43.0 km
+    endAhead: 66.1 km
+    down: 1
+    downs:
+    - 42.966 km
+    downers:
+    - - '122'
+      - Pieter Speeleveld
+    downward: 14
+  - chunk: 590
+    startChunk: 59.0 km
+    endChunk: 59.1 km
+    endAhead: 82.2 km
+    down: 1
+    downs:
+    - 59.015 km
+    downers:
+    - - '102'
+      - Walter Bacchi
+    downward: 13
+- - chunk: 70
+    startChunk: 7.0 km
+    endChunk: 7.1 km
+    endAhead: 26.7 km
+    down: 1
+    downs:
+    - 3.037 km
+    downers:
+    - - '108'
+      - Jean Louis Foglia
+    downward: 21
+  - chunk: 470
+    startChunk: 47.0 km
+    endChunk: 47.1 km
+    endAhead: 66.7 km
+    down: 2
+    downs:
+    - 47.064 km
+    - 47.031 km
+    downers:
+    - - '109'
+      - Marcello Ciarlo
+    - - '129'
+      - Stepan Zubashev
+    downward: 19
+  - chunk: 487
+    startChunk: 48.7 km
+    endChunk: 48.8 km
+    endAhead: 68.4 km
+    down: 1
+    downs:
+    - 48.732 km
+    downers:
+    - - '102'
+      - Walter Bacchi
+    downward: 18
+  - chunk: 513
+    startChunk: 51.3 km
+    endChunk: 51.4 km
+    endAhead: 71.0 km
+    down: 1
+    downs:
+    - 51.314 km
+    downers:
+    - - '131'
+      - Jurgen Buchert
+    downward: 17
+  - chunk: 555
+    startChunk: 55.5 km
+    endChunk: 55.6 km
+    endAhead: 75.2 km
+    down: 1
+    downs:
+    - 55.555 km
+    downers:
+    - - '114'
+      - Konrad Lueders
+    downward: 16
+  - chunk: 587
+    startChunk: 58.7 km
+    endChunk: 58.8 km
+    endAhead: 78.4 km
+    down: 1
+    downs:
+    - 58.746 km
+    downers:
+    - - '132'
+      - Emiel Jansen
+    downward: 15
+  - chunk: 721
+    startChunk: 72.1 km
+    endChunk: 72.2 km
+    endAhead: 91.8 km
+    down: 1
+    downs:
+    - 72.166 km
+    downers:
+    - - '124'
+      - Rousselet Simon
+    downward: 14
+  - chunk: 722
+    startChunk: 72.2 km
+    endChunk: 72.3 km
+    endAhead: 91.9 km
+    down: 1
+    downs:
+    - 72.246 km
+    downers:
+    - - '133'
+      - Johann Courtain
+    downward: 13
+  - chunk: 762
+    startChunk: 76.2 km
+    endChunk: 76.3 km
+    endAhead: 95.9 km
+    down: 1
+    downs:
+    - 76.220 km
+    downers:
+    - - '126'
+      - Andrea Theodoli
+    downward: 12
+  - chunk: 849
+    startChunk: 84.9 km
+    endChunk: 85.0 km
+    endAhead: 104.6 km
+    down: 1
+    downs:
+    - 84.997 km
+    downers:
+    - - '104'
+      - Valentino Bau
+    downward: 11
+  - chunk: 850
+    startChunk: 85.0 km
+    endChunk: 85.1 km
+    endAhead: 104.7 km
+    down: 1
+    downs:
+    - 85.063 km
+    downers:
+    - - '122'
+      - Pieter Speeleveld
+    downward: 10
+  - chunk: 851
+    startChunk: 85.1 km
+    endChunk: 85.2 km
+    endAhead: 104.8 km
+    down: 1
+    downs:
+    - 85.157 km
+    downers:
+    - - '113'
+      - Marco Laurenzi
+    downward: 9
+- - chunk: 70
+    startChunk: 7.0 km
+    endChunk: 7.1 km
+    endAhead: 21.6 km
+    down: 2
+    downs:
+    - 1.525 km
+    - 5.153 km
+    downers:
+    - - '129'
+      - Stepan Zubashev
+    - - '131'
+      - Jurgen Buchert
+    downward: 29
+  - chunk: 96
+    startChunk: 9.6 km
+    endChunk: 9.7 km
+    endAhead: 24.2 km
+    down: 1
+    downs:
+    - 9.614 km
+    downers:
+    - - '109'
+      - Marcello Ciarlo
+    downward: 28
+  - chunk: 200
+    startChunk: 20.0 km
+    endChunk: 20.1 km
+    endAhead: 34.6 km
+    down: 1
+    downs:
+    - 20.028 km
+    downers:
+    - - '114'
+      - Konrad Lueders
+    downward: 27
+  - chunk: 264
+    startChunk: 26.4 km
+    endChunk: 26.5 km
+    endAhead: 41.0 km
+    down: 1
+    downs:
+    - 26.430 km
+    downers:
+    - - '126'
+      - Andrea Theodoli
+    downward: 26
+  - chunk: 278
+    startChunk: 27.8 km
+    endChunk: 27.9 km
+    endAhead: 42.4 km
+    down: 1
+    downs:
+    - 27.898 km
+    downers:
+    - - '132'
+      - Emiel Jansen
+    downward: 25
+  - chunk: 519
+    startChunk: 51.9 km
+    endChunk: 52.0 km
+    endAhead: 66.5 km
+    down: 1
+    downs:
+    - 51.972 km
+    downers:
+    - - '124'
+      - Rousselet Simon
+    downward: 24
+  - chunk: 522
+    startChunk: 52.2 km
+    endChunk: 52.3 km
+    endAhead: 66.8 km
+    down: 1
+    downs:
+    - 52.216 km
+    downers:
+    - - '108'
+      - Jean Louis Foglia
+    downward: 23
+  - chunk: 536
+    startChunk: 53.6 km
+    endChunk: 53.7 km
+    endAhead: 68.2 km
+    down: 1
+    downs:
+    - 53.670 km
+    downers:
+    - - '110'
+      - Tullio Gervasoni
+    downward: 22
+  - chunk: 538
+    startChunk: 53.8 km
+    endChunk: 53.9 km
+    endAhead: 68.4 km
+    down: 1
+    downs:
+    - 53.880 km
+    downers:
+    - - '103'
+      - Joerg Bajewski
+    downward: 21
+  - chunk: 540
+    startChunk: 54.0 km
+    endChunk: 54.1 km
+    endAhead: 68.6 km
+    down: 1
+    downs:
+    - 54.028 km
+    downers:
+    - - '107'
+      - Joost Eertman
+    downward: 20
+  - chunk: 541
+    startChunk: 54.1 km
+    endChunk: 54.2 km
+    endAhead: 68.7 km
+    down: 1
+    downs:
+    - 54.193 km
+    downers:
+    - - '118'
+      - Suan Selenati
+    downward: 19
+  - chunk: 542
+    startChunk: 54.2 km
+    endChunk: 54.3 km
+    endAhead: 68.8 km
+    down: 2
+    downs:
+    - 54.296 km
+    - 54.273 km
+    downers:
+    - - '104'
+      - Valentino Bau
+    - - '130'
+      - Oliver Salewski
+    downward: 17
+  - chunk: 543
+    startChunk: 54.3 km
+    endChunk: 54.4 km
+    endAhead: 68.9 km
+    down: 1
+    downs:
+    - 54.361 km
+    downers:
+    - - '123'
+      - Sasha Serebrennikova
+    downward: 16
+  - chunk: 545
+    startChunk: 54.5 km
+    endChunk: 54.6 km
+    endAhead: 69.1 km
+    down: 1
+    downs:
+    - 54.557 km
+    downers:
+    - - '115'
+      - Eric Mathurin
+    downward: 15
+  - chunk: 801
+    startChunk: 80.1 km
+    endChunk: 80.2 km
+    endAhead: 94.7 km
+    down: 1
+    downs:
+    - 80.146 km
+    downers:
+    - - '113'
+      - Marco Laurenzi
+    downward: 14
