@@ -1,6 +1,6 @@
 pilotsAtEss:
 - 5
-- 10
+- 9
 - 15
 - 3
 arrivalRank:
@@ -38,47 +38,42 @@ arrivalRank:
       - Christian Ciech
     - lag: 0.02917 h
       rank: '2'
-      frac: 0.800057
+      frac: 0.7801810699588476
   - - - '113'
       - Marco Laurenzi
     - lag: 0.03833 h
       rank: '3'
-      frac: 0.6368960000000001
+      frac: 0.6052510288065844
   - - - '107'
       - Joost Eertman
     - lag: 0.23528 h
       rank: '4'
-      frac: 0.5067189999999999
+      frac: 0.4700000000000001
   - - - '106'
       - Lorenzo De Grandis
     - lag: 0.32750 h
       rank: '5'
-      frac: 0.40572800000000003
+      frac: 0.3692181069958848
   - - - '130'
       - Oliver Salewski
     - lag: 0.51972 h
       rank: '6'
-      frac: 0.330125
+      frac: 0.2976954732510288
   - - - '119'
       - Christian Pollet
     - lag: 0.61472 h
       rank: '7'
-      frac: 0.276112
-  - - - '118'
-      - Suan Selenati
-    - lag: 0.71667 h
-      rank: '8'
-      frac: 0.23989100000000002
+      frac: 0.25022222222222223
   - - - '112'
       - Marco Gröbner
     - lag: 0.74417 h
-      rank: '9'
-      frac: 0.217664
+      rank: '8'
+      frac: 0.22158847736625512
   - - - '123'
       - Sasha Serebrennikova
     - lag: 1.42833 h
-      rank: '10'
-      frac: 0.205633
+      rank: '9'
+      frac: 0.2065843621399177
 - - - - '105'
       - Christian Ciech
     - lag: null
@@ -111,7 +106,7 @@ arrivalRank:
       frac: 0.4700000000000001
   - - - '130'
       - Oliver Salewski
-    - lag: 0.52222 h
+    - lag: 0.52250 h
       rank: '7'
       frac: 0.405728
   - - - '113'
@@ -121,7 +116,7 @@ arrivalRank:
       frac: 0.2821916444444445
   - - - '110'
       - Tullio Gervasoni
-    - lag: 0.62750 h
+    - lag: 0.62778 h
       rank: '9'
       frac: 0.30990933333333337
   - - - '103'
@@ -161,11 +156,11 @@ arrivalRank:
       frac: 1.0
   - - - '134'
       - Roland Wöhrle
-    - lag: 0.02028 h
+    - lag: 0.02000 h
       rank: '2'
-      frac: 0.4700000000000001
+      frac: 0.47000000000000003
   - - - '119'
       - Christian Pollet
-    - lag: 0.12889 h
+    - lag: 0.12861 h
       rank: '3'
       frac: 0.25022222222222223
