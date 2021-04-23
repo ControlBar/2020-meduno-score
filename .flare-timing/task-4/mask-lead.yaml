@@ -10,107 +10,27 @@ raceTime:
   openClose: 13500
   tickClose: 14313.043
 raceDistance: 79.536355 km
-sumDistance: 961.559997 km
+sumDistance: 711.924997 km
 leadAreaToCoef: 0.00000008782054 km^-2 s^-1
-leadCoefMin: 2.23650444
+leadCoefMin: 1.86438784
 leadRank:
-- - - '106'
-    - Lorenzo De Grandis
-  - area: 25466756.6876 km^2 s
-    coef: 2.23650444
-    frac: 1
 - - - '105'
     - Christian Ciech
-  - area: 25826773.8260 km^2 s
-    coef: 2.26812135
-    frac: 0.923542
-- - - '113'
-    - Marco Laurenzi
-  - area: 26008167.1006 km^2 s
-    coef: 2.2840514
-    frac: 0.89964048
+  - area: 21229518.0300 km^2 s
+    coef: 1.86438784
+    frac: 1
+- - - '106'
+    - Lorenzo De Grandis
+  - area: 21294513.1986 km^2 s
+    coef: 1.87009575
+    frac: 0.97404988
 - - - '134'
     - Roland Wöhrle
-  - area: 26129163.1606 km^2 s
-    coef: 2.29467734
-    frac: 0.88519595
+  - area: 21362891.6442 km^2 s
+    coef: 1.87610078
+    frac: 0.95809505
 - - - '119'
     - Christian Pollet
-  - area: 26149994.7343 km^2 s
-    coef: 2.29650678
-    frac: 0.88280146
-- - - '115'
-    - ERIC MATHURIN
-  - area: 31135035.4610 km^2 s
-    coef: 2.73429577
-    frac: 0.51970474
-- - - '103'
-    - Joerg Bajewski
-  - area: 31642077.1025 km^2 s
-    coef: 2.77882445
-    frac: 0.49147322
-- - - '110'
-    - Tullio Gervasoni
-  - area: 31665424.3770 km^2 s
-    coef: 2.78087482
-    frac: 0.49019229
-- - - '133'
-    - Johann Courtain
-  - area: 31954342.5477 km^2 s
-    coef: 2.80624777
-    frac: 0.47447154
-- - - '107'
-    - Joost Eertman
-  - area: 32617491.3849 km^2 s
-    coef: 2.86448586
-    frac: 0.43924313
-- - - '130'
-    - Oliver Salewski
-  - area: 35167288.5102 km^2 s
-    coef: 3.08841043
-    frac: 0.31281892
-- - - '123'
-    - Sasha Serebrennikova
-  - area: 37780658.3214 km^2 s
-    coef: 3.31791799
-    frac: 0.1943657
-- - - '104'
-    - Valentino Bau
-  - area: 38076596.0035 km^2 s
-    coef: 3.3439074
-    frac: 0.18150908
-- - - '118'
-    - Suan Selenati
-  - area: 39146787.3173 km^2 s
-    coef: 3.43789219
-    frac: 0.13583062
-- - - '124'
-    - Rousselet Simon
-  - area: 41269843.9599 km^2 s
-    coef: 3.62434018
-    frac: 4.858764e-2
-- - - '108'
-    - Jean louis FOGLIA
-  - area: 45603017.4470 km^2 s
-    coef: 4.00488183
-    frac: 0
-- - - '132'
-    - Emiel Jansen
-  - area: 45928700.6382 km^2 s
-    coef: 4.03348351
-    frac: 0
-- - - '126'
-    - Andrea Theodoli
-  - area: 49956349.1852 km^2 s
-    coef: 4.3871938
-    frac: 0
-- - - '114'
-    - Konrad Lueders
-  - area: 54850504.5940 km^2 s
-    coef: 4.81700119
-    frac: 0
-- - - '109'
-    - Marcello Ciarlo
-  - area: 69612715.1663 km^2 s
-    coef: 6.11342656
-    frac: 0
+  - area: 22239454.0337 km^2 s
+    coef: 1.95308097
+    frac: 0.83840997

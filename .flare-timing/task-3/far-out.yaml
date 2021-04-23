@@ -6,7 +6,7 @@ chunking:
   endChunk:
   - 851
   - 85.1 km
-  sumOf: 2330
+  sumOf: 2265
 landout: 10
 lookahead: 255
 difficulty:
@@ -20,9 +20,41 @@ difficulty:
   downers:
   - - '108'
     - Jean louis FOGLIA
-  downward: 1
-  rel: 2.1459e-4
-  frac: 7.56836e-3
+  downward: 5
+  rel: 1.10375e-3
+  frac: 3.857422e-2
+- chunk: 237
+  startChunk: 23.7 km
+  endChunk: 23.8 km
+  endAhead: 49.3 km
+  down: 1
+  downs:
+  - 23.779 km
+  downers:
+  - - '114'
+    - Konrad Lueders
+  downward: 7
+  rel: 1.54525e-3
+  frac: 0.22680664
+- chunk: 238
+  startChunk: 23.8 km
+  endChunk: 23.9 km
+  endAhead: 49.4 km
+  down: 3
+  downs:
+  - 23.855 km
+  - 23.865 km
+  - 23.893 km
+  downers:
+  - - '124'
+    - Rousselet Simon
+  - - '132'
+    - Emiel Jansen
+  - - '133'
+    - Johann Courtain
+  downward: 6
+  rel: 1.3245e-3
+  frac: 0.22802734
 - chunk: 473
   startChunk: 47.3 km
   endChunk: 47.4 km
@@ -36,9 +68,9 @@ difficulty:
     - Stepan Zubashev
   - - '109'
     - Marcello Ciarlo
-  downward: 8
-  rel: 1.71674e-3
-  frac: 0.28149414
+  downward: 4
+  rel: 8.83e-4
+  frac: 0.43041992
 - chunk: 490
   startChunk: 49.0 km
   endChunk: 49.1 km
@@ -49,9 +81,9 @@ difficulty:
   downers:
   - - '102'
     - Walter Bacchi
-  downward: 6
-  rel: 1.28755e-3
-  frac: 0.3034668
+  downward: 2
+  rel: 4.415e-4
+  frac: 0.43798828
 - chunk: 516
   startChunk: 51.6 km
   endChunk: 51.7 km
@@ -62,61 +94,9 @@ difficulty:
   downers:
   - - '131'
     - Jurgen Buchert
-  downward: 6
-  rel: 1.28755e-3
-  frac: 0.33276367
-- chunk: 558
-  startChunk: 55.8 km
-  endChunk: 55.9 km
-  endAhead: 81.4 km
-  down: 1
-  downs:
-  - 55.847 km
-  downers:
-  - - '114'
-    - Konrad Lueders
-  downward: 5
-  rel: 1.07296e-3
-  frac: 0.37792969
-- chunk: 590
-  startChunk: 59.0 km
-  endChunk: 59.1 km
-  endAhead: 84.6 km
-  down: 1
-  downs:
-  - 59.022 km
-  downers:
-  - - '132'
-    - Emiel Jansen
-  downward: 4
-  rel: 8.5837e-4
-  frac: 0.40527344
-- chunk: 723
-  startChunk: 72.3 km
-  endChunk: 72.4 km
-  endAhead: 97.9 km
-  down: 1
-  downs:
-  - 72.388 km
-  downers:
-  - - '124'
-    - Rousselet Simon
-  downward: 3
-  rel: 6.4378e-4
-  frac: 0.4909668
-- chunk: 724
-  startChunk: 72.4 km
-  endChunk: 72.5 km
-  endAhead: 98.0 km
-  down: 1
-  downs:
-  - 72.469 km
-  downers:
-  - - '133'
-    - Johann Courtain
   downward: 2
-  rel: 4.2918e-4
-  frac: 0.49145508
+  rel: 4.415e-4
+  frac: 0.4453125
 - chunk: 764
   startChunk: 76.4 km
   endChunk: 76.5 km
@@ -128,5 +108,5 @@ difficulty:
   - - '126'
     - Andrea Theodoli
   downward: 1
-  rel: 2.1459e-4
+  rel: 2.2075e-4
   frac: 0.5

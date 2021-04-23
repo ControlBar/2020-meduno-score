@@ -1,49 +1,49 @@
-ssBestTime: 1.027384 h
-gsBestTime: 1.028988 h
+ssBestTime: 2.117721 h
+gsBestTime: 2.119479 h
 taskDistance: 59.144830 km
 taskSpeedDistance: 57.066512 km
 ssSpeed:
-- - - '105'
-    - Christian Ciech
-  - time: 1.027384 h
-    frac: 1
 - - - '134'
     - Roland Wöhrle
   - time: 2.117721 h
-    frac: 0
+    frac: 1
+- - - '105'
+    - Christian Ciech
+  - time: 2.185809 h
+    frac: 0.92205636
 - - - '113'
     - Marco Laurenzi
   - time: 2.235538 h
-    frac: 0
+    frac: 0.87690901
 - - - '107'
     - Joost Eertman
   - time: 2.334348 h
-    frac: 0
+    frac: 0.79552129
 - - - '112'
     - Marco Gröbner
   - time: 2.394984 h
-    frac: 0
+    frac: 0.74883198
 gsSpeed:
-- - - '105'
-    - Christian Ciech
-  - time: 1.028988 h
-    frac: 1
 - - - '134'
     - Roland Wöhrle
   - time: 2.119479 h
-    frac: 0
+    frac: 1
+- - - '105'
+    - Christian Ciech
+  - time: 2.187413 h
+    frac: 0.92222986
 - - - '113'
     - Marco Laurenzi
   - time: 2.238177 h
-    frac: 0
+    frac: 0.8761845
 - - - '107'
     - Joost Eertman
   - time: 2.337427 h
-    frac: 0
+    frac: 0.79455292
 - - - '112'
     - Marco Gröbner
   - time: 2.410973 h
-    frac: 0
+    frac: 0.73822433
 altStopped:
 - - - '126'
     - Andrea Theodoli

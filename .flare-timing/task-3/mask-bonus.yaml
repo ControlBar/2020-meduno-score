@@ -1,11 +1,11 @@
 bolster:
   max: 84.844713 km
-  mean: 72.446764 km
-  stdDev: 19.290444 km
+  mean: 65.873404 km
+  stdDev: 26.240796 km
 reach:
   max: 84.844713 km
-  mean: 72.304233 km
-  stdDev: 19.780426 km
+  mean: 65.730873 km
+  stdDev: 26.567830 km
 reachRank:
 - - - '105'
     - Christian Ciech
@@ -71,22 +71,6 @@ reachRank:
     - Andrea Theodoli
   - frac: 0.90092488
     reach: 76.438713 km
-- - - '133'
-    - Johann Courtain
-  - frac: 0.85413352
-    reach: 72.468713 km
-- - - '124'
-    - Rousselet Simon
-  - frac: 0.85317883
-    reach: 72.387713 km
-- - - '132'
-    - Emiel Jansen
-  - frac: 0.69564397
-    reach: 59.021713 km
-- - - '114'
-    - Konrad Lueders
-  - frac: 0.65822266
-    reach: 55.846713 km
 - - - '131'
     - Jurgen Buchert
   - frac: 0.60819008
@@ -103,6 +87,22 @@ reachRank:
     - Stepan Zubashev
   - frac: 0.55794535
     reach: 47.338713 km
+- - - '133'
+    - Johann Courtain
+  - frac: 0.28160521
+    reach: 23.892713 km
+- - - '132'
+    - Emiel Jansen
+  - frac: 0.28127519
+    reach: 23.864713 km
+- - - '124'
+    - Rousselet Simon
+  - frac: 0.28115733
+    reach: 23.854713 km
+- - - '114'
+    - Konrad Lueders
+  - frac: 0.28026158
+    reach: 23.778713 km
 - - - '108'
     - Jean louis FOGLIA
   - frac: 4.050592e-2
@@ -120,39 +120,39 @@ nigh:
 - - - '124'
     - Rousselet Simon
   - togo:
-      distance: 12.457000 km
+      distance: 60.990000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 72.387713 km
+    made: 23.854713 km
 - - - '133'
     - Johann Courtain
   - togo:
-      distance: 12.376000 km
+      distance: 60.952000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 72.468713 km
+    made: 23.892713 km
 - - - '132'
     - Emiel Jansen
   - togo:
-      distance: 25.823000 km
+      distance: 60.980000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 59.021713 km
+    made: 23.864713 km
 - - - '114'
     - Konrad Lueders
   - togo:
-      distance: 28.998000 km
+      distance: 61.066000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 55.846713 km
+    made: 23.778713 km
 - - - '102'
     - Walter Bacchi
   - togo:

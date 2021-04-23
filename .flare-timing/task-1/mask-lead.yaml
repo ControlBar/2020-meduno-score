@@ -10,7 +10,7 @@ raceTime:
   openClose: 21600
   tickClose: 21595.939
 raceDistance: 57.066512 km
-sumDistance: 432.602920 km
+sumDistance: 394.872920 km
 leadAreaToCoef: 0.00000017059443 km^-2 s^-1
 leadCoefMin: 1.51028635
 leadRank:
@@ -21,9 +21,9 @@ leadRank:
     frac: 1
 - - - '105'
     - Christian Ciech
-  - area: 9156075.9582 km^2 s
-    coef: 1.56197553
-    frac: 0.87905721
+  - area: 9060211.7384 km^2 s
+    coef: 1.54562162
+    frac: 0.90614605
 - - - '113'
     - Marco Laurenzi
   - area: 9588933.9479 km^2 s
@@ -49,21 +49,6 @@ leadRank:
   - area: 13707531.5485 km^2 s
     coef: 2.33842848
     frac: 0.2313709
-- - - '115'
-    - ERIC MATHURIN
-  - area: 16684355.5232 km^2 s
-    coef: 2.84625806
-    frac: 0
-- - - '118'
-    - Suan Selenati
-  - area: 17525843.1860 km^2 s
-    coef: 2.98981116
-    frac: 0
-- - - '130'
-    - Oliver Salewski
-  - area: 17702102.4228 km^2 s
-    coef: 3.01988001
-    frac: 0
 - - - '126'
     - Andrea Theodoli
   - area: 18120670.7218 km^2 s
@@ -83,11 +68,6 @@ leadRank:
     - Rousselet Simon
   - area: 20665068.3300 km^2 s
     coef: 3.52534548
-    frac: 0
-- - - '103'
-    - Joerg Bajewski
-  - area: 20766623.6766 km^2 s
-    coef: 3.54267025
     frac: 0
 - - - '119'
     - Christian Pollet
@@ -109,11 +89,6 @@ leadRank:
   - area: 21246071.4859 km^2 s
     coef: 3.62446138
     frac: 0
-- - - '129'
-    - Stepan Zubashev
-  - area: 21293568.4392 km^2 s
-    coef: 3.63256409
-    frac: 0
 - - - '108'
     - Jean louis FOGLIA
   - area: 21595103.2930 km^2 s
@@ -123,11 +98,6 @@ leadRank:
     - Walter Bacchi
   - area: 22166185.3825 km^2 s
     coef: 3.78142768
-    frac: 0
-- - - '133'
-    - Johann Courtain
-  - area: 23365860.1244 km^2 s
-    coef: 3.9860855
     frac: 0
 - - - '122'
     - Pieter Speeleveld

@@ -1,18 +1,18 @@
 bolster:
   max: 59.144830 km
-  mean: 23.638574 km
-  stdDev: 18.644986 km
+  mean: 22.187420 km
+  stdDev: 18.882404 km
 reach:
   max: 59.144830 km
-  mean: 23.546292 km
-  stdDev: 18.730746 km
+  mean: 22.095138 km
+  stdDev: 18.960028 km
 reachRank:
-- - - '105'
-    - Christian Ciech
-  - frac: 1
-    reach: 59.144830 km
 - - - '134'
     - Roland Wöhrle
+  - frac: 1
+    reach: 59.144830 km
+- - - '105'
+    - Christian Ciech
   - frac: 1
     reach: 59.144830 km
 - - - '113'
@@ -27,10 +27,6 @@ reachRank:
     - Marco Gröbner
   - frac: 1
     reach: 59.144830 km
-- - - '130'
-    - Oliver Salewski
-  - frac: 0.56400247
-    reach: 33.357830 km
 - - - '123'
     - Sasha Serebrennikova
   - frac: 0.55329992
@@ -43,14 +39,6 @@ reachRank:
     - Lorenzo De Grandis
   - frac: 0.40855355
     reach: 24.163830 km
-- - - '115'
-    - ERIC MATHURIN
-  - frac: 0.38254958
-    reach: 22.625830 km
-- - - '118'
-    - Suan Selenati
-  - frac: 0.28551659
-    reach: 16.886830 km
 - - - '126'
     - Andrea Theodoli
   - frac: 0.27180448
@@ -63,6 +51,10 @@ reachRank:
     - Konrad Lueders
   - frac: 0.21296587
     reach: 12.595830 km
+- - - '118'
+    - Suan Selenati
+  - frac: 0.20829936
+    reach: 12.319830 km
 - - - '124'
     - Rousselet Simon
   - frac: 0.20802883
@@ -75,6 +67,10 @@ reachRank:
     - Marcello Ciarlo
   - frac: 0.20145176
     reach: 11.914830 km
+- - - '130'
+    - Oliver Salewski
+  - frac: 0.19952429
+    reach: 11.800830 km
 - - - '110'
     - Tullio Gervasoni
   - frac: 0.19340372
@@ -91,6 +87,10 @@ reachRank:
     - Stepan Zubashev
   - frac: 0.19149315
     reach: 11.325830 km
+- - - '115'
+    - ERIC MATHURIN
+  - frac: 0.18631941
+    reach: 11.019830 km
 - - - '102'
     - Walter Bacchi
   - frac: 0.16717995
@@ -124,12 +124,12 @@ nigh:
 - - - '130'
     - Oliver Salewski
   - togo:
-      distance: 25.787000 km
+      distance: 47.344000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 33.357830 km
+    made: 11.800830 km
 - - - '104'
     - Valentino Bau
   - togo:
@@ -151,21 +151,21 @@ nigh:
 - - - '115'
     - ERIC MATHURIN
   - togo:
-      distance: 36.519000 km
+      distance: 48.125000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 22.625830 km
+    made: 11.019830 km
 - - - '118'
     - Suan Selenati
   - togo:
-      distance: 42.258000 km
+      distance: 46.825000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 16.886830 km
+    made: 12.319830 km
 - - - '126'
     - Andrea Theodoli
   - togo:

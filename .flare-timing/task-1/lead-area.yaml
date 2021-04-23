@@ -6,7 +6,7 @@ areas:
     areaBeforeStart: 1899895.4189 km^2 s
 - - - '105'
     - Christian Ciech
-  - areaFlown: 9156075.9582 km^2 s
+  - areaFlown: 9060211.7384 km^2 s
     areaAfterLanding: 0.0000 km^2 s
     areaBeforeStart: 6170.8953 km^2 s
 - - - '119'
@@ -14,11 +14,6 @@ areas:
   - areaFlown: 304334.9073 km^2 s
     areaAfterLanding: 20503713.9956 km^2 s
     areaBeforeStart: 95133.4263 km^2 s
-- - - '115'
-    - ERIC MATHURIN
-  - areaFlown: 4711040.6684 km^2 s
-    areaAfterLanding: 11973314.8548 km^2 s
-    areaBeforeStart: 1415723.6304 km^2 s
 - - - '132'
     - Emiel Jansen
   - areaFlown: 45617.0695 km^2 s
@@ -29,16 +24,6 @@ areas:
   - areaFlown: 2238455.9591 km^2 s
     areaAfterLanding: 19356647.3339 km^2 s
     areaBeforeStart: 5673592.6538 km^2 s
-- - - '103'
-    - Joerg Bajewski
-  - areaFlown: 287786.8407 km^2 s
-    areaAfterLanding: 20478836.8359 km^2 s
-    areaBeforeStart: 60267.6546 km^2 s
-- - - '133'
-    - Johann Courtain
-  - areaFlown: 424510.1919 km^2 s
-    areaAfterLanding: 22941349.9325 km^2 s
-    areaBeforeStart: 1334897.4213 km^2 s
 - - - '107'
     - Joost Eertman
   - areaFlown: 10830410.2143 km^2 s
@@ -69,11 +54,6 @@ areas:
   - areaFlown: 9588933.9479 km^2 s
     areaAfterLanding: 0.0000 km^2 s
     areaBeforeStart: 18887.6536 km^2 s
-- - - '130'
-    - Oliver Salewski
-  - areaFlown: 11732048.0012 km^2 s
-    areaAfterLanding: 5970054.4216 km^2 s
-    areaBeforeStart: 5651693.8554 km^2 s
 - - - '122'
     - Pieter Speeleveld
   - areaFlown: 1534853.9836 km^2 s
@@ -94,16 +74,6 @@ areas:
   - areaFlown: 7440782.8990 km^2 s
     areaAfterLanding: 6266748.6495 km^2 s
     areaBeforeStart: 15725.2012 km^2 s
-- - - '129'
-    - Stepan Zubashev
-  - areaFlown: 764103.5599 km^2 s
-    areaAfterLanding: 20529464.8793 km^2 s
-    areaBeforeStart: 1224256.3196 km^2 s
-- - - '118'
-    - Suan Selenati
-  - areaFlown: 1493591.3157 km^2 s
-    areaAfterLanding: 16032251.8703 km^2 s
-    areaBeforeStart: 6446.2716 km^2 s
 - - - '110'
     - Tullio Gervasoni
   - areaFlown: 554611.3092 km^2 s

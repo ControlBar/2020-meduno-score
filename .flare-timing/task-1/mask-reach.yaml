@@ -1,18 +1,18 @@
 bolster:
   max: 59.144830 km
-  mean: 23.638574 km
-  stdDev: 18.644986 km
+  mean: 22.187420 km
+  stdDev: 18.882404 km
 reach:
   max: 59.144830 km
-  mean: 23.546292 km
-  stdDev: 18.730746 km
+  mean: 22.095138 km
+  stdDev: 18.960028 km
 reachRank:
-- - - '105'
-    - Christian Ciech
-  - frac: 1
-    reach: 59.144830 km
 - - - '134'
     - Roland Wöhrle
+  - frac: 1
+    reach: 59.144830 km
+- - - '105'
+    - Christian Ciech
   - frac: 1
     reach: 59.144830 km
 - - - '113'
@@ -27,10 +27,6 @@ reachRank:
     - Marco Gröbner
   - frac: 1
     reach: 59.144830 km
-- - - '130'
-    - Oliver Salewski
-  - frac: 0.56400247
-    reach: 33.357830 km
 - - - '123'
     - Sasha Serebrennikova
   - frac: 0.55329992
@@ -43,14 +39,6 @@ reachRank:
     - Lorenzo De Grandis
   - frac: 0.40855355
     reach: 24.163830 km
-- - - '115'
-    - ERIC MATHURIN
-  - frac: 0.38254958
-    reach: 22.625830 km
-- - - '118'
-    - Suan Selenati
-  - frac: 0.28551659
-    reach: 16.886830 km
 - - - '126'
     - Andrea Theodoli
   - frac: 0.27180448
@@ -63,6 +51,10 @@ reachRank:
     - Konrad Lueders
   - frac: 0.21296587
     reach: 12.595830 km
+- - - '118'
+    - Suan Selenati
+  - frac: 0.20829936
+    reach: 12.319830 km
 - - - '124'
     - Rousselet Simon
   - frac: 0.20802883
@@ -75,6 +67,10 @@ reachRank:
     - Marcello Ciarlo
   - frac: 0.20145176
     reach: 11.914830 km
+- - - '130'
+    - Oliver Salewski
+  - frac: 0.19952429
+    reach: 11.800830 km
 - - - '110'
     - Tullio Gervasoni
   - frac: 0.19340372
@@ -91,6 +87,10 @@ reachRank:
     - Stepan Zubashev
   - frac: 0.19149315
     reach: 11.325830 km
+- - - '115'
+    - ERIC MATHURIN
+  - frac: 0.18631941
+    reach: 11.019830 km
 - - - '102'
     - Walter Bacchi
   - frac: 0.16717995
@@ -141,29 +141,29 @@ nigh:
 - - - '130'
     - Oliver Salewski
   - togo:
-      distance: 25.786319 km
+      distance: 37.186031 km
       flipSum:
-      - 25.786319 km
-      - 25.587608 km
+      - 37.186031 km
+      - 25.540289 km
       - 13.885328 km
       legs:
-      - 0.198711 km
-      - 11.702280 km
+      - 11.645742 km
+      - 11.654961 km
       - 13.885328 km
       legsSum:
-      - 0.198711 km
-      - 11.900991 km
-      - 25.786319 km
+      - 11.645742 km
+      - 23.300703 km
+      - 37.186031 km
       waypoints:
-      - lat: 46.22243333
-        lng: 12.7973
-      - lat: 46.2241058
-        lng: 12.79821005
+      - lat: 46.16265
+        lng: 12.67538333
+      - lat: 46.22580814
+        lng: 12.79607735
       - lat: 46.17232787
         lng: 12.66583877
       - lat: 46.19478452
         lng: 12.84326044
-    made: 33.357830 km
+    made: 11.800830 km
 - - - '104'
     - Valentino Bau
   - togo:
@@ -229,65 +229,65 @@ nigh:
 - - - '115'
     - ERIC MATHURIN
   - togo:
-      distance: 36.519001 km
+      distance: 48.123708 km
       flipSum:
-      - 36.519001 km
-      - 32.371790 km
-      - 25.964970 km
-      - 13.882376 km
-      legs:
-      - 4.147211 km
-      - 6.406820 km
-      - 12.082595 km
-      - 13.882376 km
-      legsSum:
-      - 4.147211 km
-      - 10.554031 km
-      - 22.636626 km
-      - 36.519001 km
-      waypoints:
-      - lat: 46.206
-        lng: 12.8249
-      - lat: 46.1844342
-        lng: 12.86886059
-      - lat: 46.2218436
-        lng: 12.80554358
-      - lat: 46.17217621
-        lng: 12.6659182
-      - lat: 46.19478452
-        lng: 12.84326044
-    made: 22.625830 km
-- - - '118'
-    - Suan Selenati
-  - togo:
-      distance: 42.257156 km
-      flipSum:
-      - 42.257156 km
-      - 32.431294 km
+      - 48.123708 km
+      - 32.460106 km
       - 25.935352 km
       - 13.882376 km
       legs:
-      - 9.825862 km
-      - 6.495942 km
+      - 15.663602 km
+      - 6.524754 km
       - 12.052977 km
       - 13.882376 km
       legsSum:
-      - 9.825862 km
-      - 16.321804 km
-      - 28.374781 km
-      - 42.257156 km
+      - 15.663602 km
+      - 22.188356 km
+      - 34.241333 km
+      - 48.123708 km
       waypoints:
-      - lat: 46.18058333
-        lng: 12.73941667
-      - lat: 46.18219853
-        lng: 12.86702241
+      - lat: 46.15796667
+        lng: 12.66618333
+      - lat: 46.18159006
+        lng: 12.86671253
       - lat: 46.2218838
         lng: 12.80508088
       - lat: 46.17217621
         lng: 12.6659182
       - lat: 46.19478452
         lng: 12.84326044
-    made: 16.886830 km
+    made: 11.019830 km
+- - - '118'
+    - Suan Selenati
+  - togo:
+      distance: 46.801996 km
+      flipSum:
+      - 46.801996 km
+      - 32.460106 km
+      - 25.935352 km
+      - 13.882376 km
+      legs:
+      - 14.341890 km
+      - 6.524754 km
+      - 12.052977 km
+      - 13.882376 km
+      legsSum:
+      - 14.341890 km
+      - 20.866644 km
+      - 32.919621 km
+      - 46.801996 km
+      waypoints:
+      - lat: 46.161
+        lng: 12.68285
+      - lat: 46.18159006
+        lng: 12.86671253
+      - lat: 46.2218838
+        lng: 12.80508088
+      - lat: 46.17217621
+        lng: 12.6659182
+      - lat: 46.19478452
+        lng: 12.84326044
+    made: 12.319830 km
 - - - '126'
     - Andrea Theodoli
   - togo:

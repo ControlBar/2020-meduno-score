@@ -805,33 +805,20 @@ crossing:
       - false
       - true
     - crossingPair:
-      - fix: 9114
-        time: 2020-09-10T13:01:44Z
-        lat: 46.20461667
-        lng: 12.86166667
-        alt: 974
-      - fix: 9115
-        time: 2020-09-10T13:01:45Z
-        lat: 46.20446667
-        lng: 12.86171667
-        alt: 973
+      - fix: 13284
+        time: 2020-09-10T14:11:14Z
+        lat: 46.1993
+        lng: 12.84363333
+        alt: 214
+      - fix: 13285
+        time: 2020-09-10T14:11:15Z
+        lat: 46.19926667
+        lng: 12.84378333
+        alt: 214
       inZone:
       - false
       - true
-    - crossingPair:
-      - fix: 9340
-        time: 2020-09-10T13:05:30Z
-        lat: 46.19593333
-        lng: 12.86133333
-        alt: 684
-      - fix: 9341
-        time: 2020-09-10T13:05:31Z
-        lat: 46.19608333
-        lng: 12.86125
-        alt: 682
-      inZone:
-      - false
-      - true
+    - null
     zonesCrossNominees:
     - - crossingPair:
         - fix: 4312

@@ -72,9 +72,9 @@ difficulty:
   downers:
   - - '126'
     - Andrea Theodoli
-  downward: 2
-  rel: 4.2571e-4
-  frac: 0.14697266
+  downward: 14
+  rel: 2.97999e-3
+  frac: 0.27832031
 - chunk: 282
   startChunk: 28.2 km
   endChunk: 28.3 km
@@ -85,152 +85,92 @@ difficulty:
   downers:
   - - '132'
     - Emiel Jansen
-  downward: 1
-  rel: 2.1286e-4
-  frac: 0.15014648
-- chunk: 522
-  startChunk: 52.2 km
-  endChunk: 52.3 km
-  endAhead: 66.0 km
+  downward: 13
+  rel: 2.76713e-3
+  frac: 0.31689453
+- chunk: 351
+  startChunk: 35.1 km
+  endChunk: 35.2 km
+  endAhead: 48.9 km
   down: 1
   downs:
-  - 52.220 km
-  downers:
-  - - '124'
-    - Rousselet Simon
-  downward: 11
-  rel: 2.34142e-3
-  frac: 0.42919922
-- chunk: 524
-  startChunk: 52.4 km
-  endChunk: 52.5 km
-  endAhead: 66.2 km
-  down: 1
-  downs:
-  - 52.464 km
-  downers:
-  - - '108'
-    - Jean louis FOGLIA
-  downward: 10
-  rel: 2.12857e-3
-  frac: 0.43334961
-- chunk: 539
-  startChunk: 53.9 km
-  endChunk: 54.0 km
-  endAhead: 67.7 km
-  down: 1
-  downs:
-  - 53.913 km
-  downers:
-  - - '110'
-    - Tullio Gervasoni
-  downward: 9
-  rel: 1.91571e-3
-  frac: 0.4621582
-- chunk: 541
-  startChunk: 54.1 km
-  endChunk: 54.2 km
-  endAhead: 67.9 km
-  down: 1
-  downs:
-  - 54.122 km
-  downers:
-  - - '103'
-    - Joerg Bajewski
-  downward: 8
-  rel: 1.70285e-3
-  frac: 0.46557617
-- chunk: 542
-  startChunk: 54.2 km
-  endChunk: 54.3 km
-  endAhead: 68.0 km
-  down: 1
-  downs:
-  - 54.270 km
-  downers:
-  - - '107'
-    - Joost Eertman
-  downward: 7
-  rel: 1.49e-3
-  frac: 0.46704102
-- chunk: 543
-  startChunk: 54.3 km
-  endChunk: 54.4 km
-  endAhead: 68.1 km
-  down: 1
-  downs:
-  - 54.318 km
+  - 35.173 km
   downers:
   - - '133'
     - Johann Courtain
-  downward: 6
-  rel: 1.27714e-3
-  frac: 0.46826172
-- chunk: 544
-  startChunk: 54.4 km
-  endChunk: 54.5 km
-  endAhead: 68.2 km
+  downward: 12
+  rel: 2.55428e-3
+  frac: 0.49316406
+- chunk: 352
+  startChunk: 35.2 km
+  endChunk: 35.3 km
+  endAhead: 49.0 km
   down: 1
   downs:
-  - 54.434 km
+  - 35.245 km
+  downers:
+  - - '107'
+    - Joost Eertman
+  downward: 11
+  rel: 2.34142e-3
+  frac: 0.49560547
+- chunk: 353
+  startChunk: 35.3 km
+  endChunk: 35.4 km
+  endAhead: 49.1 km
+  down: 2
+  downs:
+  - 35.306 km
+  - 35.337 km
   downers:
   - - '118'
     - Suan Selenati
-  downward: 5
-  rel: 1.06428e-3
-  frac: 0.46923828
-- chunk: 545
-  startChunk: 54.5 km
-  endChunk: 54.6 km
-  endAhead: 68.3 km
-  down: 2
-  downs:
-  - 54.515 km
-  - 54.538 km
-  downers:
   - - '130'
     - Oliver Salewski
-  - - '104'
-    - Valentino Bau
-  downward: 4
-  rel: 8.5143e-4
-  frac: 0.47021484
-- chunk: 546
-  startChunk: 54.6 km
-  endChunk: 54.7 km
-  endAhead: 68.4 km
-  down: 1
+  downward: 10
+  rel: 2.12857e-3
+  frac: 0.49755859
+- chunk: 354
+  startChunk: 35.4 km
+  endChunk: 35.5 km
+  endAhead: 49.2 km
+  down: 5
   downs:
-  - 54.603 km
-  downers:
-  - - '123'
-    - Sasha Serebrennikova
-  downward: 2
-  rel: 4.2571e-4
-  frac: 0.47070312
-- chunk: 547
-  startChunk: 54.7 km
-  endChunk: 54.8 km
-  endAhead: 68.5 km
-  down: 1
-  downs:
-  - 54.798 km
+  - 35.407 km
+  - 35.407 km
+  - 35.460 km
+  - 35.471 km
+  - 35.487 km
   downers:
   - - '115'
     - ERIC MATHURIN
-  downward: 1
-  rel: 2.1286e-4
-  frac: 0.47094727
-- chunk: 803
-  startChunk: 80.3 km
-  endChunk: 80.4 km
-  endAhead: 94.1 km
-  down: 1
-  downs:
-  - 80.346 km
-  downers:
+  - - '104'
+    - Valentino Bau
+  - - '123'
+    - Sasha Serebrennikova
+  - - '110'
+    - Tullio Gervasoni
   - - '113'
     - Marco Laurenzi
-  downward: 1
-  rel: 2.1286e-4
+  downward: 8
+  rel: 1.70285e-3
+  frac: 0.49926758
+- chunk: 355
+  startChunk: 35.5 km
+  endChunk: 35.6 km
+  endAhead: 49.3 km
+  down: 3
+  downs:
+  - 35.504 km
+  - 35.541 km
+  - 35.568 km
+  downers:
+  - - '124'
+    - Rousselet Simon
+  - - '103'
+    - Joerg Bajewski
+  - - '108'
+    - Jean louis FOGLIA
+  downward: 3
+  rel: 6.3857e-4
   frac: 0.5
