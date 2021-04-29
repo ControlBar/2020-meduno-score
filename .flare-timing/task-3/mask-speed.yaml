@@ -1,128 +1,128 @@
-ssBestTime: 2.183372 h
-gsBestTime: 1.912978 h
+ssBestTime: 1.901489 h
+gsBestTime: 1.913087 h
 taskDistance: 84.844713 km
 taskSpeedDistance: 82.569117 km
 ssSpeed:
 - - - '105'
     - Christian Ciech
-  - time: 2.183372 h
+  - time: 1.901489 h
     frac: 1
 - - - '134'
     - Roland Wöhrle
-  - time: 2.304756 h
-    frac: 0.87540548
+  - time: 2.304089 h
+    frac: 0.64154159
 - - - '118'
     - Suan Selenati
-  - time: 2.351952 h
-    frac: 0.83617913
-- - - '106'
-    - Lorenzo De Grandis
-  - time: 2.391730 h
-    frac: 0.80454865
-- - - '130'
-    - Oliver Salewski
-  - time: 2.413202 h
-    frac: 0.78790249
-- - - '107'
-    - Joost Eertman
-  - time: 2.416283 h
-    frac: 0.78553561
-- - - '110'
-    - Tullio Gervasoni
-  - time: 2.517123 h
-    frac: 0.71056644
-- - - '103'
-    - Joerg Bajewski
-  - time: 2.539463 h
-    frac: 0.69450921
-- - - '123'
-    - Sasha Serebrennikova
-  - time: 2.589930 h
-    frac: 0.65883423
-- - - '112'
-    - Marco Gröbner
-  - time: 2.597216 h
-    frac: 0.65374639
+  - time: 2.351339 h
+    frac: 0.6068122
 - - - '119'
     - Christian Pollet
-  - time: 2.630939 h
-    frac: 0.63038885
+  - time: 2.359880 h
+    frac: 0.60060068
+- - - '106'
+    - Lorenzo De Grandis
+  - time: 2.391377 h
+    frac: 0.57785841
+- - - '130'
+    - Oliver Salewski
+  - time: 2.412793 h
+    frac: 0.56253536
+- - - '107'
+    - Joost Eertman
+  - time: 2.415624 h
+    frac: 0.56051774
 - - - '113'
     - Marco Laurenzi
-  - time: 2.720580 h
-    frac: 0.56965589
+  - time: 2.443204 h
+    frac: 0.5409574
+- - - '110'
+    - Tullio Gervasoni
+  - time: 2.516709 h
+    frac: 0.4896096
+- - - '103'
+    - Joerg Bajewski
+  - time: 2.538645 h
+    frac: 0.4744887
+- - - '123'
+    - Sasha Serebrennikova
+  - time: 2.589200 h
+    frac: 0.43996446
+- - - '112'
+    - Marco Gröbner
+  - time: 2.596595 h
+    frac: 0.4349503
 - - - '115'
     - ERIC MATHURIN
-  - time: 2.946767 h
-    frac: 0.42324937
+  - time: 2.945971 h
+    frac: 0.20665585
 - - - '104'
     - Valentino Bau
-  - time: 2.985125 h
-    frac: 0.39919909
+  - time: 2.984728 h
+    frac: 0.18219873
 - - - '122'
     - Pieter Speeleveld
-  - time: 3.391987 h
-    frac: 0.15419489
+  - time: 3.391134 h
+    frac: 0
 gsSpeed:
 - - - '105'
     - Christian Ciech
-  - time: 1.912978 h
+  - time: 1.913087 h
     frac: 1
 - - - '134'
     - Roland Wöhrle
-  - time: 2.362115 h
-    frac: 0.60831478
+  - time: 2.362234 h
+    frac: 0.60831699
 - - - '118'
     - Suan Selenati
-  - time: 2.389413 h
-    frac: 0.58857495
+  - time: 2.389548 h
+    frac: 0.58856586
 - - - '119'
     - Christian Pollet
-  - time: 2.396301 h
-    frac: 0.58362396
+  - time: 2.396414 h
+    frac: 0.58363108
 - - - '106'
     - Lorenzo De Grandis
-  - time: 2.411320 h
-    frac: 0.57286919
+  - time: 2.411468 h
+    frac: 0.5728519
 - - - '107'
     - Joost Eertman
-  - time: 2.423534 h
-    frac: 0.5641634
+  - time: 2.423681 h
+    frac: 0.5641469
 - - - '130'
     - Oliver Salewski
-  - time: 2.435315 h
-    frac: 0.55579855
+  - time: 2.435468 h
+    frac: 0.55577817
 - - - '113'
     - Marco Laurenzi
-  - time: 2.456781 h
-    frac: 0.54063755
+  - time: 2.456942 h
+    frac: 0.54061166
 - - - '110'
     - Tullio Gervasoni
-  - time: 2.540595 h
-    frac: 0.48235308
+  - time: 2.540739 h
+    frac: 0.48234157
 - - - '103'
     - Joerg Bajewski
-  - time: 2.600062 h
-    frac: 0.44179246
+  - time: 2.600165 h
+    frac: 0.44180953
 - - - '123'
     - Sasha Serebrennikova
-  - time: 2.606316 h
-    frac: 0.43756098
+  - time: 2.606456 h
+    frac: 0.43755391
 - - - '112'
     - Marco Gröbner
-  - time: 2.606416 h
-    frac: 0.43749356
+  - time: 2.606544 h
+    frac: 0.43749432
 - - - '115'
     - ERIC MATHURIN
-  - time: 2.971270 h
-    frac: 0.19993454
+  - time: 2.971455 h
+    frac: 0.19990592
 - - - '104'
     - Valentino Bau
-  - time: 3.101445 h
-    frac: 0.11872748
+  - time: 3.101642 h
+    frac: 0.11869404
 - - - '122'
     - Pieter Speeleveld
-  - time: 3.399141 h
+  - time: 3.399352 h
     frac: 0
 altStopped:
 - - - '126'

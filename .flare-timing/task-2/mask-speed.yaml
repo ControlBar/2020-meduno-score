@@ -1,89 +1,89 @@
-ssBestTime: 2.266543 h
-gsBestTime: 2.275423 h
+ssBestTime: 2.267179 h
+gsBestTime: 2.275529 h
 taskDistance: 84.498418 km
 taskSpeedDistance: 83.962252 km
 ssSpeed:
 - - - '134'
     - Roland Wöhrle
-  - time: 2.266543 h
+  - time: 2.267179 h
     frac: 1
 - - - '113'
     - Marco Laurenzi
-  - time: 2.297465 h
-    frac: 0.9607519
+  - time: 2.298054 h
+    frac: 0.96080621
 - - - '105'
     - Christian Ciech
-  - time: 2.298654 h
-    frac: 0.95949746
+  - time: 2.299219 h
+    frac: 0.95957666
 - - - '107'
     - Joost Eertman
-  - time: 2.499834 h
-    frac: 0.78856358
+  - time: 2.500374 h
+    frac: 0.78866083
 - - - '106'
     - Lorenzo De Grandis
-  - time: 2.596577 h
-    frac: 0.71768741
+  - time: 2.597569 h
+    frac: 0.71746607
 - - - '130'
     - Oliver Salewski
-  - time: 2.783024 h
-    frac: 0.5899748
+  - time: 2.783679 h
+    frac: 0.59001044
 - - - '119'
     - Christian Pollet
-  - time: 2.883724 h
-    frac: 0.52436304
+  - time: 2.884421 h
+    frac: 0.52437959
 - - - '118'
     - Suan Selenati
-  - time: 2.989906 h
-    frac: 0.45708893
+  - time: 2.990392 h
+    frac: 0.45724641
 - - - '112'
     - Marco Gröbner
-  - time: 3.007667 h
-    frac: 0.44600314
+  - time: 3.008377 h
+    frac: 0.44602147
 - - - '123'
     - Sasha Serebrennikova
-  - time: 3.697398 h
-    frac: 4.149444e-2
+  - time: 3.698029 h
+    frac: 4.160919e-2
 gsSpeed:
 - - - '134'
     - Roland Wöhrle
-  - time: 2.275423 h
+  - time: 2.275529 h
     frac: 1
 - - - '105'
     - Christian Ciech
-  - time: 2.304671 h
-    frac: 0.96259134
+  - time: 2.304784 h
+    frac: 0.96258407
 - - - '113'
     - Marco Laurenzi
-  - time: 2.313785 h
-    frac: 0.95310274
+  - time: 2.313902 h
+    frac: 0.95309232
 - - - '107'
     - Joost Eertman
-  - time: 2.510857 h
-    frac: 0.78729288
+  - time: 2.510985 h
+    frac: 0.78728059
 - - - '106'
     - Lorenzo De Grandis
-  - time: 2.602908 h
-    frac: 0.71996172
+  - time: 2.603022 h
+    frac: 0.71996163
 - - - '130'
     - Oliver Salewski
-  - time: 2.795265 h
-    frac: 0.58842393
+  - time: 2.795407 h
+    frac: 0.58840771
 - - - '119'
     - Christian Pollet
-  - time: 2.890114 h
-    frac: 0.52673456
+  - time: 2.890290 h
+    frac: 0.52669852
 - - - '118'
     - Suan Selenati
-  - time: 2.992215 h
-    frac: 0.46207904
+  - time: 2.992327 h
+    frac: 0.46208541
 - - - '112'
     - Marco Gröbner
-  - time: 3.019715 h
-    frac: 0.44493508
+  - time: 3.019835 h
+    frac: 0.44493731
 - - - '123'
     - Sasha Serebrennikova
-  - time: 3.703854 h
-    frac: 4.440576e-2
+  - time: 3.704018 h
+    frac: 4.439203e-2
 altStopped:
 - - - '115'
     - ERIC MATHURIN

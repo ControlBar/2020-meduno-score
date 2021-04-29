@@ -1,81 +1,81 @@
 raceTime:
   openTask: 2020-09-11T11:45:00Z
   closeTask: 2020-09-11T17:30:00Z
-  firstStart: 2020-09-11T11:45:08.311789795338Z
-  firstLead: 2020-09-11T11:45:08.311789795338Z
-  lastArrival: 2020-09-11T15:27:13.873925439656Z
-  leadAllDown: 13557.688
-  leadArrival: 13325.562
-  leadClose: 20691.688
+  firstStart: 2020-09-11T11:45:06.968570641038Z
+  firstLead: 2020-09-11T11:45:06.968570641038Z
+  lastArrival: 2020-09-11T15:27:14.463734878525Z
+  leadAllDown: 13559.031
+  leadArrival: 13327.495
+  leadClose: 20693.031
   openClose: 20700
-  tickClose: 20691.688
+  tickClose: 20693.031
 raceDistance: 83.962252 km
-sumDistance: 939.659360 km
+sumDistance: 937.922360 km
 leadAreaToCoef: 0.00000007880601 km^-2 s^-1
-leadCoefMin: 2.59019645
+leadCoefMin: 2.60433192
 leadRank:
 - - - '134'
     - Roland Wöhrle
-  - area: 32868006.6247 km^2 s
-    coef: 2.59019645
+  - area: 33047377.0377 km^2 s
+    coef: 2.60433192
     frac: 1
 - - - '105'
     - Christian Ciech
-  - area: 33291969.0565 km^2 s
-    coef: 2.62360724
-    frac: 0.92446523
+  - area: 33489475.2657 km^2 s
+    coef: 2.63917191
+    frac: 0.92246699
 - - - '113'
     - Marco Laurenzi
-  - area: 33413217.0997 km^2 s
-    coef: 2.63316231
-    frac: 0.91067532
+  - area: 33594574.5034 km^2 s
+    coef: 2.64745436
+    frac: 0.91062072
 - - - '107'
     - Joost Eertman
-  - area: 36252801.2967 km^2 s
-    coef: 2.85693861
-    frac: 0.69827112
+  - area: 36469802.1959 km^2 s
+    coef: 2.87403959
+    frac: 0.69658986
 - - - '104'
     - Valentino Bau
-  - area: 36973329.8182 km^2 s
-    coef: 2.91372059
-    frac: 0.65684245
+  - area: 37216711.2040 km^2 s
+    coef: 2.9329005
+    frac: 0.65391303
 - - - '106'
     - Lorenzo De Grandis
-  - area: 37604456.1571 km^2 s
-    coef: 2.96345714
-    frac: 0.62251711
+  - area: 37807591.0700 km^2 s
+    coef: 2.97946539
+    frac: 0.621942
 - - - '130'
     - Oliver Salewski
-  - area: 40357880.5672 km^2 s
-    coef: 3.18044353
-    frac: 0.48763633
+  - area: 40591192.0107 km^2 s
+    coef: 3.19882987
+    frac: 0.48611241
 - - - '119'
     - Christian Pollet
-  - area: 41729756.6260 km^2 s
-    coef: 3.28855561
-    frac: 0.42684117
+  - area: 41971231.8635 km^2 s
+    coef: 3.30758531
+    frac: 0.42521012
 - - - '118'
     - Suan Selenati
-  - area: 43211972.9488 km^2 s
-    coef: 3.40536316
-    frac: 0.36459096
+  - area: 43469002.4381 km^2 s
+    coef: 3.42561863
+    frac: 0.36257207
 - - - '112'
     - Marco Gröbner
-  - area: 43599789.1942 km^2 s
-    coef: 3.43592541
-    frac: 0.34880673
+  - area: 43856432.3113 km^2 s
+    coef: 3.45615043
+    frac: 0.34687054
 - - - '114'
     - Konrad Lueders
-  - area: 50253806.5714 km^2 s
-    coef: 3.96030197
-    frac: 0.10176127
+  - area: 50543930.0112 km^2 s
+    coef: 3.98316544
+    frac: 9.958557e-2
 - - - '123'
     - Sasha Serebrennikova
-  - area: 53508840.3824 km^2 s
-    coef: 4.21681819
+  - area: 53802436.5211 km^2 s
+    coef: 4.23995533
     frac: 0
 - - - '109'
     - Marcello Ciarlo
-  - area: 76862183.5030 km^2 s
-    coef: 6.05720198
+  - area: 77247226.5592 km^2 s
+    coef: 6.08754569
     frac: 0

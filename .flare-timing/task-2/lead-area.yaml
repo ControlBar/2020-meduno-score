@@ -1,66 +1,66 @@
 areas:
 - - - '105'
     - Christian Ciech
-  - areaFlown: 33291969.0565 km^2 s
+  - areaFlown: 33489475.2657 km^2 s
     areaAfterLanding: 0.0000 km^2 s
     areaBeforeStart: 0.0000 km^2 s
 - - - '119'
     - Christian Pollet
-  - areaFlown: 41729756.6260 km^2 s
+  - areaFlown: 41971231.8635 km^2 s
     areaAfterLanding: 0.0000 km^2 s
     areaBeforeStart: 0.0000 km^2 s
 - - - '107'
     - Joost Eertman
-  - areaFlown: 36252801.2967 km^2 s
+  - areaFlown: 36469802.1959 km^2 s
     areaAfterLanding: 0.0000 km^2 s
     areaBeforeStart: 0.0000 km^2 s
 - - - '114'
     - Konrad Lueders
-  - areaFlown: 12465730.7346 km^2 s
-    areaAfterLanding: 37788075.8368 km^2 s
-    areaBeforeStart: 2432184.0611 km^2 s
+  - areaFlown: 12514079.3249 km^2 s
+    areaAfterLanding: 38029850.6863 km^2 s
+    areaBeforeStart: 2458074.2317 km^2 s
 - - - '106'
     - Lorenzo De Grandis
-  - areaFlown: 37604456.1571 km^2 s
+  - areaFlown: 37807591.0700 km^2 s
     areaAfterLanding: 0.0000 km^2 s
     areaBeforeStart: 0.0000 km^2 s
 - - - '109'
     - Marcello Ciarlo
-  - areaFlown: 12109934.1093 km^2 s
-    areaAfterLanding: 64752249.3937 km^2 s
-    areaBeforeStart: 36671246.8439 km^2 s
+  - areaFlown: 12143268.0179 km^2 s
+    areaAfterLanding: 65103958.5413 km^2 s
+    areaBeforeStart: 36846864.8571 km^2 s
 - - - '112'
     - Marco Gröbner
-  - areaFlown: 43599789.1942 km^2 s
+  - areaFlown: 43856432.3113 km^2 s
     areaAfterLanding: 0.0000 km^2 s
     areaBeforeStart: 0.0000 km^2 s
 - - - '113'
     - Marco Laurenzi
-  - areaFlown: 33413217.0997 km^2 s
+  - areaFlown: 33594574.5034 km^2 s
     areaAfterLanding: 0.0000 km^2 s
     areaBeforeStart: 0.0000 km^2 s
 - - - '130'
     - Oliver Salewski
-  - areaFlown: 40357880.5672 km^2 s
+  - areaFlown: 40591192.0107 km^2 s
     areaAfterLanding: 0.0000 km^2 s
     areaBeforeStart: 0.0000 km^2 s
 - - - '134'
     - Roland Wöhrle
-  - areaFlown: 32868006.6247 km^2 s
+  - areaFlown: 33047377.0377 km^2 s
     areaAfterLanding: 0.0000 km^2 s
     areaBeforeStart: 0.0000 km^2 s
 - - - '123'
     - Sasha Serebrennikova
-  - areaFlown: 53508840.3824 km^2 s
+  - areaFlown: 53802436.5211 km^2 s
     areaAfterLanding: 0.0000 km^2 s
     areaBeforeStart: 0.0000 km^2 s
 - - - '118'
     - Suan Selenati
-  - areaFlown: 43211972.9488 km^2 s
+  - areaFlown: 43469002.4381 km^2 s
     areaAfterLanding: 0.0000 km^2 s
     areaBeforeStart: 0.0000 km^2 s
 - - - '104'
     - Valentino Bau
-  - areaFlown: 10587066.1297 km^2 s
-    areaAfterLanding: 26386263.6885 km^2 s
-    areaBeforeStart: 2076239.7710 km^2 s
+  - areaFlown: 10630067.9929 km^2 s
+    areaAfterLanding: 26586643.2111 km^2 s
+    areaBeforeStart: 2094637.4423 km^2 s

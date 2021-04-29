@@ -1,36 +1,36 @@
 raceTime:
   openTask: 2020-09-13T11:45:00Z
   closeTask: 2020-09-13T15:30:00Z
-  firstStart: 2020-09-13T11:31:26.957410950366Z
-  firstLead: 2020-09-13T11:31:26.957410950366Z
-  lastArrival: 2020-09-13T14:19:53.713195754285Z
-  leadAllDown: 12948.043
-  leadArrival: 10106.756
-  leadClose: 14313.043
+  firstStart: 2020-09-13T11:31:25.114432817329Z
+  firstLead: 2020-09-13T11:31:25.114432817329Z
+  lastArrival: 2020-09-13T14:19:54.173645405862Z
+  leadAllDown: 12949.886
+  leadArrival: 10109.059
+  leadClose: 14314.886
   openClose: 13500
-  tickClose: 14313.043
+  tickClose: 14314.886
 raceDistance: 79.536355 km
-sumDistance: 711.924997 km
+sumDistance: 711.119997 km
 leadAreaToCoef: 0.00000008782054 km^-2 s^-1
-leadCoefMin: 1.86438784
+leadCoefMin: 1.86713368
 leadRank:
 - - - '105'
     - Christian Ciech
-  - area: 21229518.0300 km^2 s
-    coef: 1.86438784
+  - area: 21260784.5112 km^2 s
+    coef: 1.86713368
     frac: 1
 - - - '106'
     - Lorenzo De Grandis
-  - area: 21294513.1986 km^2 s
-    coef: 1.87009575
-    frac: 0.97404988
+  - area: 21343893.7047 km^2 s
+    coef: 1.87443237
+    frac: 0.9694434
 - - - '134'
     - Roland Wöhrle
-  - area: 21362891.6442 km^2 s
-    coef: 1.87610078
-    frac: 0.95809505
+  - area: 21408831.0497 km^2 s
+    coef: 1.8801352
+    frac: 0.95509744
 - - - '119'
     - Christian Pollet
-  - area: 22239454.0337 km^2 s
-    coef: 1.95308097
-    frac: 0.83840997
+  - area: 22286272.3079 km^2 s
+    coef: 1.95719257
+    frac: 0.8368354

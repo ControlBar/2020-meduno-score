@@ -1,121 +1,121 @@
 raceTime:
   openTask: 2020-09-12T11:40:00Z
   closeTask: 2020-09-12T17:00:00Z
-  firstStart: 2020-09-12T11:23:46.581123471992Z
-  firstLead: 2020-09-12T11:23:46.581123471992Z
-  lastArrival: 2020-09-12T15:03:56.908576654929Z
-  leadAllDown: 14818.419
-  leadArrival: 13210.327
-  leadClose: 20173.419
+  firstStart: 2020-09-12T11:40:29.004802477117Z
+  firstLead: 2020-09-12T11:40:29.004802477117Z
+  lastArrival: 2020-09-12T15:03:57.668437466909Z
+  leadAllDown: 13815.995
+  leadArrival: 12208.664
+  leadClose: 19170.995
   openClose: 19200
-  tickClose: 20173.419
+  tickClose: 19170.995
 raceDistance: 82.569117 km
-sumDistance: 1471.835112 km
+sumDistance: 1471.311112 km
 leadAreaToCoef: 0.00000008148773 km^-2 s^-1
-leadCoefMin: 2.166857
+leadCoefMin: 1.62170222
 leadRank:
 - - - '107'
     - Joost Eertman
-  - area: 26591206.1920 km^2 s
-    coef: 2.166857
+  - area: 19901183.1177 km^2 s
+    coef: 1.62170222
     frac: 1
 - - - '112'
     - Marco Gröbner
-  - area: 28573058.8423 km^2 s
-    coef: 2.32835368
-    frac: 0.77082585
-- - - '105'
-    - Christian Ciech
-  - area: 29208271.3827 km^2 s
-    coef: 2.3801157
-    frac: 0.72415756
-- - - '123'
-    - Sasha Serebrennikova
-  - area: 30214353.0791 km^2 s
-    coef: 2.46209901
-    frac: 0.65735688
+  - area: 21886654.0428 km^2 s
+    coef: 1.78349373
+    frac: 0.74727582
 - - - '126'
     - Andrea Theodoli
-  - area: 31381885.4489 km^2 s
-    coef: 2.55723858
-    frac: 0.5872224
+  - area: 24701165.3258 km^2 s
+    coef: 2.01284187
+    frac: 0.54477002
 - - - '115'
     - ERIC MATHURIN
-  - area: 31588366.6056 km^2 s
-    coef: 2.57406426
-    frac: 0.57544537
-- - - '134'
-    - Roland Wöhrle
-  - area: 35246703.4517 km^2 s
-    coef: 2.87217382
-    frac: 0.38767864
-- - - '118'
-    - Suan Selenati
-  - area: 35660089.0526 km^2 s
-    coef: 2.90585967
-    frac: 0.36833436
-- - - '119'
-    - Christian Pollet
-  - area: 35686853.8001 km^2 s
-    coef: 2.90804067
-    frac: 0.36709216
-- - - '106'
-    - Lorenzo De Grandis
-  - area: 35881961.3681 km^2 s
-    coef: 2.92393954
-    frac: 0.35807335
-- - - '130'
-    - Oliver Salewski
-  - area: 36207764.6485 km^2 s
-    coef: 2.95048851
-    frac: 0.34315256
-- - - '113'
-    - Marco Laurenzi
-  - area: 36486639.6557 km^2 s
-    coef: 2.9732134
-    frac: 0.33051435
-- - - '110'
-    - Tullio Gervasoni
-  - area: 37621566.0652 km^2 s
-    coef: 3.06569598
-    frac: 0.28025634
+  - area: 24908212.7626 km^2 s
+    coef: 2.02971369
+    frac: 0.53177146
+- - - '105'
+    - Christian Ciech
+  - area: 25530733.7050 km^2 s
+    coef: 2.08044151
+    frac: 0.49372449
 - - - '102'
     - Walter Bacchi
-  - area: 37927808.7272 km^2 s
-    coef: 3.090651
-    frac: 0.26699545
+  - area: 31265097.1372 km^2 s
+    coef: 2.54772176
+    frac: 0.19135781
+- - - '134'
+    - Roland Wöhrle
+  - area: 31582164.4672 km^2 s
+    coef: 2.57355886
+    frac: 0.17638548
+- - - '118'
+    - Suan Selenati
+  - area: 31995710.0515 km^2 s
+    coef: 2.60725775
+    frac: 0.15705929
+- - - '119'
+    - Christian Pollet
+  - area: 32019707.0992 km^2 s
+    coef: 2.60921321
+    frac: 0.15594466
+- - - '106'
+    - Lorenzo De Grandis
+  - area: 32219414.6205 km^2 s
+    coef: 2.62548693
+    frac: 0.14669685
+- - - '130'
+    - Oliver Salewski
+  - area: 32542214.9635 km^2 s
+    coef: 2.65179119
+    frac: 0.13185396
+- - - '113'
+    - Marco Laurenzi
+  - area: 32833331.9766 km^2 s
+    coef: 2.67551366
+    frac: 0.11857594
+- - - '110'
+    - Tullio Gervasoni
+  - area: 33957954.0709 km^2 s
+    coef: 2.76715656
+    frac: 6.818832e-2
 - - - '103'
     - Joerg Bajewski
-  - area: 38406103.9317 km^2 s
-    coef: 3.12962619
-    frac: 0.24652062
+  - area: 34763841.4105 km^2 s
+    coef: 2.83282649
+    frac: 3.290582e-2
+- - - '123'
+    - Sasha Serebrennikova
+  - area: 34844782.8485 km^2 s
+    coef: 2.83942222
+    frac: 2.939783e-2
 - - - '109'
     - Marcello Ciarlo
-  - area: 41830595.4599 km^2 s
-    coef: 3.40868023
-    frac: 0.10718166
+  - area: 35176086.5109 km^2 s
+    coef: 2.8664194
+    frac: 1.510465e-2
 - - - '131'
     - Jurgen Buchert
-  - area: 42181919.0697 km^2 s
-    coef: 3.43730879
-    frac: 9.351204e-2
+  - area: 35526803.6333 km^2 s
+    coef: 2.89499855
+    frac: 8.606e-5
 - - - '104'
     - Valentino Bau
-  - area: 45117469.5641 km^2 s
-    coef: 3.67652013
+  - area: 41468967.5324 km^2 s
+    coef: 3.37921199
     frac: 0
 - - - '122'
     - Pieter Speeleveld
-  - area: 49097625.8157 km^2 s
-    coef: 4.00085403
+  - area: 45470151.7524 km^2 s
+    coef: 3.7052594
     frac: 0
 - - - '129'
     - Stepan Zubashev
-  - area: 52587806.0844 km^2 s
-    coef: 4.28526089
+  - area: 45950963.2275 km^2 s
+    coef: 3.74443964
     frac: 0
 - - - '108'
     - Jean louis FOGLIA
-  - area: 98587957.6905 km^2 s
-    coef: 8.03370878
+  - area: 91997078.8825 km^2 s
+    coef: 7.49663303
     frac: 0

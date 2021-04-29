@@ -7,21 +7,21 @@ arrivalRank:
     frac: 1
 - - - '105'
     - Christian Ciech
-  - lag: 0.067934 h
+  - lag: 0.068063 h
     rank: '2'
     frac: 0.636896
 - - - '113'
     - Marco Laurenzi
-  - lag: 0.118698 h
+  - lag: 0.118681 h
     rank: '3'
     frac: 0.405728
 - - - '107'
     - Joost Eertman
-  - lag: 0.217949 h
+  - lag: 0.217956 h
     rank: '4'
     frac: 0.276112
 - - - '112'
     - Marco Gröbner
-  - lag: 0.291494 h
+  - lag: 0.291562 h
     rank: '5'
     frac: 0.217664

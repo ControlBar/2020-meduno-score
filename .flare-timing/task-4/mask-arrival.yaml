@@ -7,16 +7,16 @@ arrivalRank:
     frac: 1
 - - - '106'
     - Lorenzo De Grandis
-  - lag: 0.009805 h
+  - lag: 0.009786 h
     rank: '2'
     frac: 0.56792188
 - - - '134'
     - Roland Wöhrle
-  - lag: 0.020164 h
+  - lag: 0.020152 h
     rank: '3'
     frac: 0.330125
 - - - '119'
     - Christian Pollet
-  - lag: 0.128747 h
+  - lag: 0.128755 h
     rank: '4'
     frac: 0.22726562

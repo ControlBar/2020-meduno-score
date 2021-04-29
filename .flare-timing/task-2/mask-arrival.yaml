@@ -7,46 +7,46 @@ arrivalRank:
     frac: 1
 - - - '105'
     - Christian Ciech
-  - lag: 0.029248 h
+  - lag: 0.029256 h
     rank: '2'
     frac: 0.800057
 - - - '113'
     - Marco Laurenzi
-  - lag: 0.038363 h
+  - lag: 0.038374 h
     rank: '3'
     frac: 0.636896
 - - - '107'
     - Joost Eertman
-  - lag: 0.235434 h
+  - lag: 0.235456 h
     rank: '4'
     frac: 0.506719
 - - - '106'
     - Lorenzo De Grandis
-  - lag: 0.327485 h
+  - lag: 0.327493 h
     rank: '5'
     frac: 0.405728
 - - - '130'
     - Oliver Salewski
-  - lag: 0.519842 h
+  - lag: 0.519878 h
     rank: '6'
     frac: 0.330125
 - - - '119'
     - Christian Pollet
-  - lag: 0.614691 h
+  - lag: 0.614761 h
     rank: '7'
     frac: 0.276112
 - - - '118'
     - Suan Selenati
-  - lag: 0.716792 h
+  - lag: 0.716799 h
     rank: '8'
     frac: 0.239891
 - - - '112'
     - Marco Gröbner
-  - lag: 0.744292 h
+  - lag: 0.744306 h
     rank: '9'
     frac: 0.217664
 - - - '123'
     - Sasha Serebrennikova
-  - lag: 1.428431 h
+  - lag: 1.428489 h
     rank: '10'
     frac: 0.205633

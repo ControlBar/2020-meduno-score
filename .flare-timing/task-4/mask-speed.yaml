@@ -1,41 +1,41 @@
-ssBestTime: 2.396897 h
-gsBestTime: 2.452840 h
+ssBestTime: 2.397264 h
+gsBestTime: 2.452960 h
 taskDistance: 82.400857 km
 taskSpeedDistance: 79.536355 km
 ssSpeed:
 - - - '106'
     - Lorenzo De Grandis
-  - time: 2.396897 h
+  - time: 2.397264 h
     frac: 1
 - - - '105'
     - Christian Ciech
-  - time: 2.442195 h
-    frac: 0.94729206
+  - time: 2.442805 h
+    frac: 0.94705962
 - - - '134'
     - Roland Wöhrle
-  - time: 2.461696 h
-    frac: 0.92896817
+  - time: 2.462564 h
+    frac: 0.92851485
 - - - '119'
     - Christian Pollet
-  - time: 2.523907 h
-    frac: 0.87554555
+  - time: 2.524388 h
+    frac: 0.87546023
 gsSpeed:
 - - - '105'
     - Christian Ciech
-  - time: 2.452840 h
+  - time: 2.452960 h
     frac: 1
 - - - '106'
     - Lorenzo De Grandis
-  - time: 2.462645 h
-    frac: 0.98541701
+  - time: 2.462746 h
+    frac: 0.98544072
 - - - '134'
     - Roland Wöhrle
-  - time: 2.473004 h
-    frac: 0.97340605
+  - time: 2.473112 h
+    frac: 0.97341987
 - - - '119'
     - Christian Pollet
-  - time: 2.581587 h
-    frac: 0.8753326
+  - time: 2.581715 h
+    frac: 0.87532888
 altStopped:
 - - - '126'
     - Andrea Theodoli

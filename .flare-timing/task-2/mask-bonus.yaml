@@ -1,11 +1,11 @@
 bolster:
   max: 84.498418 km
-  mean: 51.745684 km
-  stdDev: 31.763349 km
+  mean: 51.662970 km
+  stdDev: 31.837490 km
 reach:
   max: 84.498418 km
-  mean: 51.712228 km
-  stdDev: 31.810797 km
+  mean: 51.620704 km
+  stdDev: 31.897287 km
 reachRank:
 - - - '134'
     - Roland Wöhrle
@@ -49,145 +49,145 @@ reachRank:
     reach: 84.498418 km
 - - - '104'
     - Valentino Bau
-  - frac: 0.47790739
-    reach: 40.382418 km
+  - frac: 0.47595469
+    reach: 40.217418 km
 - - - '114'
     - Konrad Lueders
-  - frac: 0.37520724
-    reach: 31.704418 km
+  - frac: 0.3732427
+    reach: 31.538418 km
 - - - '122'
     - Pieter Speeleveld
-  - frac: 0.25021081
-    reach: 21.142418 km
+  - frac: 0.24810427
+    reach: 20.964418 km
 - - - '110'
     - Tullio Gervasoni
-  - frac: 0.25008063
-    reach: 21.131418 km
+  - frac: 0.2480806
+    reach: 20.962418 km
 - - - '102'
     - Walter Bacchi
-  - frac: 0.24966643
-    reach: 21.096418 km
-- - - '115'
-    - ERIC MATHURIN
-  - frac: 0.24965459
-    reach: 21.095418 km
+  - frac: 0.24771373
+    reach: 20.931418 km
 - - - '103'
     - Joerg Bajewski
-  - frac: 0.24950074
-    reach: 21.082418 km
+  - frac: 0.24754804
+    reach: 20.917418 km
+- - - '115'
+    - ERIC MATHURIN
+  - frac: 0.24753621
+    reach: 20.916418 km
 - - - '129'
     - Stepan Zubashev
-  - frac: 0.2465066
-    reach: 20.829418 km
+  - frac: 0.24436455
+    reach: 20.648418 km
 - - - '124'
     - Rousselet Simon
-  - frac: 0.24641193
-    reach: 20.821418 km
+  - frac: 0.24422254
+    reach: 20.636418 km
 - - - '109'
     - Marcello Ciarlo
-  - frac: 0.1821267
-    reach: 15.389418 km
+  - frac: 0.17994914
+    reach: 15.205418 km
 - - - '131'
     - Jurgen Buchert
-  - frac: 7.452705e-2
-    reach: 6.297418 km
+  - frac: 7.233766e-2
+    reach: 6.112418 km
 nigh:
 - - - '102'
     - Walter Bacchi
   - togo:
-      distance: 63.402000 km
+      distance: 63.567000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 21.096418 km
+    made: 20.931418 km
 - - - '103'
     - Joerg Bajewski
   - togo:
-      distance: 63.416000 km
+      distance: 63.581000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 21.082418 km
+    made: 20.917418 km
 - - - '122'
     - Pieter Speeleveld
   - togo:
-      distance: 63.356000 km
+      distance: 63.534000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 21.142418 km
+    made: 20.964418 km
 - - - '104'
     - Valentino Bau
   - togo:
-      distance: 44.116000 km
+      distance: 44.281000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 40.382418 km
+    made: 40.217418 km
 - - - '110'
     - Tullio Gervasoni
   - togo:
-      distance: 63.367000 km
+      distance: 63.536000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 21.131418 km
+    made: 20.962418 km
 - - - '114'
     - Konrad Lueders
   - togo:
-      distance: 52.794000 km
+      distance: 52.960000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 31.704418 km
+    made: 31.538418 km
 - - - '115'
     - ERIC MATHURIN
   - togo:
-      distance: 63.403000 km
+      distance: 63.582000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 21.095418 km
+    made: 20.916418 km
 - - - '129'
     - Stepan Zubashev
   - togo:
-      distance: 63.669000 km
+      distance: 63.850000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 20.829418 km
+    made: 20.648418 km
 - - - '124'
     - Rousselet Simon
   - togo:
-      distance: 63.677000 km
+      distance: 63.862000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 20.821418 km
+    made: 20.636418 km
 - - - '109'
     - Marcello Ciarlo
   - togo:
-      distance: 69.109000 km
+      distance: 69.293000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 15.389418 km
+    made: 15.205418 km
 - - - '131'
     - Jurgen Buchert
   - togo:
-      distance: 78.201000 km
+      distance: 78.386000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 6.297418 km
+    made: 6.112418 km

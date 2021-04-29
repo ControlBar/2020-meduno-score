@@ -1,21 +1,21 @@
 areas:
 - - - '105'
     - Christian Ciech
-  - areaFlown: 21229518.0300 km^2 s
+  - areaFlown: 21260784.5112 km^2 s
     areaAfterLanding: 0.0000 km^2 s
     areaBeforeStart: 0.0000 km^2 s
 - - - '119'
     - Christian Pollet
-  - areaFlown: 22239454.0337 km^2 s
+  - areaFlown: 22286272.3079 km^2 s
     areaAfterLanding: 0.0000 km^2 s
     areaBeforeStart: 0.0000 km^2 s
 - - - '106'
     - Lorenzo De Grandis
-  - areaFlown: 21294513.1986 km^2 s
+  - areaFlown: 21343893.7047 km^2 s
     areaAfterLanding: 0.0000 km^2 s
     areaBeforeStart: 0.0000 km^2 s
 - - - '134'
     - Roland Wöhrle
-  - areaFlown: 21362891.6442 km^2 s
+  - areaFlown: 21408831.0497 km^2 s
     areaAfterLanding: 0.0000 km^2 s
     areaBeforeStart: 0.0000 km^2 s

@@ -6,7 +6,7 @@ chunking:
   endChunk:
   - 831
   - 83.1 km
-  sumOf: 2349
+  sumOf: 2348
 landout: 18
 lookahead: 137
 difficulty:
@@ -16,161 +16,161 @@ difficulty:
   endAhead: 19.3 km
   down: 1
   downs:
-  - 5.584 km
+  - 5.523 km
   downers:
   - - '131'
     - Jurgen Buchert
   downward: 3
-  rel: 6.3857e-4
-  frac: 2.441406e-2
-- chunk: 100
-  startChunk: 10.0 km
-  endChunk: 10.1 km
-  endAhead: 23.8 km
+  rel: 6.3884e-4
+  frac: 2.46582e-2
+- chunk: 99
+  startChunk: 9.9 km
+  endChunk: 10.0 km
+  endAhead: 23.7 km
   down: 1
   downs:
-  - 10.023 km
+  - 9.962 km
   downers:
   - - '109'
     - Marcello Ciarlo
   downward: 3
-  rel: 6.3857e-4
-  frac: 5.078125e-2
-- chunk: 189
-  startChunk: 18.9 km
-  endChunk: 19.0 km
-  endAhead: 32.7 km
+  rel: 6.3884e-4
+  frac: 5.053711e-2
+- chunk: 188
+  startChunk: 18.8 km
+  endChunk: 18.9 km
+  endAhead: 32.6 km
   down: 1
   downs:
-  - 18.902 km
+  - 18.841 km
   downers:
   - - '129'
     - Stepan Zubashev
   downward: 4
-  rel: 8.5143e-4
-  frac: 0.11035156
-- chunk: 204
-  startChunk: 20.4 km
-  endChunk: 20.5 km
-  endAhead: 34.2 km
+  rel: 8.5179e-4
+  frac: 0.10986328
+- chunk: 203
+  startChunk: 20.3 km
+  endChunk: 20.4 km
+  endAhead: 34.1 km
   down: 1
   downs:
-  - 20.422 km
+  - 20.361 km
   downers:
   - - '114'
     - Konrad Lueders
   downward: 3
-  rel: 6.3857e-4
-  frac: 0.11987305
-- chunk: 268
-  startChunk: 26.8 km
-  endChunk: 26.9 km
-  endAhead: 40.6 km
+  rel: 6.3884e-4
+  frac: 0.11938477
+- chunk: 267
+  startChunk: 26.7 km
+  endChunk: 26.8 km
+  endAhead: 40.5 km
   down: 1
   downs:
-  - 26.805 km
+  - 26.744 km
   downers:
   - - '126'
     - Andrea Theodoli
   downward: 14
-  rel: 2.97999e-3
-  frac: 0.27832031
+  rel: 2.98126e-3
+  frac: 0.27685547
 - chunk: 282
   startChunk: 28.2 km
   endChunk: 28.3 km
   endAhead: 42.0 km
   down: 1
   downs:
-  - 28.266 km
+  - 28.205 km
   downers:
   - - '132'
     - Emiel Jansen
   downward: 13
-  rel: 2.76713e-3
-  frac: 0.31689453
+  rel: 2.76831e-3
+  frac: 0.31835938
 - chunk: 351
   startChunk: 35.1 km
   endChunk: 35.2 km
   endAhead: 48.9 km
-  down: 1
+  down: 2
   downs:
-  - 35.173 km
+  - 35.130 km
+  - 35.198 km
   downers:
   - - '133'
     - Johann Courtain
+  - - '107'
+    - Joost Eertman
   downward: 12
-  rel: 2.55428e-3
-  frac: 0.49316406
+  rel: 2.55537e-3
+  frac: 0.49462891
 - chunk: 352
   startChunk: 35.2 km
   endChunk: 35.3 km
   endAhead: 49.0 km
-  down: 1
-  downs:
-  - 35.245 km
-  downers:
-  - - '107'
-    - Joost Eertman
-  downward: 11
-  rel: 2.34142e-3
-  frac: 0.49560547
-- chunk: 353
-  startChunk: 35.3 km
-  endChunk: 35.4 km
-  endAhead: 49.1 km
   down: 2
   downs:
-  - 35.306 km
-  - 35.337 km
+  - 35.277 km
+  - 35.294 km
   downers:
   - - '118'
     - Suan Selenati
   - - '130'
     - Oliver Salewski
   downward: 10
-  rel: 2.12857e-3
-  frac: 0.49755859
+  rel: 2.12947e-3
+  frac: 0.49682617
+- chunk: 353
+  startChunk: 35.3 km
+  endChunk: 35.4 km
+  endAhead: 49.1 km
+  down: 2
+  downs:
+  - 35.363 km
+  - 35.365 km
+  downers:
+  - - '104'
+    - Valentino Bau
+  - - '115'
+    - ERIC MATHURIN
+  downward: 8
+  rel: 1.70358e-3
+  frac: 0.49853516
 - chunk: 354
   startChunk: 35.4 km
   endChunk: 35.5 km
   endAhead: 49.2 km
   down: 5
   downs:
-  - 35.407 km
-  - 35.407 km
-  - 35.460 km
-  - 35.471 km
-  - 35.487 km
+  - 35.415 km
+  - 35.441 km
+  - 35.442 km
+  - 35.462 km
+  - 35.496 km
   downers:
-  - - '115'
-    - ERIC MATHURIN
-  - - '104'
-    - Valentino Bau
   - - '123'
     - Sasha Serebrennikova
-  - - '110'
-    - Tullio Gervasoni
   - - '113'
     - Marco Laurenzi
-  downward: 8
-  rel: 1.70285e-3
-  frac: 0.49926758
-- chunk: 355
-  startChunk: 35.5 km
-  endChunk: 35.6 km
-  endAhead: 49.3 km
-  down: 3
-  downs:
-  - 35.504 km
-  - 35.541 km
-  - 35.568 km
-  downers:
+  - - '110'
+    - Tullio Gervasoni
   - - '124'
     - Rousselet Simon
   - - '103'
     - Joerg Bajewski
+  downward: 6
+  rel: 1.27768e-3
+  frac: 0.49975586
+- chunk: 355
+  startChunk: 35.5 km
+  endChunk: 35.6 km
+  endAhead: 49.3 km
+  down: 1
+  downs:
+  - 35.523 km
+  downers:
   - - '108'
     - Jean louis FOGLIA
-  downward: 3
-  rel: 6.3857e-4
+  downward: 1
+  rel: 2.1295e-4
   frac: 0.5

@@ -7,71 +7,71 @@ arrivalRank:
     frac: 1
 - - - '134'
     - Roland Wöhrle
-  - lag: 0.449138 h
+  - lag: 0.449148 h
     rank: '2'
     frac: 0.86243022
 - - - '118'
     - Suan Selenati
-  - lag: 0.476435 h
+  - lag: 0.476461 h
     rank: '3'
     frac: 0.74177067
 - - - '119'
     - Christian Pollet
-  - lag: 0.483323 h
+  - lag: 0.483327 h
     rank: '4'
     frac: 0.636896
 - - - '106'
     - Lorenzo De Grandis
-  - lag: 0.498343 h
+  - lag: 0.498381 h
     rank: '5'
     frac: 0.54668089
 - - - '107'
     - Joost Eertman
-  - lag: 0.510556 h
+  - lag: 0.510594 h
     rank: '6'
     frac: 0.47
 - - - '130'
     - Oliver Salewski
-  - lag: 0.522337 h
+  - lag: 0.522381 h
     rank: '7'
     frac: 0.405728
 - - - '113'
     - Marco Laurenzi
-  - lag: 0.543803 h
+  - lag: 0.543855 h
     rank: '8'
     frac: 0.35273956
 - - - '110'
     - Tullio Gervasoni
-  - lag: 0.627618 h
+  - lag: 0.627653 h
     rank: '9'
     frac: 0.30990933
 - - - '103'
     - Joerg Bajewski
-  - lag: 0.687084 h
+  - lag: 0.687078 h
     rank: '10'
     frac: 0.276112
 - - - '123'
     - Sasha Serebrennikova
-  - lag: 0.693339 h
+  - lag: 0.693369 h
     rank: '11'
     frac: 0.25022222
 - - - '112'
     - Marco Gröbner
-  - lag: 0.693438 h
+  - lag: 0.693457 h
     rank: '12'
     frac: 0.23111467
 - - - '115'
     - ERIC MATHURIN
-  - lag: 1.058292 h
+  - lag: 1.058368 h
     rank: '13'
     frac: 0.217664
 - - - '104'
     - Valentino Bau
-  - lag: 1.188467 h
+  - lag: 1.188555 h
     rank: '14'
     frac: 0.20874489
 - - - '122'
     - Pieter Speeleveld
-  - lag: 1.486164 h
+  - lag: 1.486266 h
     rank: '15'
     frac: 0.203232

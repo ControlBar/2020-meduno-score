@@ -1,11 +1,11 @@
 bolster:
   max: 84.844713 km
-  mean: 65.873404 km
-  stdDev: 26.240796 km
+  mean: 65.852444 km
+  stdDev: 26.263739 km
 reach:
   max: 84.844713 km
-  mean: 65.730873 km
-  stdDev: 26.567830 km
+  mean: 65.706913 km
+  stdDev: 26.597407 km
 reachRank:
 - - - '105'
     - Christian Ciech
@@ -69,132 +69,132 @@ reachRank:
     reach: 84.844713 km
 - - - '126'
     - Andrea Theodoli
-  - frac: 0.90092488
-    reach: 76.438713 km
+  - frac: 0.90057129
+    reach: 76.408713 km
 - - - '131'
     - Jurgen Buchert
-  - frac: 0.60819008
-    reach: 51.601713 km
+  - frac: 0.60755363
+    reach: 51.547713 km
 - - - '102'
     - Walter Bacchi
-  - frac: 0.57781695
-    reach: 49.024713 km
+  - frac: 0.57718049
+    reach: 48.970713 km
 - - - '109'
     - Marcello Ciarlo
-  - frac: 0.55831072
-    reach: 47.369713 km
+  - frac: 0.55767427
+    reach: 47.315713 km
 - - - '129'
     - Stepan Zubashev
-  - frac: 0.55794535
-    reach: 47.338713 km
+  - frac: 0.55730889
+    reach: 47.284713 km
 - - - '133'
     - Johann Courtain
-  - frac: 0.28160521
-    reach: 23.892713 km
+  - frac: 0.28076838
+    reach: 23.821713 km
 - - - '132'
     - Emiel Jansen
-  - frac: 0.28127519
-    reach: 23.864713 km
+  - frac: 0.2804973
+    reach: 23.798713 km
 - - - '124'
     - Rousselet Simon
-  - frac: 0.28115733
-    reach: 23.854713 km
+  - frac: 0.28033229
+    reach: 23.784713 km
 - - - '114'
     - Konrad Lueders
-  - frac: 0.28026158
-    reach: 23.778713 km
+  - frac: 0.27942475
+    reach: 23.707713 km
 - - - '108'
     - Jean louis FOGLIA
-  - frac: 4.050592e-2
-    reach: 3.436713 km
+  - frac: 3.962195e-2
+    reach: 3.361713 km
 nigh:
 - - - '126'
     - Andrea Theodoli
   - togo:
-      distance: 8.406000 km
+      distance: 8.436000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 76.438713 km
+    made: 76.408713 km
 - - - '124'
     - Rousselet Simon
   - togo:
-      distance: 60.990000 km
+      distance: 61.060000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 23.854713 km
+    made: 23.784713 km
 - - - '133'
     - Johann Courtain
   - togo:
-      distance: 60.952000 km
+      distance: 61.023000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 23.892713 km
+    made: 23.821713 km
 - - - '132'
     - Emiel Jansen
   - togo:
-      distance: 60.980000 km
+      distance: 61.046000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 23.864713 km
+    made: 23.798713 km
 - - - '114'
     - Konrad Lueders
   - togo:
-      distance: 61.066000 km
+      distance: 61.137000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 23.778713 km
+    made: 23.707713 km
 - - - '102'
     - Walter Bacchi
   - togo:
-      distance: 35.820000 km
+      distance: 35.874000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 49.024713 km
+    made: 48.970713 km
 - - - '131'
     - Jurgen Buchert
   - togo:
-      distance: 33.243000 km
+      distance: 33.297000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 51.601713 km
+    made: 51.547713 km
 - - - '109'
     - Marcello Ciarlo
   - togo:
-      distance: 37.475000 km
+      distance: 37.529000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 47.369713 km
+    made: 47.315713 km
 - - - '129'
     - Stepan Zubashev
   - togo:
-      distance: 37.506000 km
+      distance: 37.560000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 47.338713 km
+    made: 47.284713 km
 - - - '108'
     - Jean louis FOGLIA
   - togo:
-      distance: 81.408000 km
+      distance: 81.483000 km
       flipSum: []
       legs: []
       legsSum: []
       waypoints: []
-    made: 3.436713 km
+    made: 3.361713 km
